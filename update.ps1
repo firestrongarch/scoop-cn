@@ -42,17 +42,25 @@ Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = Get-Content $_.FullName
 
     # GitHub Releases
-    $content = $content -replace '(https?://github\.com/.+/releases/.*download)', "$githubProxy/$1"
-
+    if ($content -match '(https?://github\.com/.+/releases/.*download)') {
+        $content = $content -replace $matches[1], "$githubProxy/$($matches[1])"
+    }
     # GitHub Archive
-    $content = $content -replace '(https?://github\.com/.+/archive/)', "$githubProxy/$1"
-
+    if ($content -match '(https?://github\.com/.+/archive/)') {
+        $content = $content -replace $matches[1], "$githubProxy/$($matches[1])"
+    }
     # GitHub Gists
-    $content = $content -replace '(https?://gist.github\.com/.+/)', "$githubProxy/$1"
+    if ($content -match '(https?://gist.github\.com/.+/)') {
+        $content = $content -replace $matches[1], "$githubProxy/$($matches[1])"
+    }
 
     # GitHub Raw
-    $content = $content -replace '(https?://raw\.githubusercontent\.com)', "$githubProxy/$1"
-    $content = $content -replace '(https?://github\.com/.+/raw/)', "$githubProxy/$1"         
+    if ($content -match '(https?://raw\.githubusercontent\.com)') {
+        $content = $content -replace $matches[1], "$githubProxy/$($matches[1])"
+    }
+    if ($content -match '(https?://github\.com/.+/raw/)') {
+        $content = $content -replace $matches[1], "$githubProxy/$($matches[1])"
+    }
 
     # DBeaver，not debaver-ea
     $content = $content -replace 'https?://dbeaver\.io/files/([\d\.]+)/', "$githubProxy/https://github.com/dbeaver/dbeaver/releases/download/$1/"
