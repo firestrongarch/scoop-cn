@@ -38,7 +38,7 @@ Remove-Item -Path .\scoop-sysinternals -Recurse -Force
 # 设置 GitHub 代理地址
 $githubProxy = "https://gh.llkk.cc"
 
-Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
+Get-ChildItem -Recurse -Path .\bucket | ForEach-Object {
     $content = Get-Content $_.FullName
 
     # GitHub Releases
