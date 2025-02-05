@@ -20,14 +20,14 @@ scoop config scoop_repo "$githubProxy/https://github.com/ScoopInstaller/Scoop"
 New-Item -ItemType Directory -Path "$scoopDir\buckets\scoop-cn\bucket", "$scoopDir\buckets\scoop-cn\scripts\7-zip", "$scoopDir\buckets\scoop-cn\scripts\git" | Out-Null
 
 Write-Host "Downloading manifests of 7zip and git from scoop-cn bucket..."
-Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/duzyn/scoop-cn/master/bucket/7zip.json"                             -OutFile "$scoopDir\buckets\scoop-cn\bucket\7zip.json"
-Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/duzyn/scoop-cn/master/scripts/7-zip/install-context.reg"            -OutFile "$scoopDir\buckets\scoop-cn\scripts\7-zip\install-context.reg"
-Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/duzyn/scoop-cn/master/scripts/7-zip/uninstall-context.reg"          -OutFile "$scoopDir\buckets\scoop-cn\scripts\7-zip\uninstall-context.reg"
-Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/duzyn/scoop-cn/master/bucket/git.json"                              -OutFile "$scoopDir\buckets\scoop-cn\bucket\git.json"
-Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/duzyn/scoop-cn/master/scripts/git/install-context.reg"              -OutFile "$scoopDir\buckets\scoop-cn\scripts\git\install-context.reg"
-Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/duzyn/scoop-cn/master/scripts/git/uninstall-context.reg"            -OutFile "$scoopDir\buckets\scoop-cn\scripts\git\uninstall-context.reg"
-Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/duzyn/scoop-cn/master/scripts/git/install-file-associations.reg"    -OutFile "$scoopDir\buckets\scoop-cn\scripts\git\install-file-associations.reg"
-Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/duzyn/scoop-cn/master/scripts/git/uninstall-file-associations.reg"  -OutFile "$scoopDir\buckets\scoop-cn\scripts\git\uninstall-file-associations.reg"
+Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/firestrongarch/scoop-cn/master/bucket/7zip.json"                             -OutFile "$scoopDir\buckets\scoop-cn\bucket\7zip.json"
+Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/firestrongarch/scoop-cn/master/scripts/7-zip/install-context.reg"            -OutFile "$scoopDir\buckets\scoop-cn\scripts\7-zip\install-context.reg"
+Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/firestrongarch/scoop-cn/master/scripts/7-zip/uninstall-context.reg"          -OutFile "$scoopDir\buckets\scoop-cn\scripts\7-zip\uninstall-context.reg"
+Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/firestrongarch/scoop-cn/master/bucket/git.json"                              -OutFile "$scoopDir\buckets\scoop-cn\bucket\git.json"
+Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/firestrongarch/scoop-cn/master/scripts/git/install-context.reg"              -OutFile "$scoopDir\buckets\scoop-cn\scripts\git\install-context.reg"
+Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/firestrongarch/scoop-cn/master/scripts/git/uninstall-context.reg"            -OutFile "$scoopDir\buckets\scoop-cn\scripts\git\uninstall-context.reg"
+Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/firestrongarch/scoop-cn/master/scripts/git/install-file-associations.reg"    -OutFile "$scoopDir\buckets\scoop-cn\scripts\git\install-file-associations.reg"
+Invoke-RestMethod -Uri "$githubProxy/https://raw.githubusercontent.com/firestrongarch/scoop-cn/master/scripts/git/uninstall-file-associations.reg"  -OutFile "$scoopDir\buckets\scoop-cn\scripts\git\uninstall-file-associations.reg"
 
 # 安装时注意顺序是 7zip, git
 scoop install scoop-cn/7zip
@@ -44,7 +44,7 @@ scoop bucket add main "$githubProxy/https://github.com/ScoopInstaller/Main"
 Write-Host "Coverting scoop-cn bucket to git repo..."
 if (Test-Path -Path "$scoopDir\buckets\scoop-cn") { scoop bucket rm scoop-cn }
 
-Write-Host "Adding scoop-cn bucket from $githubProxy/https://github.com/duzyn/scoop-cn..."
-scoop bucket add scoop-cn "$githubProxy/https://github.com/duzyn/scoop-cn"
+Write-Host "Adding scoop-cn bucket from $githubProxy/https://github.com/firestrongarch/scoop-cn..."
+scoop bucket add scoop-cn "$githubProxy/https://github.com/firestrongarch/scoop-cn"
 
 Write-Host "Scoop and scoop-cn was installed successfully!"
