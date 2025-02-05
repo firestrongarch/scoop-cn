@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc//1.15.0/Cryptomator-1.15.0-x64.msi",
+            "url": "https://gh.llkk.cc/https://github.com/cryptomator/cryptomator/releases/download/1.15.0/Cryptomator-1.15.0-x64.msi",
             "hash": "e8a13a68276236443fd161283d645e9c9ae20a04e434462849827e9cedac6340"
         }
     },
@@ -32,7 +32,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc//$version/Cryptomator-$version-x64.msi"
+                "url": "https://gh.llkk.cc/https://github.com/cryptomator/cryptomator/releases/download/$version/Cryptomator-$version-x64.msi"
             }
         },
         "hash": {

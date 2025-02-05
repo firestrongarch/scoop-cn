@@ -17,7 +17,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://gh.llkk.cc//MicrosoftDocs/sysinternals/main/sysinternals/downloads/accessenum.md",
+        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/accessenum.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

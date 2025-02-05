@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc//3.15.3/chipmunk@3.15.3-win64-portable.tgz",
+            "url": "https://gh.llkk.cc/https://github.com/esrlabs/chipmunk/releases/download/3.15.3/chipmunk@3.15.3-win64-portable.tgz",
             "hash": "62fb627ef6bffc86b9a02fe03bfc836ac26e8ccd6469c2e6eca561d590efe31e"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc//$version/chipmunk@$version-win64-portable.tgz"
+                "url": "https://gh.llkk.cc/https://github.com/esrlabs/chipmunk/releases/download/$version/chipmunk@$version-win64-portable.tgz"
             }
         }
     }

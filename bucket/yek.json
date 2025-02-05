@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc//v0.16.0/yek-x86_64-pc-windows-msvc.zip",
+            "url": "https://gh.llkk.cc/https://github.com/bodo-run/yek/releases/download/v0.16.0/yek-x86_64-pc-windows-msvc.zip",
             "hash": "dcb9382f47541b8d616d14689cc480244415af987c51f767135fac58ad02cf92",
             "extract_dir": "yek-x86_64-pc-windows-msvc"
         },
         "arm64": {
-            "url": "https://gh.llkk.cc//v0.16.0/yek-aarch64-pc-windows-msvc.zip",
+            "url": "https://gh.llkk.cc/https://github.com/bodo-run/yek/releases/download/v0.16.0/yek-aarch64-pc-windows-msvc.zip",
             "hash": "d37836f189fa4edb910428ac7cb532ec881b9df9a5356bf63aa19f4abcea6d27",
             "extract_dir": "yek-aarch64-pc-windows-msvc"
         }
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc//v$version/yek-x86_64-pc-windows-msvc.zip"
+                "url": "https://gh.llkk.cc/https://github.com/bodo-run/yek/releases/download/v$version/yek-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gh.llkk.cc//v$version/yek-aarch64-pc-windows-msvc.zip"
+                "url": "https://gh.llkk.cc/https://github.com/bodo-run/yek/releases/download/v$version/yek-aarch64-pc-windows-msvc.zip"
             }
         }
     }

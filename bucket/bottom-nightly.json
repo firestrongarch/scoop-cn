@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc//nightly/bottom_x86_64-pc-windows-msvc.zip",
+            "url": "https://gh.llkk.cc/https://github.com/ClementTsang/bottom/releases/download/nightly/bottom_x86_64-pc-windows-msvc.zip",
             "hash": "5061a0ce7532c9085eef57d5d565456612094766c8e32ba9843ce1be94c06df7"
         },
         "32bit": {
-            "url": "https://gh.llkk.cc//nightly/bottom_i686-pc-windows-msvc.zip",
+            "url": "https://gh.llkk.cc/https://github.com/ClementTsang/bottom/releases/download/nightly/bottom_i686-pc-windows-msvc.zip",
             "hash": "8a6ca91155e6f10d432d3f888c3cdbd9c6b7a133415f74d1e108882990ffdf6b"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc//nightly/bottom_x86_64-pc-windows-msvc.zip"
+                "url": "https://gh.llkk.cc/https://github.com/ClementTsang/bottom/releases/download/nightly/bottom_x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gh.llkk.cc//nightly/bottom_i686-pc-windows-msvc.zip"
+                "url": "https://gh.llkk.cc/https://github.com/ClementTsang/bottom/releases/download/nightly/bottom_i686-pc-windows-msvc.zip"
             }
         }
     }

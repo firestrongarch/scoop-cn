@@ -30,7 +30,7 @@
         }
     },
     "checkver": {
-        "url": "https://gh.llkk.cc//MicrosoftDocs/sysinternals/main/sysinternals/downloads/findlinks.md",
+        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/findlinks.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

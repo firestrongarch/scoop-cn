@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc//autobuild-2025-02-04-17-39/ffmpeg-n7.1-184-gdc07f98934-win64-gpl-7.1.zip",
+            "url": "https://gh.llkk.cc/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2025-02-04-17-39/ffmpeg-n7.1-184-gdc07f98934-win64-gpl-7.1.zip",
             "hash": "9b9e7d495dae6820833e1744ba430d568de78d807f27a0f921d4fb0c8a7919b8",
             "extract_dir": "ffmpeg-n7.1-184-gdc07f98934-win64-gpl-7.1"
         },
         "32bit": {
-            "url": "https://gh.llkk.cc//autobuild-2025-02-04-17-39/ffmpeg-n7.1-184-gdc07f98934-win32-gpl-7.1.zip",
+            "url": "https://gh.llkk.cc/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2025-02-04-17-39/ffmpeg-n7.1-184-gdc07f98934-win32-gpl-7.1.zip",
             "hash": "90473071eb527c8dd574bfa627474dae55ec11a1988463bb4dbb800f6a3f53fa",
             "extract_dir": "ffmpeg-n7.1-184-gdc07f98934-win32-gpl-7.1"
         }
@@ -47,11 +47,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc//autobuild-$matchBuildtime/$matchFilename64bit.zip",
+                "url": "https://gh.llkk.cc/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename64bit.zip",
                 "extract_dir": "$matchFilename64bit"
             },
             "32bit": {
-                "url": "https://gh.llkk.cc//autobuild-$matchBuildtime/$matchFilename32bit.zip",
+                "url": "https://gh.llkk.cc/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename32bit.zip",
                 "extract_dir": "$matchFilename32bit"
             }
         }

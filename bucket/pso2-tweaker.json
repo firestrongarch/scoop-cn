@@ -5,7 +5,7 @@
     "license": {
         "identifier": "Unknown"
     },
-    "url": "https://gh.llkk.cc/master/6.2.1.6/PSO2%20Tweaker.exe",
+    "url": "https://gh.llkk.cc/https://github.com/Aida-Enna/PSO2TweakerReleases/raw/master/6.2.1.6/PSO2%20Tweaker.exe",
     "hash": "f89e12e32f584c5753d04540baf756a1479a64333300780ccf69ddb8b8bf0c7d",
     "checkver": {
         "url": "https://arks-layer.com/vanila/changelog.html",
@@ -13,7 +13,7 @@
         "replace": "${version}"
     },
     "autoupdate": {
-        "url": "https://gh.llkk.cc/master/$matchVersion/PSO2%20Tweaker.exe"
+        "url": "https://gh.llkk.cc/https://github.com/Aida-Enna/PSO2TweakerReleases/raw/master/$matchVersion/PSO2%20Tweaker.exe"
     },
     "bin": "PSO2 Tweaker.exe",
     "shortcuts": [

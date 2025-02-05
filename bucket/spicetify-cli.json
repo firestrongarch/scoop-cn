@@ -9,11 +9,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc//v2.38.9/spicetify-2.38.9-windows-x64.zip",
+            "url": "https://gh.llkk.cc/https://github.com/spicetify/cli/releases/download/v2.38.9/spicetify-2.38.9-windows-x64.zip",
             "hash": "cdf2de6a4c6347f5ac882d0a1f323549cc32b8baba27061b367b0cc4ce59c7ea"
         },
         "32bit": {
-            "url": "https://gh.llkk.cc//v2.38.9/spicetify-2.38.9-windows-x32.zip",
+            "url": "https://gh.llkk.cc/https://github.com/spicetify/cli/releases/download/v2.38.9/spicetify-2.38.9-windows-x32.zip",
             "hash": "a8b6343f310d36e03dfbb14fdae3e35212b7b704382b67d23b40854dd618732f"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc//v$version/spicetify-$version-windows-x64.zip"
+                "url": "https://gh.llkk.cc/https://github.com/spicetify/cli/releases/download/v$version/spicetify-$version-windows-x64.zip"
             },
             "32bit": {
-                "url": "https://gh.llkk.cc//v$version/spicetify-$version-windows-x32.zip"
+                "url": "https://gh.llkk.cc/https://github.com/spicetify/cli/releases/download/v$version/spicetify-$version-windows-x32.zip"
             }
         }
     }

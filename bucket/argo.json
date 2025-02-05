@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc//v3.5.14/argo-windows-amd64.exe.gz",
+            "url": "https://gh.llkk.cc/https://github.com/argoproj/argo-workflows/releases/download/v3.5.14/argo-windows-amd64.exe.gz",
             "hash": "812fa2bb474625c78056ec8c3f3a66ca9d4830033c75f7b3ec4f3b2980720747"
         }
     },
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc//v$version/argo-windows-amd64.exe.gz"
+                "url": "https://gh.llkk.cc/https://github.com/argoproj/argo-workflows/releases/download/v$version/argo-windows-amd64.exe.gz"
             }
         },
         "hash": {
