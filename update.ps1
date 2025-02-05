@@ -38,34 +38,21 @@ Remove-Item -Path .\scoop-sysinternals -Recurse -Force
 # 设置 GitHub 代理地址
 $githubProxy = "https://gh.llkk.cc"
 
-Get-ChildItem -Recurse -Path .\bucket | ForEach-Object {
+Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = Get-Content $_.FullName
 
     # GitHub Releases
-    if ($content -match '(https?://github\.com/.+/releases/.*download)') {
-        $match = $matches[1]
-        $content = $content -replace $match, "$githubProxy/$match"
-    }
+    $content = $content -replace '(https?://github\.com/.+/releases/.*download)', 'https://gh.llkk.cc/$1'
+
     # GitHub Archive
-    if ($content -match '(https?://github\.com/.+/archive/)') {
-        $match = $matches[1]
-        $content = $content -replace $match, "$githubProxy/$match"
-    }
+    $content = $content -replace '(https?://github\.com/.+/archive/)', 'https://gh.llkk.cc/$1'
+
     # GitHub Gists
-    if ($content -match '(https?://gist.github\.com/.+/)') {
-        $match = $matches[1]
-        $content = $content -replace $match, "$githubProxy/$match"
-    }
+    $content = $content -replace '(https?://gist.github\.com/.+/)', 'https://gh.llkk.cc/$1'
 
     # GitHub Raw
-    if ($content -match '(https?://raw\.githubusercontent\.com)') {
-        $match = $matches[1]
-        $content = $content -replace $match, "$githubProxy/$match"
-    }
-    if ($content -match '(https?://github\.com/.+/raw/)') {
-        $match = $matches[1]
-        $content = $content -replace $match, "$githubProxy/$match"
-    }
+    $content = $content -replace '(https?://raw\.githubusercontent\.com)', 'https://gh.llkk.cc/$1'
+    $content = $content -replace '(https?://github\.com/.+/raw/)', 'https://gh.llkk.cc/$1'   
 
     # DBeaver，not debaver-ea
     $content = $content -replace 'https?://dbeaver\.io/files/([\d\.]+)/', "$githubProxy/https://github.com/dbeaver/dbeaver/releases/download/$1/"
