@@ -43,23 +43,28 @@ Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
 
     # GitHub Releases
     if ($content -match '(https?://github\.com/.+/releases/.*download)') {
-        $content = $content -replace $matches[1], "$githubProxy/$($matches[1])"
+        $match = $matches[1]
+        $content = $content -replace $match, "$githubProxy/$match"
     }
     # GitHub Archive
     if ($content -match '(https?://github\.com/.+/archive/)') {
-        $content = $content -replace $matches[1], "$githubProxy/$($matches[1])"
+        $match = $matches[1]
+        $content = $content -replace $match, "$githubProxy/$match"
     }
     # GitHub Gists
     if ($content -match '(https?://gist.github\.com/.+/)') {
-        $content = $content -replace $matches[1], "$githubProxy/$($matches[1])"
+        $match = $matches[1]
+        $content = $content -replace $match, "$githubProxy/$match"
     }
 
     # GitHub Raw
     if ($content -match '(https?://raw\.githubusercontent\.com)') {
-        $content = $content -replace $matches[1], "$githubProxy/$($matches[1])"
+        $match = $matches[1]
+        $content = $content -replace $match, "$githubProxy/$match"
     }
     if ($content -match '(https?://github\.com/.+/raw/)') {
-        $content = $content -replace $matches[1], "$githubProxy/$($matches[1])"
+        $match = $matches[1]
+        $content = $content -replace $match, "$githubProxy/$match"
     }
 
     # DBeaver，not debaver-ea
