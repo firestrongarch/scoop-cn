@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/cloudflare/cloudflared/releases/download/2025.1.1/cloudflared-windows-amd64.exe#/cloudflared.exe",
+            "url": "$githubProxy/https://github.com/cloudflare/cloudflared/releases/download/2025.1.1/cloudflared-windows-amd64.exe#/cloudflared.exe",
             "hash": "894330fcd32f0aaacd96407922f0f6329a1d4496dcbcb97019042d369f2a8136"
         },
         "32bit": {
-            "url": "https://ghproxy.cc/https://github.com/cloudflare/cloudflared/releases/download/2025.1.1/cloudflared-windows-386.exe#/cloudflared.exe",
+            "url": "$githubProxy/https://github.com/cloudflare/cloudflared/releases/download/2025.1.1/cloudflared-windows-386.exe#/cloudflared.exe",
             "hash": "b08fe7f4c27b82ec69d302d87e0c9a372c68b8a3f589122724ffe4b0d137e711"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/cloudflare/cloudflared/releases/download/$version/cloudflared-windows-amd64.exe#/cloudflared.exe"
+                "url": "$githubProxy/https://github.com/cloudflare/cloudflared/releases/download/$version/cloudflared-windows-amd64.exe#/cloudflared.exe"
             },
             "32bit": {
-                "url": "https://ghproxy.cc/https://github.com/cloudflare/cloudflared/releases/download/$version/cloudflared-windows-386.exe#/cloudflared.exe"
+                "url": "$githubProxy/https://github.com/cloudflare/cloudflared/releases/download/$version/cloudflared-windows-386.exe#/cloudflared.exe"
             }
         }
     }

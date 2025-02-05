@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://ghproxy.cc/https://github.com/Aetopia/Stonecutter/releases/download/v1.8.2.1/Stonecutter.zip",
+            "url": "$githubProxy/https://github.com/Aetopia/Stonecutter/releases/download/v1.8.2.1/Stonecutter.zip",
             "hash": "965098b316217df3d4ee9bb5019e0ecb34d0084427a38af6d4b85a97aaef176d"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://ghproxy.cc/https://github.com/Aetopia/Stonecutter/releases/download/v$version/Stonecutter.zip"
+                "url": "$githubProxy/https://github.com/Aetopia/Stonecutter/releases/download/v$version/Stonecutter.zip"
             }
         }
     }

@@ -9,9 +9,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://ghproxy.cc/https://github.com/bazelbuild/buildtools/releases/download/v8.0.2/buildifier-windows-amd64.exe#/buildifier.exe",
-                "https://ghproxy.cc/https://github.com/bazelbuild/buildtools/releases/download/v8.0.2/buildozer-windows-amd64.exe#/buildozer.exe",
-                "https://ghproxy.cc/https://github.com/bazelbuild/buildtools/releases/download/v8.0.2/unused_deps-windows-amd64.exe#/unused_deps.exe"
+                "$githubProxy/https://github.com/bazelbuild/buildtools/releases/download/v8.0.2/buildifier-windows-amd64.exe#/buildifier.exe",
+                "$githubProxy/https://github.com/bazelbuild/buildtools/releases/download/v8.0.2/buildozer-windows-amd64.exe#/buildozer.exe",
+                "$githubProxy/https://github.com/bazelbuild/buildtools/releases/download/v8.0.2/unused_deps-windows-amd64.exe#/unused_deps.exe"
             ],
             "hash": [
                 "577a56a8929ee17d663087202dd9f96ffc542aadb8730e98562d98b37b09a79b",
@@ -30,9 +30,9 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://ghproxy.cc/https://github.com/bazelbuild/buildtools/releases/download/v$version/buildifier-windows-amd64.exe#/buildifier.exe",
-                    "https://ghproxy.cc/https://github.com/bazelbuild/buildtools/releases/download/v$version/buildozer-windows-amd64.exe#/buildozer.exe",
-                    "https://ghproxy.cc/https://github.com/bazelbuild/buildtools/releases/download/v$version/unused_deps-windows-amd64.exe#/unused_deps.exe"
+                    "$githubProxy/https://github.com/bazelbuild/buildtools/releases/download/v$version/buildifier-windows-amd64.exe#/buildifier.exe",
+                    "$githubProxy/https://github.com/bazelbuild/buildtools/releases/download/v$version/buildozer-windows-amd64.exe#/buildozer.exe",
+                    "$githubProxy/https://github.com/bazelbuild/buildtools/releases/download/v$version/unused_deps-windows-amd64.exe#/unused_deps.exe"
                 ]
             }
         }
