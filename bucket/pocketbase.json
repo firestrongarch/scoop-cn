@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "$githubProxy/https://github.com/pocketbase/pocketbase/releases/download/v0.25.0/pocketbase_0.25.0_windows_amd64.zip",
+            "url": "https://gh.llkk.cc//v0.25.0/pocketbase_0.25.0_windows_amd64.zip",
             "hash": "8cd5d31ed26d1c18000f907cf48ccb721a1ef95b8aef71bec48902d2a5a14a74"
         },
         "arm64": {
-            "url": "$githubProxy/https://github.com/pocketbase/pocketbase/releases/download/v0.25.0/pocketbase_0.25.0_windows_arm64.zip",
+            "url": "https://gh.llkk.cc//v0.25.0/pocketbase_0.25.0_windows_arm64.zip",
             "hash": "c46911d9bae71c3f1306437130b64577bad6c1db83b2f49cb2ae74e689cbb584"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "$githubProxy/https://github.com/pocketbase/pocketbase/releases/download/v$version/pocketbase_$version_windows_amd64.zip"
+                "url": "https://gh.llkk.cc//v$version/pocketbase_$version_windows_amd64.zip"
             },
             "arm64": {
-                "url": "$githubProxy/https://github.com/pocketbase/pocketbase/releases/download/v$version/pocketbase_$version_windows_arm64.zip"
+                "url": "https://gh.llkk.cc//v$version/pocketbase_$version_windows_arm64.zip"
             }
         },
         "hash": {

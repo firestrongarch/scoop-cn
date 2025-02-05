@@ -5,11 +5,11 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "$githubProxy/https://github.com/hasherezade/pe-sieve/releases/download/v0.4.0.1/pe-sieve64.exe#/pe-sieve.exe",
+            "url": "https://gh.llkk.cc//v0.4.0.1/pe-sieve64.exe#/pe-sieve.exe",
             "hash": "3d2e47df448bf4a940369ff9a35b74b54bdcc16e0d2027717b9f223cdb106c17"
         },
         "32bit": {
-            "url": "$githubProxy/https://github.com/hasherezade/pe-sieve/releases/download/v0.4.0.1/pe-sieve32.exe#/pe-sieve.exe",
+            "url": "https://gh.llkk.cc//v0.4.0.1/pe-sieve32.exe#/pe-sieve.exe",
             "hash": "89ecd6881d56bbf058de0cca35457113e035e549063a491cdf135cd481635eec"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "$githubProxy/https://github.com/hasherezade/pe-sieve/releases/download/v$version/pe-sieve64.exe#/pe-sieve.exe"
+                "url": "https://gh.llkk.cc//v$version/pe-sieve64.exe#/pe-sieve.exe"
             },
             "32bit": {
-                "url": "$githubProxy/https://github.com/hasherezade/pe-sieve/releases/download/v$version/pe-sieve32.exe#/pe-sieve.exe"
+                "url": "https://gh.llkk.cc//v$version/pe-sieve32.exe#/pe-sieve.exe"
             }
         }
     }

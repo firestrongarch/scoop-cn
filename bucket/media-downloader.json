@@ -5,12 +5,12 @@
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "$githubProxy/https://github.com/mhogomchungu/media-downloader/releases/download/5.2.1/MediaDownloaderQt6-5.2.1.zip",
+            "url": "https://gh.llkk.cc/erQt6-5.2.1.zip",
             "hash": "4aec9c124a0099c4c039377cabcf9eab6e61b8edf527a914db0e66ed1b0b93b2",
             "extract_dir": "MediaDownloaderQt6-5.2.1"
         },
         "32bit": {
-            "url": "$githubProxy/https://github.com/mhogomchungu/media-downloader/releases/download/5.2.1/MediaDownloaderQt5-5.2.1.zip",
+            "url": "https://gh.llkk.cc/erQt5-5.2.1.zip",
             "hash": "c6abd13bc23a155136f5a58fb54ec30747c1bfe7098671e5ec39208fced71c23",
             "extract_dir": "MediaDownloaderQt5-5.2.1"
         }
@@ -26,11 +26,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "$githubProxy/https://github.com/mhogomchungu/media-downloader/releases/download/$version/MediaDownloaderQt6-$version.zip",
+                "url": "https://gh.llkk.cc/erQt6-$version.zip",
                 "extract_dir": "MediaDownloaderQt6-$version"
             },
             "32bit": {
-                "url": "$githubProxy/https://github.com/mhogomchungu/media-downloader/releases/download/$version/MediaDownloaderQt5-$version.zip",
+                "url": "https://gh.llkk.cc/erQt5-$version.zip",
                 "extract_dir": "MediaDownloaderQt5-$version"
             }
         }
