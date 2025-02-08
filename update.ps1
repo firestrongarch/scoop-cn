@@ -36,7 +36,7 @@ Remove-Item -Path .\scoop-games        -Recurse -Force
 Remove-Item -Path .\scoop-sysinternals -Recurse -Force
 
 # 设置 GitHub 代理地址
-$githubProxy = "https://gh.llkk.cc"
+$githubProxy = "https://github.whrstudio.top"
 
 Get-ChildItem -Recurse -Path .\bucket | ForEach-Object -Process {
     $content = Get-Content $_.FullName
