@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gh.llkk.cc/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2025-02-07-15-28/ffmpeg-N-118443-gf00a08c0ce-win64-gpl-shared.zip",
+            "url": "https://github.whrstudio.top/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2025-02-07-15-28/ffmpeg-N-118443-gf00a08c0ce-win64-gpl-shared.zip",
             "hash": "285b54f47d23723b9d2e4754aed0603f1a10e8fc27ae241caedabcb87e240ab7",
             "extract_dir": "ffmpeg-N-118443-gf00a08c0ce-win64-gpl-shared"
         }
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh.llkk.cc/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchTime/ffmpeg-N-$version-g$matchHash-win64-gpl-shared.zip",
+                "url": "https://github.whrstudio.top/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchTime/ffmpeg-N-$version-g$matchHash-win64-gpl-shared.zip",
                 "extract_dir": "ffmpeg-N-$version-g$matchHash-win64-gpl-shared"
             }
         }

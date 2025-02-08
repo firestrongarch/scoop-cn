@@ -17,7 +17,7 @@
         ]
     ],
     "checkver": {
-        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/shellrunas.md",
+        "url": "https://github.whrstudio.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/shellrunas.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

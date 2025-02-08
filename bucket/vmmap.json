@@ -51,7 +51,7 @@
         }
     },
     "checkver": {
-        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/vmmap.md",
+        "url": "https://github.whrstudio.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/vmmap.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

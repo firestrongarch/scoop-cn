@@ -132,7 +132,7 @@
         }
     },
     "checkver": {
-        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/index.md",
+        "url": "https://github.whrstudio.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/index.md",
         "regex": "(?s)PsTools.*?v([\\d.]+)"
     },
     "autoupdate": {

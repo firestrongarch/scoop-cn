@@ -22,7 +22,7 @@
         }
     },
     "checkver": {
-        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/ntfsinfo.md",
+        "url": "https://github.whrstudio.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/ntfsinfo.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

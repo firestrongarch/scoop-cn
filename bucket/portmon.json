@@ -30,7 +30,7 @@
         }
     },
     "checkver": {
-        "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/portmon.md",
+        "url": "https://github.whrstudio.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/portmon.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {
