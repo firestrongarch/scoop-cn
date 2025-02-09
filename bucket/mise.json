@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/jdx/mise/releases/download/v2025.2.2/mise-v2025.2.2-windows-x64.zip",
+            "url": "https://gh-proxy.com/https://github.com/jdx/mise/releases/download/v2025.2.2/mise-v2025.2.2-windows-x64.zip",
             "hash": "a937f6f7d6b095fc4689135546778cf1ad6faf75d9f7efcd163d43720ab40c8e"
         },
         "arm64": {
-            "url": "https://github.whrstudio.top/https://github.com/jdx/mise/releases/download/v2025.2.2/mise-v2025.2.2-windows-arm64.zip",
+            "url": "https://gh-proxy.com/https://github.com/jdx/mise/releases/download/v2025.2.2/mise-v2025.2.2-windows-arm64.zip",
             "hash": "76c617fede26f8454bf69c7e39810334cdfdc6cf49728dbc7e89d909e8e4b44d"
         }
     },
@@ -36,10 +36,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-x64.zip"
+                "url": "https://gh-proxy.com/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://github.whrstudio.top/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-arm64.zip"
+                "url": "https://gh-proxy.com/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-arm64.zip"
             }
         },
         "hash": {
