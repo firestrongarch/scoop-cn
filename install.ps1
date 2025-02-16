@@ -19,6 +19,7 @@ $global:ProgressPreference = 'SilentlyContinue'
 # 将 Scoop 的仓库源替换为代理的
 scoop config scoop_repo "$githubProxy/https://github.com/ScoopInstaller/Scoop"
 
+Write-Host "scoopDir: $scoopDir"
 # 目前没有安装 Git，所以先下载几个必需的软件的 JSON，组成一个临时的应用仓库
 New-Item -ItemType Directory -Path "$scoopDir\buckets\scoop-cn\bucket", "$scoopDir\buckets\scoop-cn\scripts\7-zip", "$scoopDir\buckets\scoop-cn\scripts\git" | Out-Null
 
