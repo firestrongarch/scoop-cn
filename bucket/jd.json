@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/josephburnett/jd/releases/download/v2.1.0/jd-amd64-windows.exe#/jd.exe",
+            "url": "https://github.whrstudio.top/https://github.com/josephburnett/jd/releases/download/v2.1.0/jd-amd64-windows.exe#/jd.exe",
             "hash": "7af75e475b4f1c052b9753d9c7027b8e443d823af0ad5d4ae0d950e8721269f9"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/josephburnett/jd/releases/download/v2.1.0/jd-arm64-windows.exe#/jd.exe",
+            "url": "https://github.whrstudio.top/https://github.com/josephburnett/jd/releases/download/v2.1.0/jd-arm64-windows.exe#/jd.exe",
             "hash": "c77cad218f219a3a7b074895c150e63e2793ff5a118a455ff201edfd0f1eba93"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/josephburnett/jd/releases/download/v$version/jd-amd64-windows.exe#/jd.exe"
+                "url": "https://github.whrstudio.top/https://github.com/josephburnett/jd/releases/download/v$version/jd-amd64-windows.exe#/jd.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/josephburnett/jd/releases/download/v$version/jd-arm64-windows.exe#/jd.exe"
+                "url": "https://github.whrstudio.top/https://github.com/josephburnett/jd/releases/download/v$version/jd-arm64-windows.exe#/jd.exe"
             }
         }
     }

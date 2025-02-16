@@ -1,5 +1,5 @@
 {
-    "version": "20250215.2",
+    "version": "20250216.0",
     "homepage": "https://www.swift.org/",
     "description": "A general-purpose programming language built using a modern approach to safety, performance, and software design patterns.",
     "license": "Apache-2.0",
@@ -13,12 +13,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gh-proxy.com/https://github.com/thebrowsercompany/swift-build/releases/download/20250215.2/installer-amd64.exe#/swiftsetup.exe",
-            "hash": "2db6bab41bd29300bd27608cfdea13c593ff8dd59aa5840b06aeaec6a0b6ef1c"
+            "url": "https://github.whrstudio.top/https://github.com/thebrowsercompany/swift-build/releases/download/20250216.0/installer-amd64.exe#/swiftsetup.exe",
+            "hash": "d0a56978c7358551cc0533a5b4871c6f3a41967293dff0672e7a4106d39a6f4f"
         },
         "arm64": {
-            "url": "https://gh-proxy.com/https://github.com/thebrowsercompany/swift-build/releases/download/20250215.2/installer-arm64.exe#/swiftsetup.exe",
-            "hash": "c36387acae64645ce89e8505bd8d2f60e4edc074460dd30ae35fd49718808661"
+            "url": "https://github.whrstudio.top/https://github.com/thebrowsercompany/swift-build/releases/download/20250216.0/installer-arm64.exe#/swiftsetup.exe",
+            "hash": "03b90525baaf4c93fc2e30e8f227332b2fad5658b27f3962088c1fbf76c73b8d"
         }
     },
     "pre_install": [
@@ -57,10 +57,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gh-proxy.com/https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-amd64.exe#/swiftsetup.exe"
+                "url": "https://github.whrstudio.top/https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-amd64.exe#/swiftsetup.exe"
             },
             "arm64": {
-                "url": "https://gh-proxy.com/https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-arm64.exe#/swiftsetup.exe"
+                "url": "https://github.whrstudio.top/https://github.com/thebrowsercompany/swift-build/releases/download/$version/installer-arm64.exe#/swiftsetup.exe"
             }
         }
     }
