@@ -8,7 +8,8 @@ Write-Host "HOME: $HOME"
 Write-Host "scoopDir: $scoopDir"
 
 # 设置 GitHub 代理地址
-$githubProxy = "https://github.whrstudio.top"
+# $githubProxy = "https://github.whrstudio.top"
+. .\ghproxy.ps1
 
 # 隐藏进度条
 $global:ProgressPreference = 'SilentlyContinue'
