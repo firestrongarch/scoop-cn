@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/OwO-Network/DeepLX/releases/download/v1.0.6/deeplx_windows_amd64.exe#/deeplx.exe",
+            "url": "https://github.7boe.top/https://github.com/OwO-Network/DeepLX/releases/download/v1.0.6/deeplx_windows_amd64.exe#/deeplx.exe",
             "hash": "cb2aeff1c057c9677720653b24ca165d8cb9c3966560a18ab8fdc6445946b785"
         },
         "32bit": {
-            "url": "https://github.whrstudio.top/https://github.com/OwO-Network/DeepLX/releases/download/v1.0.6/deeplx_windows_386.exe#/deeplx.exe",
+            "url": "https://github.7boe.top/https://github.com/OwO-Network/DeepLX/releases/download/v1.0.6/deeplx_windows_386.exe#/deeplx.exe",
             "hash": "fc808d2b93f10a7861dd347f23e6ccba57d85686e515effbce63d0431881da97"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/OwO-Network/DeepLX/releases/download/v$version/deeplx_windows_amd64.exe#/deeplx.exe"
+                "url": "https://github.7boe.top/https://github.com/OwO-Network/DeepLX/releases/download/v$version/deeplx_windows_amd64.exe#/deeplx.exe"
             },
             "32bit": {
-                "url": "https://github.whrstudio.top/https://github.com/OwO-Network/DeepLX/releases/download/v$version/deeplx_windows_386.exe#/deeplx.exe"
+                "url": "https://github.7boe.top/https://github.com/OwO-Network/DeepLX/releases/download/v$version/deeplx_windows_386.exe#/deeplx.exe"
             }
         }
     }

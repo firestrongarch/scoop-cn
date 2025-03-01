@@ -5,7 +5,7 @@
     "license": "BSL-1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/geode-sdk/cli/releases/download/v3.5.0/geode-cli-v3.5.0-win.zip",
+            "url": "https://github.7boe.top/https://github.com/geode-sdk/cli/releases/download/v3.5.0/geode-cli-v3.5.0-win.zip",
             "hash": "cc2f8d2e7f8552c0c115b59743e1b6aaddaece02d593dd6085cbf949fb555c10"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/geode-sdk/cli/releases/download/v$version/geode-cli-v$version-win.zip"
+                "url": "https://github.7boe.top/https://github.com/geode-sdk/cli/releases/download/v$version/geode-cli-v$version-win.zip"
             }
         }
     }

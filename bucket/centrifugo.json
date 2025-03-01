@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/centrifugal/centrifugo/releases/download/v6.0.3/centrifugo_6.0.3_windows_amd64.zip",
+            "url": "https://github.7boe.top/https://github.com/centrifugal/centrifugo/releases/download/v6.0.3/centrifugo_6.0.3_windows_amd64.zip",
             "hash": "3da2335ea3f9832c21adb4c01e9f3c708dc6f1aea8de70511fba86c9ed624125"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/centrifugal/centrifugo/releases/download/v$version/centrifugo_$version_windows_amd64.zip"
+                "url": "https://github.7boe.top/https://github.com/centrifugal/centrifugo/releases/download/v$version/centrifugo_$version_windows_amd64.zip"
             }
         },
         "hash": {

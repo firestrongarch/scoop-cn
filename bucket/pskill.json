@@ -30,7 +30,7 @@
         }
     },
     "checkver": {
-        "url": "https://github.whrstudio.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/pskill.md",
+        "url": "https://github.7boe.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/pskill.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/electerm/electerm/releases/download/v1.70.6/electerm-1.70.6-win-x64.tar.gz",
+            "url": "https://github.7boe.top/https://github.com/electerm/electerm/releases/download/v1.70.6/electerm-1.70.6-win-x64.tar.gz",
             "hash": "51dbf3e4f6673b114967afeac48413b1757030be6343fe61e61863433c9ea6ec",
             "extract_dir": "electerm-1.70.6-win-x64"
         }
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/electerm/electerm/releases/download/v$version/electerm-$version-win-x64.tar.gz",
+                "url": "https://github.7boe.top/https://github.com/electerm/electerm/releases/download/v$version/electerm-$version-win-x64.tar.gz",
                 "extract_dir": "electerm-$version-win-x64"
             }
         }

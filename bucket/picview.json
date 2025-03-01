@@ -5,12 +5,12 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/Ruben2776/PicView/releases/download/3.0.3/PicView-v3.0.3-win-x64.zip",
+            "url": "https://github.7boe.top/https://github.com/Ruben2776/PicView/releases/download/3.0.3/PicView-v3.0.3-win-x64.zip",
             "hash": "933eb2d7c450f47d08dfca2a3813087f196aa5b2ef9e94b4f92a8c22fcb7b2d8",
             "extract_dir": "PicView-v3.0.3-win-x64"
         },
         "arm64": {
-            "url": "https://github.whrstudio.top/https://github.com/Ruben2776/PicView/releases/download/3.0.3/PicView-v3.0.3-win-arm64.zip",
+            "url": "https://github.7boe.top/https://github.com/Ruben2776/PicView/releases/download/3.0.3/PicView-v3.0.3-win-arm64.zip",
             "hash": "a1ff30ba30d013c2887cca36ae7ad3aad3f678bbd9337f2bacec114c8499a48a",
             "extract_dir": "PicView-v3.0.3-win-arm64"
         }
@@ -28,11 +28,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/Ruben2776/PicView/releases/download/$version/PicView-v$version-win-x64.zip",
+                "url": "https://github.7boe.top/https://github.com/Ruben2776/PicView/releases/download/$version/PicView-v$version-win-x64.zip",
                 "extract_dir": "PicView-v$version-win-x64"
             },
             "arm64": {
-                "url": "https://github.whrstudio.top/https://github.com/Ruben2776/PicView/releases/download/$version/PicView-v$version-win-arm64.zip",
+                "url": "https://github.7boe.top/https://github.com/Ruben2776/PicView/releases/download/$version/PicView-v$version-win-arm64.zip",
                 "extract_dir": "PicView-v$version-win-arm64"
             }
         }

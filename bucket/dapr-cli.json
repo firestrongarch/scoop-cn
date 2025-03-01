@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/dapr/cli/releases/download/v1.15.0/dapr_windows_amd64.zip",
+            "url": "https://github.7boe.top/https://github.com/dapr/cli/releases/download/v1.15.0/dapr_windows_amd64.zip",
             "hash": "f381863ace51d4a792bda59669c99149f482e30ca2444441813050e159cd34e5"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/dapr/cli/releases/download/v$version/dapr_windows_amd64.zip"
+                "url": "https://github.7boe.top/https://github.com/dapr/cli/releases/download/v$version/dapr_windows_amd64.zip"
             }
         },
         "hash": {

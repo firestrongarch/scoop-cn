@@ -22,7 +22,7 @@
         "Now you've a complete edition to copy to the Source dir of Jazz² Resurrection!",
         ""
     ],
-    "url": "https://github.whrstudio.top/https://github.com/deathkiller/jazz2/releases/download/3.2.0/Jazz2_3.2.0_Windows.zip",
+    "url": "https://github.7boe.top/https://github.com/deathkiller/jazz2/releases/download/3.2.0/Jazz2_3.2.0_Windows.zip",
     "hash": "cb3d131521b414d7d07e8caddd62d833a40f010bd9c2a1342fd680cf0ec4e88e",
     "architecture": {
         "64bit": {
@@ -59,6 +59,6 @@
         "github": "https://github.com/deathkiller/jazz2"
     },
     "autoupdate": {
-        "url": "https://github.whrstudio.top/https://github.com/deathkiller/jazz2/releases/download/$version/Jazz2_$version_Windows.zip"
+        "url": "https://github.7boe.top/https://github.com/deathkiller/jazz2/releases/download/$version/Jazz2_$version_Windows.zip"
     }
 }

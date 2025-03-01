@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.0/kicad-9.0.0-x86_64.exe#/dl.7z",
+            "url": "https://github.7boe.top/https://github.com/KiCad/kicad-source-mirror/releases/download/9.0.0/kicad-9.0.0-x86_64.exe#/dl.7z",
             "hash": "cf935757fbbc09a2b7c572c8c34f5c1ead8279d63b984f8a928b202355f2c11b"
         }
     },
@@ -51,7 +51,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/KiCad/kicad-source-mirror/releases/download/$version/kicad-$version-x86_64.exe#/dl.7z"
+                "url": "https://github.7boe.top/https://github.com/KiCad/kicad-source-mirror/releases/download/$version/kicad-$version-x86_64.exe#/dl.7z"
             }
         }
     }

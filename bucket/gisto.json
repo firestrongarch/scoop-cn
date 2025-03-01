@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/Gisto/Gisto/releases/download/v2.0.6/Gisto_2.0.6_x64_en-US.msi",
+            "url": "https://github.7boe.top/https://github.com/Gisto/Gisto/releases/download/v2.0.6/Gisto_2.0.6_x64_en-US.msi",
             "hash": "156757d4da72f2ed31d49bc6e9cda90b5538487451faf25c4ccfdc10dbbdaec7"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/Gisto/Gisto/releases/download/v$version/Gisto_$version_x64_en-US.msi"
+                "url": "https://github.7boe.top/https://github.com/Gisto/Gisto/releases/download/v$version/Gisto_$version_x64_en-US.msi"
             }
         }
     }

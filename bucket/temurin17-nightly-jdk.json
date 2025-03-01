@@ -5,11 +5,11 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15+3-ea-beta/OpenJDK17U-jdk_x64_windows_hotspot_17.0.15_3-ea.zip",
+            "url": "https://github.7boe.top/https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15+3-ea-beta/OpenJDK17U-jdk_x64_windows_hotspot_17.0.15_3-ea.zip",
             "hash": "5388bd068d74f27626b0c241018f7e32cd1f84565f44cc8fe1a42442ebef88a9"
         },
         "32bit": {
-            "url": "https://github.whrstudio.top/https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15+3-ea-beta/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.15_3-ea.zip",
+            "url": "https://github.7boe.top/https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.15+3-ea-beta/OpenJDK17U-jdk_x86-32_windows_hotspot_17.0.15_3-ea.zip",
             "hash": "433c52adfdd7c3ca3c0c61a6893bc034d960ecdbee4d53c214395f38950eef49"
         }
     },

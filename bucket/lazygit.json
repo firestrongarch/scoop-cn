@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/jesseduffield/lazygit/releases/download/v0.48.0/lazygit_0.48.0_Windows_x86_64.zip",
+            "url": "https://github.7boe.top/https://github.com/jesseduffield/lazygit/releases/download/v0.48.0/lazygit_0.48.0_Windows_x86_64.zip",
             "hash": "26ba0970fc399075826f8612dfda39fe9e25114337264a0dc810c09cd25a758c"
         },
         "32bit": {
-            "url": "https://github.whrstudio.top/https://github.com/jesseduffield/lazygit/releases/download/v0.48.0/lazygit_0.48.0_Windows_32-bit.zip",
+            "url": "https://github.7boe.top/https://github.com/jesseduffield/lazygit/releases/download/v0.48.0/lazygit_0.48.0_Windows_32-bit.zip",
             "hash": "9f0480378151cc91a62e412fb8852b8b5cf4e8f66c70fcbabb33275278223359"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/jesseduffield/lazygit/releases/download/v$version/lazygit_$version_Windows_x86_64.zip"
+                "url": "https://github.7boe.top/https://github.com/jesseduffield/lazygit/releases/download/v$version/lazygit_$version_Windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://github.whrstudio.top/https://github.com/jesseduffield/lazygit/releases/download/v$version/lazygit_$version_Windows_32-bit.zip"
+                "url": "https://github.7boe.top/https://github.com/jesseduffield/lazygit/releases/download/v$version/lazygit_$version_Windows_32-bit.zip"
             }
         },
         "hash": {

@@ -7,21 +7,21 @@
         "JDK": "scoop-cn/openjdk"
     },
     "url": [
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop.cmd",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop.dll",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop.exp",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop.lib",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop.pdb",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hdfs",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hdfs.cmd",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/libwinutils.lib",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/mapred",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/mapred.cmd",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/winutils.exe",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/winutils.pdb",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/yarn",
-        "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/yarn.cmd"
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop.cmd",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop.dll",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop.exp",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop.lib",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hadoop.pdb",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hdfs",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/hdfs.cmd",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/libwinutils.lib",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/mapred",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/mapred.cmd",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/winutils.exe",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/winutils.pdb",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/yarn",
+        "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-3.3.6/bin/yarn.cmd"
     ],
     "hash": [
         "e8a1f032a56beceb1989c8467b58109d2bff47f8c7bc5de3dde76cf2c6452abf",
@@ -49,21 +49,21 @@
     },
     "autoupdate": {
         "url": [
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop.cmd",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop.dll",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop.exp",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop.lib",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop.pdb",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hdfs",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hdfs.cmd",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/libwinutils.lib",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/mapred",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/mapred.cmd",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/winutils.exe",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/winutils.pdb",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/yarn",
-            "https://github.whrstudio.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/yarn.cmd"
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop.cmd",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop.dll",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop.exp",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop.lib",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hadoop.pdb",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hdfs",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/hdfs.cmd",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/libwinutils.lib",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/mapred",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/mapred.cmd",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/winutils.exe",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/winutils.pdb",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/yarn",
+            "https://github.7boe.top/https://raw.githubusercontent.com/cdarlint/winutils/master/hadoop-$version/bin/yarn.cmd"
         ]
     }
 }

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/desktop/desktop/releases/download/release-3.4.17/GitHubDesktop-3.4.17-x64-full.nupkg",
+            "url": "https://github.7boe.top/https://github.com/desktop/desktop/releases/download/release-3.4.17/GitHubDesktop-3.4.17-x64-full.nupkg",
             "hash": "09048f18e8349eb983d6e8413cf9644247b1a82d1e742dbb34e76dc8719535b5"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/desktop/desktop/releases/download/release-$version/GitHubDesktop-$version-x64-full.nupkg"
+                "url": "https://github.7boe.top/https://github.com/desktop/desktop/releases/download/release-$version/GitHubDesktop-$version-x64-full.nupkg"
             }
         },
         "hash": {

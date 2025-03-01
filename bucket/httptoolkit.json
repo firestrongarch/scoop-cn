@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.19.5/HttpToolkit-win-x64-1.19.5.zip",
+            "url": "https://github.7boe.top/https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.19.5/HttpToolkit-win-x64-1.19.5.zip",
             "hash": "e0f9b242a25fc352f3683a582287bdb96ac37953594d5ac48e90ec3d4ee2e628"
         }
     },
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v$version/HttpToolkit-win-x64-$version.zip"
+                "url": "https://github.7boe.top/https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v$version/HttpToolkit-win-x64-$version.zip"
             }
         }
     }

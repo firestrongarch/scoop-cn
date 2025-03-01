@@ -6,7 +6,7 @@
     "suggest": {
         "ffmpeg": "ffmpeg"
     },
-    "url": "https://github.whrstudio.top/https://github.com/stashapp/stash/releases/download/latest_develop/stash-win.exe",
+    "url": "https://github.7boe.top/https://github.com/stashapp/stash/releases/download/latest_develop/stash-win.exe",
     "hash": "4557d2b45682d32d31690eaa4e3d47949033f5b1ec40b9197c6edc6ce15e87f6",
     "bin": [
         [
@@ -26,6 +26,6 @@
         "regex": "Release v([\\w.-]+)"
     },
     "autoupdate": {
-        "url": "https://github.whrstudio.top/https://github.com/stashapp/stash/releases/download/latest_develop/stash-win.exe"
+        "url": "https://github.7boe.top/https://github.com/stashapp/stash/releases/download/latest_develop/stash-win.exe"
     }
 }

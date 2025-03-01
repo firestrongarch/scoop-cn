@@ -11,7 +11,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/streetpea/chiaki-ng/releases/download/v1.9.6/chiaki-ng-win_x64-VC-portable-1.9.6.zip",
+            "url": "https://github.7boe.top/https://github.com/streetpea/chiaki-ng/releases/download/v1.9.6/chiaki-ng-win_x64-VC-portable-1.9.6.zip",
             "hash": "606aa4b3cb368ad41f8a71b05ca3ef94be4473f75a71d1fe2c39aa227cc74e61"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/streetpea/chiaki-ng/releases/download/v$version/chiaki-ng-win_x64-VC-portable-$version.zip"
+                "url": "https://github.7boe.top/https://github.com/streetpea/chiaki-ng/releases/download/v$version/chiaki-ng-win_x64-VC-portable-$version.zip"
             }
         }
     }

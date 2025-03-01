@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/open-policy-agent/conftest/releases/download/v0.57.0/conftest_0.57.0_Windows_x86_64.zip",
+            "url": "https://github.7boe.top/https://github.com/open-policy-agent/conftest/releases/download/v0.57.0/conftest_0.57.0_Windows_x86_64.zip",
             "hash": "3e452e50fd12b5f671ca05af67d521ac7e5150cd010bf3ad31bc90217d063c8f"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/open-policy-agent/conftest/releases/download/v$version/conftest_$version_Windows_x86_64.zip"
+                "url": "https://github.7boe.top/https://github.com/open-policy-agent/conftest/releases/download/v$version/conftest_$version_Windows_x86_64.zip"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/dagger/dagger/releases/download/v0.16.2/dagger_v0.16.2_windows_amd64.zip",
+            "url": "https://github.7boe.top/https://github.com/dagger/dagger/releases/download/v0.16.2/dagger_v0.16.2_windows_amd64.zip",
             "hash": "4fb3310b2bfc5884ab535f897bcedac948c3d8a0c4e6a824b12950acf4921ff6"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/dagger/dagger/releases/download/v$version/dagger_v$version_windows_amd64.zip",
+                "url": "https://github.7boe.top/https://github.com/dagger/dagger/releases/download/v$version/dagger_v$version_windows_amd64.zip",
                 "hash": {
                     "url": "$baseurl/checksums.txt"
                 }

@@ -62,7 +62,7 @@
         }
     },
     "checkver": {
-        "url": "https://github.whrstudio.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/loadorder.md",
+        "url": "https://github.7boe.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/loadorder.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/brave/brave-browser/releases/download/v1.77.71/brave-v1.77.71-win32-x64.zip",
+            "url": "https://github.7boe.top/https://github.com/brave/brave-browser/releases/download/v1.77.71/brave-v1.77.71-win32-x64.zip",
             "hash": "2d1731fcd243f378e20bf19efd12d0cf7dba791ed54bbd41e0302b666e3e4d59"
         }
     },
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
+                "url": "https://github.7boe.top/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
             }
         }
     }

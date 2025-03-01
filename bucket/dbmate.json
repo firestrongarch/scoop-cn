@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/amacneil/dbmate/releases/download/v2.26.0/dbmate-windows-amd64.exe#/dbmate.exe",
+            "url": "https://github.7boe.top/https://github.com/amacneil/dbmate/releases/download/v2.26.0/dbmate-windows-amd64.exe#/dbmate.exe",
             "hash": "222f610376c4793939f842a0701b3b6f5ce300e18549e14842f0b7c16dd0ea58"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/amacneil/dbmate/releases/download/v$version/dbmate-windows-amd64.exe#/dbmate.exe"
+                "url": "https://github.7boe.top/https://github.com/amacneil/dbmate/releases/download/v$version/dbmate-windows-amd64.exe#/dbmate.exe"
             }
         }
     }

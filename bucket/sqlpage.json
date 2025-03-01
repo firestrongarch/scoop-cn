@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/sqlpage/SQLpage/releases/download/v0.33.1/sqlpage-windows.zip",
+            "url": "https://github.7boe.top/https://github.com/sqlpage/SQLpage/releases/download/v0.33.1/sqlpage-windows.zip",
             "hash": "e274a07a7a5e9ddff50ac052c76a1ac2a5db65ca40b9c4d4db589c6051c220f2"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/sqlpage/SQLpage/releases/download/v$version/sqlpage-windows.zip"
+                "url": "https://github.7boe.top/https://github.com/sqlpage/SQLpage/releases/download/v$version/sqlpage-windows.zip"
             }
         }
     }

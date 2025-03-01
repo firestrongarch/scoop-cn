@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
+            "url": "https://github.7boe.top/https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
             "hash": "d4ac9a119e09bfafe38346fbafdbde252d739d1c860e0c392b6c8d8b07e1324f"
         }
     },
@@ -49,7 +49,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip"
+                "url": "https://github.7boe.top/https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip"
             }
         }
     }

@@ -9,7 +9,7 @@
             "scoop-cn/graalvm-jdk11"
         ]
     },
-    "url": "https://github.whrstudio.top/https://github.com/ArcadeData/arcadedb/releases/download/25.2.1/arcadedb-25.2.1.tar.gz",
+    "url": "https://github.7boe.top/https://github.com/ArcadeData/arcadedb/releases/download/25.2.1/arcadedb-25.2.1.tar.gz",
     "hash": "598d49d332fc287db99a403eca0ef1adb11c6e47ab6e182c7cd491e3f2d4cd19",
     "extract_dir": "arcadedb-25.2.1",
     "persist": [
@@ -34,7 +34,7 @@
         "github": "https://github.com/ArcadeData/arcadedb"
     },
     "autoupdate": {
-        "url": "https://github.whrstudio.top/https://github.com/ArcadeData/arcadedb/releases/download/$version/arcadedb-$version.tar.gz",
+        "url": "https://github.7boe.top/https://github.com/ArcadeData/arcadedb/releases/download/$version/arcadedb-$version.tar.gz",
         "extract_dir": "arcadedb-$version"
     }
 }

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/github/codeql-cli-binaries/releases/download/v2.20.5/codeql-win64.zip",
+            "url": "https://github.7boe.top/https://github.com/github/codeql-cli-binaries/releases/download/v2.20.5/codeql-win64.zip",
             "hash": "2237180634169f8311ee7b020570b8ab31fd043705cb3d1365853bea8eba2bdb",
             "extract_dir": "codeql"
         }
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/github/codeql-cli-binaries/releases/download/v$version/codeql-win64.zip"
+                "url": "https://github.7boe.top/https://github.com/github/codeql-cli-binaries/releases/download/v$version/codeql-win64.zip"
             }
         }
     }

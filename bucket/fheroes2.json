@@ -12,11 +12,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/ihhub/fheroes2/releases/download/1.1.6/fheroes2_windows_x64_SDL2.zip",
+            "url": "https://github.7boe.top/https://github.com/ihhub/fheroes2/releases/download/1.1.6/fheroes2_windows_x64_SDL2.zip",
             "hash": "b701f050d4c0e40b4a24dce7ed20eeeb945d8ca516ef4afddc32fae2e58ad65d"
         },
         "32bit": {
-            "url": "https://github.whrstudio.top/https://github.com/ihhub/fheroes2/releases/download/1.1.6/fheroes2_windows_x86_SDL2.zip",
+            "url": "https://github.7boe.top/https://github.com/ihhub/fheroes2/releases/download/1.1.6/fheroes2_windows_x86_SDL2.zip",
             "hash": "f1b5d250066879fafbd918a819c694ad2abf7a16c6e3cfcbbaa7e87005bbca18"
         }
     },
@@ -36,10 +36,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/ihhub/fheroes2/releases/download/$version/fheroes2_windows_x64_SDL2.zip"
+                "url": "https://github.7boe.top/https://github.com/ihhub/fheroes2/releases/download/$version/fheroes2_windows_x64_SDL2.zip"
             },
             "32bit": {
-                "url": "https://github.whrstudio.top/https://github.com/ihhub/fheroes2/releases/download/$version/fheroes2_windows_x86_SDL2.zip"
+                "url": "https://github.7boe.top/https://github.com/ihhub/fheroes2/releases/download/$version/fheroes2_windows_x86_SDL2.zip"
             }
         }
     }

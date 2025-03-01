@@ -9,8 +9,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.whrstudio.top/https://github.com/oven-sh/bun/releases/download/bun-v1.2.4/bun-windows-x64.zip",
-                "https://github.whrstudio.top/https://github.com/oven-sh/bun/releases/download/bun-v1.2.4/bun-windows-x64-baseline.zip"
+                "https://github.7boe.top/https://github.com/oven-sh/bun/releases/download/bun-v1.2.4/bun-windows-x64.zip",
+                "https://github.7boe.top/https://github.com/oven-sh/bun/releases/download/bun-v1.2.4/bun-windows-x64-baseline.zip"
             ],
             "hash": [
                 "02513d08fb02d9aef71df6d6c23f04d1afa896622ed59d78781e6e839ed0e05c",
@@ -46,8 +46,8 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://github.whrstudio.top/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64.zip",
-                    "https://github.whrstudio.top/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64-baseline.zip"
+                    "https://github.7boe.top/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64.zip",
+                    "https://github.7boe.top/https://github.com/oven-sh/bun/releases/download/bun-v$version/bun-windows-x64-baseline.zip"
                 ]
             }
         },

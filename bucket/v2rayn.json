@@ -10,12 +10,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/2dust/v2rayN/releases/download/7.9.3/v2rayN-windows-64.zip",
+            "url": "https://github.7boe.top/https://github.com/2dust/v2rayN/releases/download/7.9.3/v2rayN-windows-64.zip",
             "hash": "44aa379609eb729d50964601f11779ad2647fbbce81d7a6058c11aacec0ca070",
             "extract_dir": "v2rayN-windows-64"
         },
         "arm64": {
-            "url": "https://github.whrstudio.top/https://github.com/2dust/v2rayN/releases/download/7.9.3/v2rayN-windows-arm64.zip",
+            "url": "https://github.7boe.top/https://github.com/2dust/v2rayN/releases/download/7.9.3/v2rayN-windows-arm64.zip",
             "hash": "456bdc832d6b8d798f716335177769c1b858e245858e8b8c1f1b6831508defa9",
             "extract_dir": "v2rayN-windows-arm64"
         }
@@ -44,10 +44,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/2dust/v2rayN/releases/download/$version/v2rayN-windows-64.zip"
+                "url": "https://github.7boe.top/https://github.com/2dust/v2rayN/releases/download/$version/v2rayN-windows-64.zip"
             },
             "arm64": {
-                "url": "https://github.whrstudio.top/https://github.com/2dust/v2rayN/releases/download/$version/v2rayN-windows-arm64.zip"
+                "url": "https://github.7boe.top/https://github.com/2dust/v2rayN/releases/download/$version/v2rayN-windows-arm64.zip"
             }
         }
     }

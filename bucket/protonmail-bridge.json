@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/ProtonMail/proton-bridge/releases/download/v3.17.0/Bridge-Installer.exe#/dl.exe",
+            "url": "https://github.7boe.top/https://github.com/ProtonMail/proton-bridge/releases/download/v3.17.0/Bridge-Installer.exe#/dl.exe",
             "hash": "9aa41662786d03175435cbe79a0df54ef2a680258ce47038b4befc40d3cc4ce6"
         }
     },
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/ProtonMail/proton-bridge/releases/download/v$version/Bridge-Installer.exe#/dl.exe"
+                "url": "https://github.7boe.top/https://github.com/ProtonMail/proton-bridge/releases/download/v$version/Bridge-Installer.exe#/dl.exe"
             }
         }
     }

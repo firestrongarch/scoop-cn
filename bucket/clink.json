@@ -7,7 +7,7 @@
         "Run 'clink inject' to start clink on the current cmd",
         "Run 'clink autorun install' to auto start clink"
     ],
-    "url": "https://github.whrstudio.top/https://github.com/chrisant996/clink/releases/download/v1.7.11/clink.1.7.11.e51a96.zip",
+    "url": "https://github.7boe.top/https://github.com/chrisant996/clink/releases/download/v1.7.11/clink.1.7.11.e51a96.zip",
     "hash": "830a5394bfd4655b5ca27000958fc92efc7273c349f440cc0dc596f71c3670f4",
     "bin": "clink.bat",
     "checkver": {
@@ -15,6 +15,6 @@
         "regex": "/v(?<tag>[\\d.]+)/clink\\.([\\d.]+)\\.(?<commit>[\\w.]+)\\.zip"
     },
     "autoupdate": {
-        "url": "https://github.whrstudio.top/https://github.com/chrisant996/clink/releases/download/v$matchTag/clink.$version.$matchCommit.zip"
+        "url": "https://github.7boe.top/https://github.com/chrisant996/clink/releases/download/v$matchTag/clink.$version.$matchCommit.zip"
     }
 }

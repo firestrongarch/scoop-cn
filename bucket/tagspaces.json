@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/tagspaces/tagspaces/releases/download/v6.3.2/tagspaces-win-x64-6.3.2.zip",
+            "url": "https://github.7boe.top/https://github.com/tagspaces/tagspaces/releases/download/v6.3.2/tagspaces-win-x64-6.3.2.zip",
             "hash": "2347e7abccd3cdd7a4a85ab73b41ba30ff71cdca770c345e6a3ef422977e71e1"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/tagspaces/tagspaces/releases/download/v$version/tagspaces-win-x64-$version.zip"
+                "url": "https://github.7boe.top/https://github.com/tagspaces/tagspaces/releases/download/v$version/tagspaces-win-x64-$version.zip"
             }
         },
         "hash": {

@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/supabase/cli/releases/download/v2.15.8/supabase_windows_amd64.tar.gz",
+            "url": "https://github.7boe.top/https://github.com/supabase/cli/releases/download/v2.15.8/supabase_windows_amd64.tar.gz",
             "hash": "d719307aa0c05bc84ddef4a567c25c11971e23cf896007922f77ce3c954b4a4d"
         },
         "arm64": {
-            "url": "https://github.whrstudio.top/https://github.com/supabase/cli/releases/download/v2.15.8/supabase_windows_arm64.tar.gz",
+            "url": "https://github.7boe.top/https://github.com/supabase/cli/releases/download/v2.15.8/supabase_windows_arm64.tar.gz",
             "hash": "0371ab201cb2d6a5405b29d58d80bdc5659e6bc55dc2edabb4d1b100859669aa"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/supabase/cli/releases/download/v$version/supabase_windows_amd64.tar.gz"
+                "url": "https://github.7boe.top/https://github.com/supabase/cli/releases/download/v$version/supabase_windows_amd64.tar.gz"
             },
             "arm64": {
-                "url": "https://github.whrstudio.top/https://github.com/supabase/cli/releases/download/v$version/supabase_windows_arm64.tar.gz"
+                "url": "https://github.7boe.top/https://github.com/supabase/cli/releases/download/v$version/supabase_windows_arm64.tar.gz"
             }
         },
         "hash": {

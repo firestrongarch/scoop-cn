@@ -16,7 +16,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/PCSX2/pcsx2/releases/download/v2.3.187/pcsx2-v2.3.187-windows-x64-Qt.7z",
+            "url": "https://github.7boe.top/https://github.com/PCSX2/pcsx2/releases/download/v2.3.187/pcsx2-v2.3.187-windows-x64-Qt.7z",
             "hash": "5997ed66d5edb17976b024dbff6d30307fcb5f917af9310a30abbe5bd2343a55"
         }
     },
@@ -69,7 +69,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/PCSX2/pcsx2/releases/download/v$version/pcsx2-v$version-windows-x64-Qt.7z"
+                "url": "https://github.7boe.top/https://github.com/PCSX2/pcsx2/releases/download/v$version/pcsx2-v$version-windows-x64-Qt.7z"
             }
         }
     }

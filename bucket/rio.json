@@ -6,8 +6,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.whrstudio.top/https://github.com/raphamorim/rio/releases/download/v0.2.8/Rio-portable-x86_64.exe#/rio.exe",
-                "https://github.whrstudio.top/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
+                "https://github.7boe.top/https://github.com/raphamorim/rio/releases/download/v0.2.8/Rio-portable-x86_64.exe#/rio.exe",
+                "https://github.7boe.top/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
             ],
             "hash": [
                 "6ca850a3528e1d0f997de25631e3463c2b9c4d2814a7149d1058da31cab2ed53",
@@ -16,8 +16,8 @@
         },
         "arm64": {
             "url": [
-                "https://github.whrstudio.top/https://github.com/raphamorim/rio/releases/download/v0.2.8/Rio-portable-aarch64.exe#/rio.exe",
-                "https://github.whrstudio.top/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
+                "https://github.7boe.top/https://github.com/raphamorim/rio/releases/download/v0.2.8/Rio-portable-aarch64.exe#/rio.exe",
+                "https://github.7boe.top/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
             ],
             "hash": [
                 "71dec85b5788aef2feacfa3052dfa702e68f14e8362f052f5076640745f6b1e5",
@@ -39,14 +39,14 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://github.whrstudio.top/https://github.com/raphamorim/rio/releases/download/v$version/Rio-portable-x86_64.exe#/rio.exe",
-                    "https://github.whrstudio.top/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
+                    "https://github.7boe.top/https://github.com/raphamorim/rio/releases/download/v$version/Rio-portable-x86_64.exe#/rio.exe",
+                    "https://github.7boe.top/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://github.whrstudio.top/https://github.com/raphamorim/rio/releases/download/v$version/Rio-portable-aarch64.exe#/rio.exe",
-                    "https://github.whrstudio.top/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
+                    "https://github.7boe.top/https://github.com/raphamorim/rio/releases/download/v$version/Rio-portable-aarch64.exe#/rio.exe",
+                    "https://github.7boe.top/https://raw.githubusercontent.com/raphamorim/rio/main/misc/windows/rio.ico"
                 ]
             }
         }

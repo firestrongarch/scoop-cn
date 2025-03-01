@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/martpie/museeks/releases/download/0.20.8/Museeks_0.20.8_x64-setup.exe#/dl.7z",
+            "url": "https://github.7boe.top/https://github.com/martpie/museeks/releases/download/0.20.8/Museeks_0.20.8_x64-setup.exe#/dl.7z",
             "hash": "58ef289f25e3f365429dcf5d5a38accbd31163051c311de052ea6c5043c9c952"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/martpie/museeks/releases/download/$version/Museeks_$version_x64-setup.exe#/dl.7z"
+                "url": "https://github.7boe.top/https://github.com/martpie/museeks/releases/download/$version/Museeks_$version_x64-setup.exe#/dl.7z"
             }
         },
         "hash": {

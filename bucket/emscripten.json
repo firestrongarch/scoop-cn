@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/emscripten-core/emsdk/archive/refs/tags/4.0.4.zip",
+            "url": "https://github.7boe.top/https://github.com/emscripten-core/emsdk/archive/refs/tags/4.0.4.zip",
             "hash": "3d485c8290b0fe3d6aff8e54c4bff8f70d7919b9d60a20f7aca5f72b474cbf22"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/emscripten-core/emsdk/archive/refs/tags/$version.zip"
+                "url": "https://github.7boe.top/https://github.com/emscripten-core/emsdk/archive/refs/tags/$version.zip"
             }
         },
         "extract_dir": "emsdk-$version"

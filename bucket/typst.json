@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/typst/typst/releases/download/v0.13.0/typst-x86_64-pc-windows-msvc.zip",
+            "url": "https://github.7boe.top/https://github.com/typst/typst/releases/download/v0.13.0/typst-x86_64-pc-windows-msvc.zip",
             "hash": "c0f8f10a4a4b83867d57abd21f2ddf245c9234f4e93186ccd49f15d4d465ce2d"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/typst/typst/releases/download/v$version/typst-x86_64-pc-windows-msvc.zip"
+                "url": "https://github.7boe.top/https://github.com/typst/typst/releases/download/v$version/typst-x86_64-pc-windows-msvc.zip"
             }
         }
     }

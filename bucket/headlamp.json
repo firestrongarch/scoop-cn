@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/headlamp-k8s/headlamp/releases/download/v0.29.0/Headlamp-0.29.0-win-x64.exe#/dl.7z",
+            "url": "https://github.7boe.top/https://github.com/headlamp-k8s/headlamp/releases/download/v0.29.0/Headlamp-0.29.0-win-x64.exe#/dl.7z",
             "hash": "132c89612c6a7151a0721448203f5c8bfed2897543b33c55e5a73c38829329f0",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/headlamp-k8s/headlamp/releases/download/v$version/Headlamp-$version-win-x64.exe#/dl.7z"
+                "url": "https://github.7boe.top/https://github.com/headlamp-k8s/headlamp/releases/download/v$version/Headlamp-$version-win-x64.exe#/dl.7z"
             }
         },
         "hash": {

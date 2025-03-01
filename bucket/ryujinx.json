@@ -12,7 +12,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/GreemDev/Ryujinx/releases/download/1.2.82/ryujinx-1.2.82-win_x64.zip",
+            "url": "https://github.7boe.top/https://github.com/GreemDev/Ryujinx/releases/download/1.2.82/ryujinx-1.2.82-win_x64.zip",
             "hash": "8896ea7c73865444430e6ad812ef7ff7564650d4794142b90a41d628845a3d91"
         }
     },
@@ -41,7 +41,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/GreemDev/Ryujinx/releases/download/$version/ryujinx-$version-win_x64.zip"
+                "url": "https://github.7boe.top/https://github.com/GreemDev/Ryujinx/releases/download/$version/ryujinx-$version-win_x64.zip"
             }
         }
     }

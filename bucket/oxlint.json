@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v0.15.12/oxlint-win32-x64.zip",
+            "url": "https://github.7boe.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v0.15.12/oxlint-win32-x64.zip",
             "hash": "80ee7eee514a73a545672ae0bb8eb7404ca483cfe46aae71cdb1e9305b56e16d"
         },
         "arm64": {
-            "url": "https://github.whrstudio.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v0.15.12/oxlint-win32-arm64.zip",
+            "url": "https://github.7boe.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v0.15.12/oxlint-win32-arm64.zip",
             "hash": "c7465b7ac7b51c14435022f2412fca9efe37dd3ef044c4e46d01879829f5bc77"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v$version/oxlint-win32-x64.zip"
+                "url": "https://github.7boe.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v$version/oxlint-win32-x64.zip"
             },
             "arm64": {
-                "url": "https://github.whrstudio.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v$version/oxlint-win32-arm64.zip"
+                "url": "https://github.7boe.top/https://github.com/oxc-project/oxc/releases/download/oxlint_v$version/oxlint-win32-arm64.zip"
             }
         }
     }

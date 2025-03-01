@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/conan-io/conan/releases/download/2.13.0/conan-2.13.0-windows-x86_64.zip",
+            "url": "https://github.7boe.top/https://github.com/conan-io/conan/releases/download/2.13.0/conan-2.13.0-windows-x86_64.zip",
             "hash": "8cfd17f741c3e23ade6ae9d0fef4a8d58f3aceda6acb86f38644105a8b13785f"
         },
         "32bit": {
-            "url": "https://github.whrstudio.top/https://github.com/conan-io/conan/releases/download/2.13.0/conan-2.13.0-windows-i686.zip",
+            "url": "https://github.7boe.top/https://github.com/conan-io/conan/releases/download/2.13.0/conan-2.13.0-windows-i686.zip",
             "hash": "c7820278115ec9b184e5d46c6622b1e4fb53b12b5ad9a7d01d225288eb1723ba"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/conan-io/conan/releases/download/$version/conan-$version-windows-x86_64.zip"
+                "url": "https://github.7boe.top/https://github.com/conan-io/conan/releases/download/$version/conan-$version-windows-x86_64.zip"
             },
             "32bit": {
-                "url": "https://github.whrstudio.top/https://github.com/conan-io/conan/releases/download/$version/conan-$version-windows-i686.zip"
+                "url": "https://github.7boe.top/https://github.com/conan-io/conan/releases/download/$version/conan-$version-windows-i686.zip"
             }
         }
     }

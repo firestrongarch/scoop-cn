@@ -22,7 +22,7 @@
     },
     "bin": "pssuspend.exe",
     "checkver": {
-        "url": "https://github.whrstudio.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/pssuspend.md",
+        "url": "https://github.7boe.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/pssuspend.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.42/quarto-1.6.42-win.zip",
+            "url": "https://github.7boe.top/https://github.com/quarto-dev/quarto-cli/releases/download/v1.6.42/quarto-1.6.42-win.zip",
             "hash": "07671cba2aa6941241e8a50cec441989c1db0efa3472b65d1d86c61b8ae5f2f3"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/quarto-dev/quarto-cli/releases/download/v$version/quarto-$version-win.zip"
+                "url": "https://github.7boe.top/https://github.com/quarto-dev/quarto-cli/releases/download/v$version/quarto-$version-win.zip"
             }
         },
         "hash": {

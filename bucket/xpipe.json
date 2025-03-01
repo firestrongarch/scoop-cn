@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/xpipe-io/xpipe/releases/download/15.2/xpipe-portable-windows-x86_64.zip",
+            "url": "https://github.7boe.top/https://github.com/xpipe-io/xpipe/releases/download/15.2/xpipe-portable-windows-x86_64.zip",
             "hash": "1b8b3d9f43d790017d6c8506e658e6cce4ee3f0ac4834e3bce5114e273b5dd84",
             "extract_dir": "xpipe-15.2"
         }
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/xpipe-io/xpipe/releases/download/$version/xpipe-portable-windows-x86_64.zip",
+                "url": "https://github.7boe.top/https://github.com/xpipe-io/xpipe/releases/download/$version/xpipe-portable-windows-x86_64.zip",
                 "extract_dir": "xpipe-$version"
             }
         },

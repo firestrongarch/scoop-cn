@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/2.45.1717/IapDesktop.msi",
+            "url": "https://github.7boe.top/https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/2.45.1717/IapDesktop.msi",
             "hash": "e76ccf5c8c7b4bcaaafa778842006c273aeff6ef2c4506bdc23cf1c7ee5bc0e9"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/$version/IapDesktop.msi"
+                "url": "https://github.7boe.top/https://github.com/GoogleCloudPlatform/iap-desktop/releases/download/$version/IapDesktop.msi"
             }
         }
     }

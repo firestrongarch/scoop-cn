@@ -5,7 +5,7 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/fossas/fossa-cli/releases/download/v3.10.0/fossa_3.10.0_windows_amd64.zip",
+            "url": "https://github.7boe.top/https://github.com/fossas/fossa-cli/releases/download/v3.10.0/fossa_3.10.0_windows_amd64.zip",
             "hash": "0eaf7a2a0af7e682b2991626d6d13fdfc2c598186dde9eb5a14ce345e79773fa"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/fossas/fossa-cli/releases/download/v$version/fossa_$version_windows_amd64.zip",
+                "url": "https://github.7boe.top/https://github.com/fossas/fossa-cli/releases/download/v$version/fossa_$version_windows_amd64.zip",
                 "hash": {
                     "url": "$url.sha256"
                 }

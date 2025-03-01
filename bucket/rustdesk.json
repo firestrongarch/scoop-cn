@@ -9,11 +9,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/rustdesk/rustdesk/releases/download/1.3.8/rustdesk-1.3.8-x86_64.exe#/RustDesk.exe",
+            "url": "https://github.7boe.top/https://github.com/rustdesk/rustdesk/releases/download/1.3.8/rustdesk-1.3.8-x86_64.exe#/RustDesk.exe",
             "hash": "283557e80ee96139c66400b5302b33acad09cb00f88333660db3e1d977abf9ab"
         },
         "32bit": {
-            "url": "https://github.whrstudio.top/https://github.com/rustdesk/rustdesk/releases/download/1.3.8/rustdesk-1.3.8-x86-sciter.exe#/RustDesk.exe",
+            "url": "https://github.7boe.top/https://github.com/rustdesk/rustdesk/releases/download/1.3.8/rustdesk-1.3.8-x86-sciter.exe#/RustDesk.exe",
             "hash": "cf9e824003c1ad3aa0b1b46046e678fb1774592f0bc037f76829f8cbd6e5e0a8"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/rustdesk/rustdesk/releases/download/$version/rustdesk-$version-x86_64.exe#/RustDesk.exe"
+                "url": "https://github.7boe.top/https://github.com/rustdesk/rustdesk/releases/download/$version/rustdesk-$version-x86_64.exe#/RustDesk.exe"
             },
             "32bit": {
-                "url": "https://github.whrstudio.top/https://github.com/rustdesk/rustdesk/releases/download/$version/rustdesk-$version-x86-sciter.exe#/RustDesk.exe"
+                "url": "https://github.7boe.top/https://github.com/rustdesk/rustdesk/releases/download/$version/rustdesk-$version-x86-sciter.exe#/RustDesk.exe"
             }
         }
     }

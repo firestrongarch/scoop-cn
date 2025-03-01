@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/sourcegit-scm/sourcegit/releases/download/v2025.06/sourcegit_2025.06.win-x64.zip",
+            "url": "https://github.7boe.top/https://github.com/sourcegit-scm/sourcegit/releases/download/v2025.06/sourcegit_2025.06.win-x64.zip",
             "hash": "363ebb33bebbb26ab254d13c0976f970d667c681dea6d3681feebcb5528fa850"
         },
         "arm64": {
-            "url": "https://github.whrstudio.top/https://github.com/sourcegit-scm/sourcegit/releases/download/v2025.06/sourcegit_2025.06.win-arm64.zip",
+            "url": "https://github.7boe.top/https://github.com/sourcegit-scm/sourcegit/releases/download/v2025.06/sourcegit_2025.06.win-arm64.zip",
             "hash": "fc4eac36250b28cb70c0a7683bc5b2780386307daaa97460234d439c198f8ff1"
         }
     },
@@ -33,10 +33,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/sourcegit-scm/sourcegit/releases/download/v$version/sourcegit_$version.win-x64.zip"
+                "url": "https://github.7boe.top/https://github.com/sourcegit-scm/sourcegit/releases/download/v$version/sourcegit_$version.win-x64.zip"
             },
             "arm64": {
-                "url": "https://github.whrstudio.top/https://github.com/sourcegit-scm/sourcegit/releases/download/v$version/sourcegit_$version.win-arm64.zip"
+                "url": "https://github.7boe.top/https://github.com/sourcegit-scm/sourcegit/releases/download/v$version/sourcegit_$version.win-arm64.zip"
             }
         }
     }

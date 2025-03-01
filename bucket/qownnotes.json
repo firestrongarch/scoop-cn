@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/pbek/QOwnNotes/releases/download/v25.2.9/QOwnNotes.zip",
+            "url": "https://github.7boe.top/https://github.com/pbek/QOwnNotes/releases/download/v25.2.9/QOwnNotes.zip",
             "hash": "6da4b22a911ceeab46dcddc1bab0c02419bc6af182d396d1a487ad956b088c36"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/pbek/QOwnNotes/releases/download/v$version/QOwnNotes.zip"
+                "url": "https://github.7boe.top/https://github.com/pbek/QOwnNotes/releases/download/v$version/QOwnNotes.zip"
             }
         },
         "hash": {

@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/neovide/neovide/releases/download/0.14.1/neovide.exe.zip",
+            "url": "https://github.7boe.top/https://github.com/neovide/neovide/releases/download/0.14.1/neovide.exe.zip",
             "hash": "df9abc82d17836ef5678664806db5cfaadc2931b75012a9176581e63dadc67c5"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/neovide/neovide/releases/download/$version/neovide.exe.zip"
+                "url": "https://github.7boe.top/https://github.com/neovide/neovide/releases/download/$version/neovide.exe.zip"
             }
         }
     }

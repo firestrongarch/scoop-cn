@@ -30,7 +30,7 @@
         }
     },
     "checkver": {
-        "url": "https://github.whrstudio.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/coreinfo.md",
+        "url": "https://github.7boe.top/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/coreinfo.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

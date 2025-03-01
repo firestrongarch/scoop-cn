@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/erlang/otp/releases/download/OTP-27.2.4/otp_win64_27.2.4.exe#/dl.7z",
+            "url": "https://github.7boe.top/https://github.com/erlang/otp/releases/download/OTP-27.2.4/otp_win64_27.2.4.exe#/dl.7z",
             "hash": "a23264c933fe51f67f320d182180aaac1fd344297631beb82f42e32b3c027084"
         },
         "32bit": {
-            "url": "https://github.whrstudio.top/https://github.com/erlang/otp/releases/download/OTP-27.2.4/otp_win32_27.2.4.exe#/dl.7z",
+            "url": "https://github.7boe.top/https://github.com/erlang/otp/releases/download/OTP-27.2.4/otp_win32_27.2.4.exe#/dl.7z",
             "hash": "3bb57221560b1506354a2280bec70752c859c9e2fa323dfcfa27c0c7e6571038"
         }
     },
@@ -43,10 +43,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win64_$version.exe#/dl.7z"
+                "url": "https://github.7boe.top/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win64_$version.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://github.whrstudio.top/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win32_$version.exe#/dl.7z"
+                "url": "https://github.7boe.top/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win32_$version.exe#/dl.7z"
             }
         }
     }

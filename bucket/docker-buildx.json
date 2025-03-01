@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/docker/buildx/releases/download/v0.21.1/buildx-v0.21.1.windows-amd64.exe#/docker-buildx.exe",
+            "url": "https://github.7boe.top/https://github.com/docker/buildx/releases/download/v0.21.1/buildx-v0.21.1.windows-amd64.exe#/docker-buildx.exe",
             "hash": "ab3eba3acbfa6b6612690af075795254f29762efc8abace5f636b8e7628b1851"
         },
         "arm64": {
-            "url": "https://github.whrstudio.top/https://github.com/docker/buildx/releases/download/v0.21.1/buildx-v0.21.1.windows-arm64.exe#/docker-buildx.exe",
+            "url": "https://github.7boe.top/https://github.com/docker/buildx/releases/download/v0.21.1/buildx-v0.21.1.windows-arm64.exe#/docker-buildx.exe",
             "hash": "b46c97208860b6fb83e9c69ac01379a1991b1c428a0b89def443fc1972f7b3cd"
         }
     },
@@ -37,14 +37,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/docker/buildx/releases/download/v$version/buildx-v$version.windows-amd64.exe#/docker-buildx.exe"
+                "url": "https://github.7boe.top/https://github.com/docker/buildx/releases/download/v$version/buildx-v$version.windows-amd64.exe#/docker-buildx.exe"
             },
             "arm64": {
-                "url": "https://github.whrstudio.top/https://github.com/docker/buildx/releases/download/v$version/buildx-v$version.windows-arm64.exe#/docker-buildx.exe"
+                "url": "https://github.7boe.top/https://github.com/docker/buildx/releases/download/v$version/buildx-v$version.windows-arm64.exe#/docker-buildx.exe"
             }
         },
         "hash": {
-            "url": "https://github.whrstudio.top/https://github.com/docker/buildx/releases/download/v$version/checksums.txt"
+            "url": "https://github.7boe.top/https://github.com/docker/buildx/releases/download/v$version/checksums.txt"
         }
     }
 }

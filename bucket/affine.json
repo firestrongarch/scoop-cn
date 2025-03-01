@@ -5,11 +5,11 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/toeverything/AFFiNE/releases/download/v0.20.3/affine-0.20.3-stable-windows-x64.exe#/dl.7z",
+            "url": "https://github.7boe.top/https://github.com/toeverything/AFFiNE/releases/download/v0.20.3/affine-0.20.3-stable-windows-x64.exe#/dl.7z",
             "hash": "sha512:ee7cb33e8edc25b5802605a68a4bb334430abada64f7b97b959025168738f51199eea1fe8b3cacaac202bce7711d698107f3146824c3578c1965a561002a68ea"
         },
         "arm64": {
-            "url": "https://github.whrstudio.top/https://github.com/toeverything/AFFiNE/releases/download/v0.20.3/affine-0.20.3-stable-windows-arm64.exe#/dl.7z",
+            "url": "https://github.7boe.top/https://github.com/toeverything/AFFiNE/releases/download/v0.20.3/affine-0.20.3-stable-windows-arm64.exe#/dl.7z",
             "hash": "sha512:6c69a71c05402dc5a00122065e6e03baed595c1b157a9b67a73a42e7515b72a78205e73ed9665c79c03d71df24a0e87856cad3b9dad112d4318c2bba0d9b53d6"
         }
     },
@@ -29,10 +29,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/toeverything/AFFiNE/releases/download/v$version/affine-$version-stable-windows-x64.exe#/dl.7z"
+                "url": "https://github.7boe.top/https://github.com/toeverything/AFFiNE/releases/download/v$version/affine-$version-stable-windows-x64.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://github.whrstudio.top/https://github.com/toeverything/AFFiNE/releases/download/v$version/affine-$version-stable-windows-arm64.exe#/dl.7z"
+                "url": "https://github.7boe.top/https://github.com/toeverything/AFFiNE/releases/download/v$version/affine-$version-stable-windows-arm64.exe#/dl.7z"
             }
         },
         "hash": {

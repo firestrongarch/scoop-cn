@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/bambulab/BambuStudio/releases/download/v01.10.02.76/Bambu_Studio_win-v01.10.02.76-20250225202310.zip",
+            "url": "https://github.7boe.top/https://github.com/bambulab/BambuStudio/releases/download/v01.10.02.76/Bambu_Studio_win-v01.10.02.76-20250225202310.zip",
             "hash": "28d3e1a1368c4d8a3bd1ad8ca343bdd390a2e4322f9c9d9329400ec96003fcac"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/bambulab/BambuStudio/releases/download/v$version/Bambu_Studio_win-v$version-$matchDate.zip"
+                "url": "https://github.7boe.top/https://github.com/bambulab/BambuStudio/releases/download/v$version/Bambu_Studio_win-v$version-$matchDate.zip"
             }
         }
     }

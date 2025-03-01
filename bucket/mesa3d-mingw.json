@@ -6,7 +6,7 @@
         "identifier": "MIT",
         "url": "https://docs.mesa3d.org/license.html"
     },
-    "url": "https://github.whrstudio.top/https://github.com/pal1000/mesa-dist-win/releases/download/25.0.0/mesa3d-25.0.0-release-mingw.7z",
+    "url": "https://github.7boe.top/https://github.com/pal1000/mesa-dist-win/releases/download/25.0.0/mesa3d-25.0.0-release-mingw.7z",
     "hash": "3258491a2a332168e66baf307f612bfe50b1c4b32cf2733a586180e6dfc51538",
     "notes": [
         "",
@@ -21,6 +21,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.whrstudio.top/https://github.com/pal1000/mesa-dist-win/releases/download/$version/mesa3d-$version-release-mingw.7z"
+        "url": "https://github.7boe.top/https://github.com/pal1000/mesa-dist-win/releases/download/$version/mesa3d-$version-release-mingw.7z"
     }
 }

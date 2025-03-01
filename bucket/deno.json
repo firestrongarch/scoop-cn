@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/denoland/deno/releases/download/v2.2.2/deno-x86_64-pc-windows-msvc.zip",
+            "url": "https://github.7boe.top/https://github.com/denoland/deno/releases/download/v2.2.2/deno-x86_64-pc-windows-msvc.zip",
             "hash": "561ebfebd6d223ca33124badc80f0cafeafc25e4a47fa7d76a60e9b727629c48"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/denoland/deno/releases/download/v$version/deno-x86_64-pc-windows-msvc.zip"
+                "url": "https://github.7boe.top/https://github.com/denoland/deno/releases/download/v$version/deno-x86_64-pc-windows-msvc.zip"
             }
         },
         "hash": {

@@ -6,7 +6,7 @@
         "identifier": "GPL-3.0-only",
         "url": "https://github.com/Tormak9970/Steam-Art-Manager/blob/main/LICENSE"
     },
-    "url": "https://github.whrstudio.top/https://github.com/Tormak9970/Steam-Art-Manager/releases/download/v3.11.0/steam-art-manager_3.11.0.msi.zip",
+    "url": "https://github.7boe.top/https://github.com/Tormak9970/Steam-Art-Manager/releases/download/v3.11.0/steam-art-manager_3.11.0.msi.zip",
     "hash": "cd0a7a2a211b92f7b83c42653eb1186c6781bdb6b352ff04b19e7d4d2c9bdf5a",
     "pre_install": [
         "Get-ChildItem \"$dir\\Steam Art Manager_*.msi\" | Select-Object -First 1 | ForEach-Object { Rename-Item $_ \"dl.msi\" }",
@@ -29,6 +29,6 @@
         "github": "https://github.com/Tormak9970/Steam-Art-Manager"
     },
     "autoupdate": {
-        "url": "https://github.whrstudio.top/https://github.com/Tormak9970/Steam-Art-Manager/releases/download/v$version/steam-art-manager_$version.msi.zip"
+        "url": "https://github.7boe.top/https://github.com/Tormak9970/Steam-Art-Manager/releases/download/v$version/steam-art-manager_$version.msi.zip"
     }
 }

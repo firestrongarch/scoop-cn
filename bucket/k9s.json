@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/derailed/k9s/releases/download/v0.40.5/k9s_Windows_amd64.zip",
+            "url": "https://github.7boe.top/https://github.com/derailed/k9s/releases/download/v0.40.5/k9s_Windows_amd64.zip",
             "hash": "3e110547f55c241f5183507f698a0e479a7f1eed457506d23c9bcfa68bce9a9f"
         },
         "arm64": {
-            "url": "https://github.whrstudio.top/https://github.com/derailed/k9s/releases/download/v0.40.5/k9s_Windows_arm64.zip",
+            "url": "https://github.7boe.top/https://github.com/derailed/k9s/releases/download/v0.40.5/k9s_Windows_arm64.zip",
             "hash": "b648e4529ebbd6f8f84d3adf16ba4635af14d4629bb4497a00ee3abe99a217f6"
         }
     },
@@ -22,10 +22,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/derailed/k9s/releases/download/v$version/k9s_Windows_amd64.zip"
+                "url": "https://github.7boe.top/https://github.com/derailed/k9s/releases/download/v$version/k9s_Windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://github.whrstudio.top/https://github.com/derailed/k9s/releases/download/v$version/k9s_Windows_arm64.zip"
+                "url": "https://github.7boe.top/https://github.com/derailed/k9s/releases/download/v$version/k9s_Windows_arm64.zip"
             }
         },
         "hash": {

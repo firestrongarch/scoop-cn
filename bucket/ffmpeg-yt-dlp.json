@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.whrstudio.top/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2025-02-28-14-15/ffmpeg-n7.1-214-g71889a8437-win64-gpl-7.1.zip",
+            "url": "https://github.7boe.top/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2025-02-28-14-15/ffmpeg-n7.1-214-g71889a8437-win64-gpl-7.1.zip",
             "hash": "bd448b69e443617a5d0f19f9d6a22618b6b5e3a802d391b7f8d456c98e4a1b35",
             "extract_dir": "ffmpeg-n7.1-214-g71889a8437-win64-gpl-7.1"
         },
         "32bit": {
-            "url": "https://github.whrstudio.top/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2025-02-28-14-15/ffmpeg-n7.1-214-g71889a8437-win32-gpl-7.1.zip",
+            "url": "https://github.7boe.top/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-2025-02-28-14-15/ffmpeg-n7.1-214-g71889a8437-win32-gpl-7.1.zip",
             "hash": "a4c65e89d87f260c2073b3aaa30f4a3ca31d0d1d4c1f8c812b26309bf6c44199",
             "extract_dir": "ffmpeg-n7.1-214-g71889a8437-win32-gpl-7.1"
         }
@@ -47,11 +47,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.whrstudio.top/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename64bit.zip",
+                "url": "https://github.7boe.top/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename64bit.zip",
                 "extract_dir": "$matchFilename64bit"
             },
             "32bit": {
-                "url": "https://github.whrstudio.top/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename32bit.zip",
+                "url": "https://github.7boe.top/https://github.com/yt-dlp/FFmpeg-Builds/releases/download/autobuild-$matchBuildtime/$matchFilename32bit.zip",
                 "extract_dir": "$matchFilename32bit"
             }
         }
