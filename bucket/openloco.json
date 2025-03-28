@@ -4,9 +4,9 @@
     "homepage": "https://github.com/OpenLoco/OpenLoco",
     "license": {
         "identifier": "MIT",
-        "url": "https://github.7boe.top/https://github.com/OpenLoco/OpenLoco/raw/master/LICENSE"
+        "url": "https://gitproxy.click/https://github.com/OpenLoco/OpenLoco/raw/master/LICENSE"
     },
-    "url": "https://github.7boe.top/https://github.com/OpenLoco/OpenLoco/releases/download/v25.02/OpenLoco-v25.02-win32.zip",
+    "url": "https://gitproxy.click/https://github.com/OpenLoco/OpenLoco/releases/download/v25.02/OpenLoco-v25.02-win32.zip",
     "hash": "d5c7dff7053511c42174eee1bf8ecc850a1d686feea68d389928adf2e6c04ba1",
     "bin": "OpenLoco.exe",
     "shortcuts": [
@@ -17,6 +17,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.7boe.top/https://github.com/OpenLoco/OpenLoco/releases/download/v$version/OpenLoco-v$version-win32.zip"
+        "url": "https://gitproxy.click/https://github.com/OpenLoco/OpenLoco/releases/download/v$version/OpenLoco-v$version-win32.zip"
     }
 }

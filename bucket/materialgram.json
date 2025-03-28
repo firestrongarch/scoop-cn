@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/kukuruzka165/materialgram/releases/download/v5.12.5.1/win64_materialgram_v5.12.5.1.zip",
+            "url": "https://gitproxy.click/https://github.com/kukuruzka165/materialgram/releases/download/v5.12.5.1/win64_materialgram_v5.12.5.1.zip",
             "hash": "baba6f76a14d09a1b010bfba4ccc61631c3c3dddd5e38908bb5fd66ccb0c9256"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/kukuruzka165/materialgram/releases/download/v$version/win64_materialgram_v$version.zip"
+                "url": "https://gitproxy.click/https://github.com/kukuruzka165/materialgram/releases/download/v$version/win64_materialgram_v$version.zip"
             }
         }
     }

@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.2/kubevpn_v2.4.2_windows_amd64.zip",
+            "url": "https://gitproxy.click/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.2/kubevpn_v2.4.2_windows_amd64.zip",
             "hash": "96baaeadc1d17ad1aa39aa95b6431647c2635bbefba2c97180b5f5b7cd61ec93"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.2/kubevpn_v2.4.2_windows_386.zip",
+            "url": "https://gitproxy.click/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.2/kubevpn_v2.4.2_windows_386.zip",
             "hash": "e66d890691eb31578c4a40d37d2995a39536318f9a9d26a9256c0db296866028"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.2/kubevpn_v2.4.2_windows_arm64.zip",
+            "url": "https://gitproxy.click/https://github.com/kubenetworks/kubevpn/releases/download/v2.4.2/kubevpn_v2.4.2_windows_arm64.zip",
             "hash": "22a93eb20e07d4c6ce56878556672548094f2e8c7c72efb3ebd012c2cea59d43"
         }
     },
@@ -31,13 +31,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_amd64.zip"
+                "url": "https://gitproxy.click/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_386.zip"
+                "url": "https://gitproxy.click/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_arm64.zip"
+                "url": "https://gitproxy.click/https://github.com/kubenetworks/kubevpn/releases/download/v$version/kubevpn_v$version_windows_arm64.zip"
             }
         }
     }

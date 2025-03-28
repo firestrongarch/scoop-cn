@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/evilmartians/lefthook/releases/download/v1.11.5/lefthook_1.11.5_Windows_x86_64.gz",
+            "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v1.11.5/lefthook_1.11.5_Windows_x86_64.gz",
             "hash": "d27995ad8158b30dbcfca21e311dafb315d9340c1e93776b9d23525e00c63a27"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/evilmartians/lefthook/releases/download/v1.11.5/lefthook_1.11.5_Windows_i386.gz",
+            "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v1.11.5/lefthook_1.11.5_Windows_i386.gz",
             "hash": "70852614d413a12855f7e87011b48ea0d400a3d9f7f48055f018dd5954792b89"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/evilmartians/lefthook/releases/download/v1.11.5/lefthook_1.11.5_Windows_arm64.gz",
+            "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v1.11.5/lefthook_1.11.5_Windows_arm64.gz",
             "hash": "588bb6d85dedf11111584ceec19ceb931611d3234437006a3549cedfb8a1b132"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_x86_64.gz"
+                "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_x86_64.gz"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_i386.gz"
+                "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_i386.gz"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_arm64.gz"
+                "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_arm64.gz"
             }
         },
         "hash": {

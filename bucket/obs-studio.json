@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/obsproject/obs-studio/releases/download/31.0.2/OBS-Studio-31.0.2-Windows.zip",
+            "url": "https://gitproxy.click/https://github.com/obsproject/obs-studio/releases/download/31.0.2/OBS-Studio-31.0.2-Windows.zip",
             "hash": "64c47f7240805989c70f7d1222354408f7286fd377bf6744f10a0a5652d67d1a",
             "shortcuts": [
                 [
@@ -37,7 +37,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/obsproject/obs-studio/releases/download/$version/OBS-Studio-$version-Windows.zip",
+                "url": "https://gitproxy.click/https://github.com/obsproject/obs-studio/releases/download/$version/OBS-Studio-$version-Windows.zip",
                 "hash": {
                     "url": "https://github.com/obsproject/obs-studio/releases/$version",
                     "regex": "(?sm)$basename.*?$sha256"

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/wagoodman/dive/releases/download/v0.13.0/dive_0.13.0_windows_amd64.zip",
+            "url": "https://gitproxy.click/https://github.com/wagoodman/dive/releases/download/v0.13.0/dive_0.13.0_windows_amd64.zip",
             "hash": "acaeaff808b5afcaaa86d024a20b85e3dfc43944faa7e1046587ebc5a5b1b912"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/wagoodman/dive/releases/download/v$version/dive_$version_windows_amd64.zip"
+                "url": "https://gitproxy.click/https://github.com/wagoodman/dive/releases/download/v$version/dive_$version_windows_amd64.zip"
             }
         },
         "hash": {

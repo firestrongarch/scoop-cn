@@ -5,11 +5,11 @@
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v3.1.2/lokalise2_windows_x86_64.zip",
+            "url": "https://gitproxy.click/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v3.1.2/lokalise2_windows_x86_64.zip",
             "hash": "b482de12ea9049afe0fd91d65c58b77cfa03db54b16c42f327bf34cdd38621a8"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v3.1.2/lokalise2_windows_i386.zip",
+            "url": "https://gitproxy.click/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v3.1.2/lokalise2_windows_i386.zip",
             "hash": "c130d7c892d24ecd7e9f21f64de8453b7acb3eb87053b18daee827d2b70f2685"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v$version/lokalise2_windows_x86_64.zip"
+                "url": "https://gitproxy.click/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v$version/lokalise2_windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v$version/lokalise2_windows_i386.zip"
+                "url": "https://gitproxy.click/https://github.com/lokalise/lokalise-cli-2-go/releases/download/v$version/lokalise2_windows_i386.zip"
             }
         },
         "hash": {

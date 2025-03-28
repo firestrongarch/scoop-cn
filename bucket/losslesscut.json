@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/mifi/lossless-cut/releases/download/v3.65.0/LosslessCut-win-x64.7z",
+            "url": "https://gitproxy.click/https://github.com/mifi/lossless-cut/releases/download/v3.65.0/LosslessCut-win-x64.7z",
             "hash": "ce4e8e97f4eab506f6fddde2dcc55c3a8c3a07f261ded3b2a6ad00ed30763a11"
         }
     },
@@ -44,7 +44,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/mifi/lossless-cut/releases/download/v$version/LosslessCut-win-x64.7z"
+                "url": "https://gitproxy.click/https://github.com/mifi/lossless-cut/releases/download/v$version/LosslessCut-win-x64.7z"
             }
         }
     }

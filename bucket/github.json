@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/desktop/desktop/releases/download/release-3.4.18/GitHubDesktop-3.4.18-x64-full.nupkg",
+            "url": "https://gitproxy.click/https://github.com/desktop/desktop/releases/download/release-3.4.18/GitHubDesktop-3.4.18-x64-full.nupkg",
             "hash": "743abf602f416b80a7cf8d2a9769207e88f961e1cd435f59e5048282ba0c50d3"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/desktop/desktop/releases/download/release-$version/GitHubDesktop-$version-x64-full.nupkg"
+                "url": "https://gitproxy.click/https://github.com/desktop/desktop/releases/download/release-$version/GitHubDesktop-$version-x64-full.nupkg"
             }
         },
         "hash": {

@@ -5,11 +5,11 @@
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/mlocati/gettext-iconv-windows/releases/download/v0.24-v1.17/gettext0.24-iconv1.17-shared-64.zip",
+            "url": "https://gitproxy.click/https://github.com/mlocati/gettext-iconv-windows/releases/download/v0.24-v1.17/gettext0.24-iconv1.17-shared-64.zip",
             "hash": "757592a27a0f3df388e7057714c84ae7472f8517daa878c6eed38ded5b8bfca1"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/mlocati/gettext-iconv-windows/releases/download/v0.24-v1.17/gettext0.24-iconv1.17-shared-32.zip",
+            "url": "https://gitproxy.click/https://github.com/mlocati/gettext-iconv-windows/releases/download/v0.24-v1.17/gettext0.24-iconv1.17-shared-32.zip",
             "hash": "28a354d94067cf860952c12392580a063bd82dcf28847732d223d42bd4a015fc"
         }
     },
@@ -38,10 +38,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/mlocati/gettext-iconv-windows/releases/download/v$version/gettext$matchGettext-iconv$matchIconv-shared-64.zip"
+                "url": "https://gitproxy.click/https://github.com/mlocati/gettext-iconv-windows/releases/download/v$version/gettext$matchGettext-iconv$matchIconv-shared-64.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/mlocati/gettext-iconv-windows/releases/download/v$version/gettext$matchGettext-iconv$matchIconv-shared-32.zip"
+                "url": "https://gitproxy.click/https://github.com/mlocati/gettext-iconv-windows/releases/download/v$version/gettext$matchGettext-iconv$matchIconv-shared-32.zip"
             }
         }
     }

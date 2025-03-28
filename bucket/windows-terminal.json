@@ -9,15 +9,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/microsoft/terminal/releases/download/v1.22.10731.0/Microsoft.WindowsTerminal_1.22.10731.0_x64.zip",
+            "url": "https://gitproxy.click/https://github.com/microsoft/terminal/releases/download/v1.22.10731.0/Microsoft.WindowsTerminal_1.22.10731.0_x64.zip",
             "hash": "1d15f5ed4e81324226d24390fa3cd9f5d9c4bc6639f81992b2e38b99881f6a6b"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/microsoft/terminal/releases/download/v1.22.10731.0/Microsoft.WindowsTerminal_1.22.10731.0_x86.zip",
+            "url": "https://gitproxy.click/https://github.com/microsoft/terminal/releases/download/v1.22.10731.0/Microsoft.WindowsTerminal_1.22.10731.0_x86.zip",
             "hash": "4ffd562483bcd7172c7bd56d3fd378a247032644a18e96b88d512d2b0a494328"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/microsoft/terminal/releases/download/v1.22.10731.0/Microsoft.WindowsTerminal_1.22.10731.0_arm64.zip",
+            "url": "https://gitproxy.click/https://github.com/microsoft/terminal/releases/download/v1.22.10731.0/Microsoft.WindowsTerminal_1.22.10731.0_arm64.zip",
             "hash": "d5304addd137d84274ecc4731fbcce4c7c7110ee02fc6626a0d739f31c9bbe98"
         }
     },
@@ -68,13 +68,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x64.zip"
+                "url": "https://gitproxy.click/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x64.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x86.zip"
+                "url": "https://gitproxy.click/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_x86.zip"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_arm64.zip"
+                "url": "https://gitproxy.click/https://github.com/microsoft/terminal/releases/download/v$version/Microsoft.WindowsTerminal_$version_arm64.zip"
             }
         },
         "hash": {

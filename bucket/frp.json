@@ -5,12 +5,12 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/fatedier/frp/releases/download/v0.61.2/frp_0.61.2_windows_amd64.zip",
+            "url": "https://gitproxy.click/https://github.com/fatedier/frp/releases/download/v0.61.2/frp_0.61.2_windows_amd64.zip",
             "hash": "5173739890fe7462eed6c9ca4e8ed2f98fca3604174bc596b0e955a4c58a50f2",
             "extract_dir": "frp_0.61.2_windows_amd64"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/fatedier/frp/releases/download/v0.61.2/frp_0.61.2_windows_arm64.zip",
+            "url": "https://gitproxy.click/https://github.com/fatedier/frp/releases/download/v0.61.2/frp_0.61.2_windows_arm64.zip",
             "hash": "6b1a374a95971911e0b7d962d3e6a879c45d6676e8b741f981c5759c892f0797",
             "extract_dir": "frp_0.61.2_windows_arm64"
         }
@@ -27,11 +27,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/fatedier/frp/releases/download/v$version/frp_$version_windows_amd64.zip",
+                "url": "https://gitproxy.click/https://github.com/fatedier/frp/releases/download/v$version/frp_$version_windows_amd64.zip",
                 "extract_dir": "frp_$version_windows_amd64"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/fatedier/frp/releases/download/v$version/frp_$version_windows_arm64.zip",
+                "url": "https://gitproxy.click/https://github.com/fatedier/frp/releases/download/v$version/frp_$version_windows_arm64.zip",
                 "extract_dir": "frp_$version_windows_arm64"
             }
         },

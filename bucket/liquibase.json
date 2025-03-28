@@ -6,7 +6,7 @@
     "suggest": {
         "JRE": "scoop-cn/openjdk"
     },
-    "url": "https://github.7boe.top/https://github.com/liquibase/liquibase/releases/download/v4.31.1/liquibase-4.31.1.zip",
+    "url": "https://gitproxy.click/https://github.com/liquibase/liquibase/releases/download/v4.31.1/liquibase-4.31.1.zip",
     "hash": "3de77fb91ce826ca568c250d5a68c84ff35f56f758b7677310bd13a96a98d315",
     "bin": "liquibase.bat",
     "persist": "lib-other",
@@ -14,6 +14,6 @@
         "github": "https://github.com/liquibase/liquibase"
     },
     "autoupdate": {
-        "url": "https://github.7boe.top/https://github.com/liquibase/liquibase/releases/download/v$version/liquibase-$version.zip"
+        "url": "https://gitproxy.click/https://github.com/liquibase/liquibase/releases/download/v$version/liquibase-$version.zip"
     }
 }

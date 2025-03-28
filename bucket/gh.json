@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/cli/cli/releases/download/v2.69.0/gh_2.69.0_windows_amd64.zip",
+            "url": "https://gitproxy.click/https://github.com/cli/cli/releases/download/v2.69.0/gh_2.69.0_windows_amd64.zip",
             "hash": "6be76f4c73464bf0317630bed2149be784fb8343d08e6c8472e0b4aac2a5abbe"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/cli/cli/releases/download/v2.69.0/gh_2.69.0_windows_386.zip",
+            "url": "https://gitproxy.click/https://github.com/cli/cli/releases/download/v2.69.0/gh_2.69.0_windows_386.zip",
             "hash": "8e4c651a19a8880fb7f1858888e4305c5a23258da2bdcbf64cad438a8b52d953"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/cli/cli/releases/download/v2.69.0/gh_2.69.0_windows_arm64.zip",
+            "url": "https://gitproxy.click/https://github.com/cli/cli/releases/download/v2.69.0/gh_2.69.0_windows_arm64.zip",
             "hash": "45cc2ee4e1741719e27fcfa1a751ec1d0408f093d210f8007eea20c8ea317bd8"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_amd64.zip"
+                "url": "https://gitproxy.click/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_386.zip"
+                "url": "https://gitproxy.click/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_386.zip"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_arm64.zip"
+                "url": "https://gitproxy.click/https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_arm64.zip"
             }
         },
         "hash": {

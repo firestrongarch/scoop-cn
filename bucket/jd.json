@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/josephburnett/jd/releases/download/v2.2.2/jd-amd64-windows.exe#/jd.exe",
+            "url": "https://gitproxy.click/https://github.com/josephburnett/jd/releases/download/v2.2.2/jd-amd64-windows.exe#/jd.exe",
             "hash": "0c442c7af66acbbf9880f1d4b2f2a4f266aadfdd41ec3d16e75a7b9af27c0601"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/josephburnett/jd/releases/download/v2.2.2/jd-arm64-windows.exe#/jd.exe",
+            "url": "https://gitproxy.click/https://github.com/josephburnett/jd/releases/download/v2.2.2/jd-arm64-windows.exe#/jd.exe",
             "hash": "7dce6eecb320e54e5c88ece6c9a639437ca4716c94aa988acfb0459c557e8e4d"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/josephburnett/jd/releases/download/v$version/jd-amd64-windows.exe#/jd.exe"
+                "url": "https://gitproxy.click/https://github.com/josephburnett/jd/releases/download/v$version/jd-amd64-windows.exe#/jd.exe"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/josephburnett/jd/releases/download/v$version/jd-arm64-windows.exe#/jd.exe"
+                "url": "https://gitproxy.click/https://github.com/josephburnett/jd/releases/download/v$version/jd-arm64-windows.exe#/jd.exe"
             }
         }
     }

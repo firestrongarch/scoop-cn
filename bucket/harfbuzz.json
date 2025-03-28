@@ -5,12 +5,12 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/harfbuzz/harfbuzz/releases/download/11.0.0/harfbuzz-win64-11.0.0.zip",
+            "url": "https://gitproxy.click/https://github.com/harfbuzz/harfbuzz/releases/download/11.0.0/harfbuzz-win64-11.0.0.zip",
             "hash": "72dc6ed89f673811ee1fd00bb89e0e213b3a95914e20e7de63ff11924ea75af0",
             "extract_dir": "harfbuzz-win64"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/harfbuzz/harfbuzz/releases/download/11.0.0/harfbuzz-win32-11.0.0.zip",
+            "url": "https://gitproxy.click/https://github.com/harfbuzz/harfbuzz/releases/download/11.0.0/harfbuzz-win32-11.0.0.zip",
             "hash": "c955a993ed0facbe5c50e4b387373e1ffc37b522d0ca72925b43fdda4e428d1d",
             "extract_dir": "harfbuzz-win32"
         }
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/harfbuzz/harfbuzz/releases/download/$version/harfbuzz-win64-$version.zip"
+                "url": "https://gitproxy.click/https://github.com/harfbuzz/harfbuzz/releases/download/$version/harfbuzz-win64-$version.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/harfbuzz/harfbuzz/releases/download/$version/harfbuzz-win32-$version.zip"
+                "url": "https://gitproxy.click/https://github.com/harfbuzz/harfbuzz/releases/download/$version/harfbuzz-win32-$version.zip"
             }
         }
     }

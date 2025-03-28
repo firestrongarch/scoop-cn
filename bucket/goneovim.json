@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/akiyosi/goneovim/releases/download/v0.6.12/goneovim-v0.6.12-windows.zip",
+            "url": "https://gitproxy.click/https://github.com/akiyosi/goneovim/releases/download/v0.6.12/goneovim-v0.6.12-windows.zip",
             "hash": "a3015a7244a9bf9200c6cbecd7ac44bfd10dd5fdc1c6db98e2bd83e5f095041a"
         }
     },
@@ -24,7 +24,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/akiyosi/goneovim/releases/download/v$version/goneovim-v$version-windows.zip"
+                "url": "https://gitproxy.click/https://github.com/akiyosi/goneovim/releases/download/v$version/goneovim-v$version-windows.zip"
             }
         },
         "extract_dir": "goneovim-v$version-windows"

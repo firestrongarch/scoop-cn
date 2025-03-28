@@ -10,12 +10,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/2dust/v2rayN/releases/download/7.10.5/v2rayN-windows-64.zip",
+            "url": "https://gitproxy.click/https://github.com/2dust/v2rayN/releases/download/7.10.5/v2rayN-windows-64.zip",
             "hash": "40e5e2802dfc0bff771ee343c0147ec4d1fa7ff93f67e1d8cf631441fc703902",
             "extract_dir": "v2rayN-windows-64"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/2dust/v2rayN/releases/download/7.10.5/v2rayN-windows-arm64.zip",
+            "url": "https://gitproxy.click/https://github.com/2dust/v2rayN/releases/download/7.10.5/v2rayN-windows-arm64.zip",
             "hash": "d69ebd7d194bab71c5d8c419be6bb129ea1358f96fe6d6d76f317122bd614dd5",
             "extract_dir": "v2rayN-windows-arm64"
         }
@@ -44,10 +44,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/2dust/v2rayN/releases/download/$version/v2rayN-windows-64.zip"
+                "url": "https://gitproxy.click/https://github.com/2dust/v2rayN/releases/download/$version/v2rayN-windows-64.zip"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/2dust/v2rayN/releases/download/$version/v2rayN-windows-arm64.zip"
+                "url": "https://gitproxy.click/https://github.com/2dust/v2rayN/releases/download/$version/v2rayN-windows-arm64.zip"
             }
         }
     }

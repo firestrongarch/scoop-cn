@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/ZDoom/gzdoom/releases/download/g4.14.1/gzdoom-4-14-1-Windows.zip",
+            "url": "https://gitproxy.click/https://github.com/ZDoom/gzdoom/releases/download/g4.14.1/gzdoom-4-14-1-Windows.zip",
             "hash": "cdfad7007cb4ae73206f203b7f9c9dc02ef3cba1ed741517586b716562d681d1"
         }
     },
@@ -40,7 +40,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/ZDoom/gzdoom/releases/download/g$version/gzdoom-$dashVersion-Windows.zip"
+                "url": "https://gitproxy.click/https://github.com/ZDoom/gzdoom/releases/download/g$version/gzdoom-$dashVersion-Windows.zip"
             }
         }
     }

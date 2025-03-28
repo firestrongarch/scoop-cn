@@ -5,11 +5,11 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/navidrome/navidrome/releases/download/v0.55.1/navidrome_0.55.1_windows_amd64.zip",
+            "url": "https://gitproxy.click/https://github.com/navidrome/navidrome/releases/download/v0.55.1/navidrome_0.55.1_windows_amd64.zip",
             "hash": "4d921a3f6cc486eac39ad441c6e5320ecf2db28cb855fe09e7a01f0588ad5f92"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/navidrome/navidrome/releases/download/v0.55.1/navidrome_0.55.1_windows_386.zip",
+            "url": "https://gitproxy.click/https://github.com/navidrome/navidrome/releases/download/v0.55.1/navidrome_0.55.1_windows_386.zip",
             "hash": "527c5ce3cc6c3d1b0722d1c5ca0a76580afe846a42a1ba7c5355b613376c29bd"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/navidrome/navidrome/releases/download/v$version/navidrome_$version_windows_amd64.zip"
+                "url": "https://gitproxy.click/https://github.com/navidrome/navidrome/releases/download/v$version/navidrome_$version_windows_amd64.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/navidrome/navidrome/releases/download/v$version/navidrome_$version_windows_386.zip"
+                "url": "https://gitproxy.click/https://github.com/navidrome/navidrome/releases/download/v$version/navidrome_$version_windows_386.zip"
             }
         },
         "hash": {

@@ -24,10 +24,10 @@
             "dgVoodoo"
         ]
     ],
-    "url": "https://github.7boe.top/https://github.com/dege-diosg/dgVoodoo2/releases/download/v2.85/dgVoodoo2_85.zip",
+    "url": "https://gitproxy.click/https://github.com/dege-diosg/dgVoodoo2/releases/download/v2.85/dgVoodoo2_85.zip",
     "hash": "aa2f86592070c897760bb3c1a23374bae940096963c74271a2784916a4066752",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.7boe.top/https://github.com/dege-diosg/dgVoodoo2/releases/download/v$version/dgVoodoo$underscoreVersion.zip"
+        "url": "https://gitproxy.click/https://github.com/dege-diosg/dgVoodoo2/releases/download/v$version/dgVoodoo$underscoreVersion.zip"
     }
 }

@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/cargo-bins/cargo-binstall/releases/download/v1.12.2/cargo-binstall-x86_64-pc-windows-msvc.zip",
+            "url": "https://gitproxy.click/https://github.com/cargo-bins/cargo-binstall/releases/download/v1.12.2/cargo-binstall-x86_64-pc-windows-msvc.zip",
             "hash": "1a76c55e82ef1ba3dcb174b3c47910d7cd4c16e3557c7c3b7414b5ad1559fe42"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/cargo-bins/cargo-binstall/releases/download/v1.12.2/cargo-binstall-aarch64-pc-windows-msvc.zip",
+            "url": "https://gitproxy.click/https://github.com/cargo-bins/cargo-binstall/releases/download/v1.12.2/cargo-binstall-aarch64-pc-windows-msvc.zip",
             "hash": "f98653d5f0b18a0a27febc6cba0e13b027f944efabc8511b292138e0b03f7608"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/cargo-bins/cargo-binstall/releases/download/v$version/cargo-binstall-x86_64-pc-windows-msvc.zip"
+                "url": "https://gitproxy.click/https://github.com/cargo-bins/cargo-binstall/releases/download/v$version/cargo-binstall-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/cargo-bins/cargo-binstall/releases/download/v$version/cargo-binstall-aarch64-pc-windows-msvc.zip"
+                "url": "https://gitproxy.click/https://github.com/cargo-bins/cargo-binstall/releases/download/v$version/cargo-binstall-aarch64-pc-windows-msvc.zip"
             }
         }
     }

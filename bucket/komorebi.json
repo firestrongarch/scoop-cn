@@ -13,11 +13,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/LGUG2Z/komorebi/releases/download/v0.1.35/komorebi-0.1.35-x86_64-pc-windows-msvc.zip",
+            "url": "https://gitproxy.click/https://github.com/LGUG2Z/komorebi/releases/download/v0.1.35/komorebi-0.1.35-x86_64-pc-windows-msvc.zip",
             "hash": "c77a677c1f4db96e243c7722f8390962f26ef871fec5297ccbe2588ce5d8bfa9"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/LGUG2Z/komorebi/releases/download/v0.1.35/komorebi-0.1.35-aarch64-pc-windows-msvc.zip",
+            "url": "https://gitproxy.click/https://github.com/LGUG2Z/komorebi/releases/download/v0.1.35/komorebi-0.1.35-aarch64-pc-windows-msvc.zip",
             "hash": "0cab64b0dfc453d1f442bd286e8211262de0de2d967c3adedb49bbcf477a138c"
         }
     },
@@ -32,10 +32,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/LGUG2Z/komorebi/releases/download/v$version/komorebi-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gitproxy.click/https://github.com/LGUG2Z/komorebi/releases/download/v$version/komorebi-$version-x86_64-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/LGUG2Z/komorebi/releases/download/v$version/komorebi-$version-aarch64-pc-windows-msvc.zip"
+                "url": "https://gitproxy.click/https://github.com/LGUG2Z/komorebi/releases/download/v$version/komorebi-$version-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

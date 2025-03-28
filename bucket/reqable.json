@@ -12,7 +12,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/reqable/reqable-app/releases/download/2.33.7/reqable-app-windows-x86_64.zip",
+            "url": "https://gitproxy.click/https://github.com/reqable/reqable-app/releases/download/2.33.7/reqable-app-windows-x86_64.zip",
             "hash": "2ee14a6dc8ba2f46251e9cb226233ef9aff4249b35857f0a9c3dae2eaf7ad221"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/reqable/reqable-app/releases/download/$version/reqable-app-windows-x86_64.zip"
+                "url": "https://gitproxy.click/https://github.com/reqable/reqable-app/releases/download/$version/reqable-app-windows-x86_64.zip"
             }
         }
     }

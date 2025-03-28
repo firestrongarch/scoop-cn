@@ -5,13 +5,13 @@
     "license": "BSD-2-Clause-Views",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/walles/moar/releases/download/v1.31.4/moar-v1.31.4-windows-amd64.exe#/moar.exe",
+            "url": "https://gitproxy.click/https://github.com/walles/moar/releases/download/v1.31.4/moar-v1.31.4-windows-amd64.exe#/moar.exe",
             "hash": "29dc7b192d5a38b319a934f649fc0466f1744198e4645a2956e7ca79395f27bb"
         }
     },
     "bin": "moar.exe",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.7boe.top/https://github.com/walles/moar/releases/download/v$version/moar-v$version-windows-amd64.exe#/moar.exe"
+        "url": "https://gitproxy.click/https://github.com/walles/moar/releases/download/v$version/moar-v$version-windows-amd64.exe#/moar.exe"
     }
 }

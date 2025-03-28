@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/railwayapp/nixpacks/releases/download/v1.34.1/nixpacks-v1.34.1-x86_64-pc-windows-msvc.zip",
+            "url": "https://gitproxy.click/https://github.com/railwayapp/nixpacks/releases/download/v1.34.1/nixpacks-v1.34.1-x86_64-pc-windows-msvc.zip",
             "hash": "d29098c0ccae50c38a6a8de6abbdb448c5aeb0610a42bd8052e9b655dc06601c"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/railwayapp/nixpacks/releases/download/v1.34.1/nixpacks-v1.34.1-i686-pc-windows-msvc.zip",
+            "url": "https://gitproxy.click/https://github.com/railwayapp/nixpacks/releases/download/v1.34.1/nixpacks-v1.34.1-i686-pc-windows-msvc.zip",
             "hash": "c58a1d991d13296aae8a77da103371515919e60322611e6b70e0196ed5815b9b"
         }
     },
@@ -21,10 +21,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/railwayapp/nixpacks/releases/download/v$version/nixpacks-v$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://gitproxy.click/https://github.com/railwayapp/nixpacks/releases/download/v$version/nixpacks-v$version-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/railwayapp/nixpacks/releases/download/v$version/nixpacks-v$version-i686-pc-windows-msvc.zip"
+                "url": "https://gitproxy.click/https://github.com/railwayapp/nixpacks/releases/download/v$version/nixpacks-v$version-i686-pc-windows-msvc.zip"
             }
         },
         "hash": {

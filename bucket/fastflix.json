@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/cdgriffith/FastFlix/releases/download/5.10.0/FastFlix_5.10.0_win64.zip",
+            "url": "https://gitproxy.click/https://github.com/cdgriffith/FastFlix/releases/download/5.10.0/FastFlix_5.10.0_win64.zip",
             "hash": "f802b9488dcfca4a32c3a3fa416be0ebfe420daf51ae4a1ab1eb94a44dcc8159"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/cdgriffith/FastFlix/releases/download/$version/FastFlix_$version_win64.zip"
+                "url": "https://gitproxy.click/https://github.com/cdgriffith/FastFlix/releases/download/$version/FastFlix_$version_win64.zip"
             }
         }
     }

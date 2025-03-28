@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/anyproto/anytype-ts/releases/download/v0.45.3/Anytype.Setup.0.45.3.exe#/dl.7z",
+            "url": "https://gitproxy.click/https://github.com/anyproto/anytype-ts/releases/download/v0.45.3/Anytype.Setup.0.45.3.exe#/dl.7z",
             "hash": "068cdc4a26282eff837e572e066af94465207b864aea4767573e4ccb1f057a43",
             "pre_install": [
                 "Remove-Item \"$dir\\resources\" -Recurse",
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/anyproto/anytype-ts/releases/download/v$version/Anytype.Setup.$version.exe#/dl.7z"
+                "url": "https://gitproxy.click/https://github.com/anyproto/anytype-ts/releases/download/v$version/Anytype.Setup.$version.exe#/dl.7z"
             }
         }
     }

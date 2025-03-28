@@ -6,7 +6,7 @@
     "suggest": {
         "JDK": "scoop-cn/openjdk"
     },
-    "url": "https://github.7boe.top/https://github.com/quarkusio/quarkus/releases/download/3.21.0/quarkus-cli-3.21.0.zip",
+    "url": "https://gitproxy.click/https://github.com/quarkusio/quarkus/releases/download/3.21.0/quarkus-cli-3.21.0.zip",
     "extract_dir": "quarkus-cli-3.21.0",
     "hash": "18049235a4787279461858a289abd20565bdf97341ab6e97a5d8d6a7c9ae2049",
     "bin": "bin\\quarkus.bat",
@@ -16,7 +16,7 @@
         "regex": "([\\d+\\.]+)"
     },
     "autoupdate": {
-        "url": "https://github.7boe.top/https://github.com/quarkusio/quarkus/releases/download/$version/quarkus-cli-$version.zip",
+        "url": "https://gitproxy.click/https://github.com/quarkusio/quarkus/releases/download/$version/quarkus-cli-$version.zip",
         "extract_dir": "quarkus-cli-$version",
         "hash": {
             "url": "$baseurl/checksums_sha256.txt"

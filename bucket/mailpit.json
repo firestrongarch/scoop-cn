@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/axllent/mailpit/releases/download/v1.23.2/mailpit-windows-amd64.zip",
+            "url": "https://gitproxy.click/https://github.com/axllent/mailpit/releases/download/v1.23.2/mailpit-windows-amd64.zip",
             "hash": "ccd9ea8e8e02de94b31aaf593a94f915a336cbb9830686063a341d3e3ab43aaa"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/axllent/mailpit/releases/download/v1.23.2/mailpit-windows-arm64.zip",
+            "url": "https://gitproxy.click/https://github.com/axllent/mailpit/releases/download/v1.23.2/mailpit-windows-arm64.zip",
             "hash": "ab240bca228f3a95127e42add2cf994cbb21f624b46805d988970f2a8a060429"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/axllent/mailpit/releases/download/v$version/mailpit-windows-amd64.zip"
+                "url": "https://gitproxy.click/https://github.com/axllent/mailpit/releases/download/v$version/mailpit-windows-amd64.zip"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/axllent/mailpit/releases/download/v$version/mailpit-windows-arm64.zip"
+                "url": "https://gitproxy.click/https://github.com/axllent/mailpit/releases/download/v$version/mailpit-windows-arm64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/musescore/MuseScore/releases/download/v4.5.1/MuseScore-Studio-4.5.1.250800846-x86_64.msi",
+            "url": "https://gitproxy.click/https://github.com/musescore/MuseScore/releases/download/v4.5.1/MuseScore-Studio-4.5.1.250800846-x86_64.msi",
             "hash": "f33dccdc3de965d211fecbf0739c7c662ca17cecaacd8ef2bfb694779b278666"
         }
     },
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/musescore/MuseScore/releases/download/v$matchVer/MuseScore-Studio-$version-x86_64.msi",
+                "url": "https://gitproxy.click/https://github.com/musescore/MuseScore/releases/download/v$matchVer/MuseScore-Studio-$version-x86_64.msi",
                 "hash": {
                     "url": "https://musescore.org/en/download/musescore.msi",
                     "regex": ">SHA256 Checksum:\\s+$sha256</"

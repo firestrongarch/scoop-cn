@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/erlang/otp/releases/download/OTP-27.3/otp_win64_27.3.exe#/dl.7z",
+            "url": "https://gitproxy.click/https://github.com/erlang/otp/releases/download/OTP-27.3/otp_win64_27.3.exe#/dl.7z",
             "hash": "b7f69907982da349c02d1f9f1ae3eb6f2c8d9950fe4a5feb9fa592f29867067e"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/erlang/otp/releases/download/OTP-27.3/otp_win32_27.3.exe#/dl.7z",
+            "url": "https://gitproxy.click/https://github.com/erlang/otp/releases/download/OTP-27.3/otp_win32_27.3.exe#/dl.7z",
             "hash": "0ee7ddd89d4b2aa3dfdbff27b8029f22b5e35cfc71abac2172ea8f33d23fb4dd"
         }
     },
@@ -43,10 +43,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win64_$version.exe#/dl.7z"
+                "url": "https://gitproxy.click/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win64_$version.exe#/dl.7z"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win32_$version.exe#/dl.7z"
+                "url": "https://gitproxy.click/https://github.com/erlang/otp/releases/download/OTP-$version/otp_win32_$version.exe#/dl.7z"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/Zettlr/Zettlr/releases/download/v3.4.3/Zettlr-3.4.3-x64.exe#/dl.7z",
+            "url": "https://gitproxy.click/https://github.com/Zettlr/Zettlr/releases/download/v3.4.3/Zettlr-3.4.3-x64.exe#/dl.7z",
             "hash": "dfd0289d924425ae8c7b59a4a81c7826cee2b2d86d0c2642e8cc69949396d96c",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/Zettlr/Zettlr/releases/download/v$version/Zettlr-$version-x64.exe#/dl.7z"
+                "url": "https://gitproxy.click/https://github.com/Zettlr/Zettlr/releases/download/v$version/Zettlr-$version-x64.exe#/dl.7z"
             }
         },
         "hash": {

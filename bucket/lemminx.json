@@ -5,7 +5,7 @@
     "license": "EPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/redhat-developer/vscode-xml/releases/download/0.28.0/lemminx-win32.zip",
+            "url": "https://gitproxy.click/https://github.com/redhat-developer/vscode-xml/releases/download/0.28.0/lemminx-win32.zip",
             "hash": "0574d7a1d06ff9ccba9bff56b36315f47a29ae14fbfd4eccc8af04a110f9cc10"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/redhat-developer/vscode-xml/releases/download/$version/lemminx-win32.zip"
+                "url": "https://gitproxy.click/https://github.com/redhat-developer/vscode-xml/releases/download/$version/lemminx-win32.zip"
             }
         }
     }

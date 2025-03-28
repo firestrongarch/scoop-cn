@@ -5,17 +5,17 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/nats-io/nats-server/releases/download/v2.11.0/nats-server-v2.11.0-windows-amd64.zip",
+            "url": "https://gitproxy.click/https://github.com/nats-io/nats-server/releases/download/v2.11.0/nats-server-v2.11.0-windows-amd64.zip",
             "hash": "131f8c47b421e6433ec0c193f68b29d2a0ef53365391dcd6c0f70740e8ec79ef",
             "extract_dir": "nats-server-v2.11.0-windows-amd64"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/nats-io/nats-server/releases/download/v2.11.0/nats-server-v2.11.0-windows-386.zip",
+            "url": "https://gitproxy.click/https://github.com/nats-io/nats-server/releases/download/v2.11.0/nats-server-v2.11.0-windows-386.zip",
             "hash": "39c7bb6bc0f9aa956cae54b4048f7b85f073b61dd5a8b1e083c1196c81af949f",
             "extract_dir": "nats-server-v2.11.0-windows-386"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/nats-io/nats-server/releases/download/v2.11.0/nats-server-v2.11.0-windows-arm64.zip",
+            "url": "https://gitproxy.click/https://github.com/nats-io/nats-server/releases/download/v2.11.0/nats-server-v2.11.0-windows-arm64.zip",
             "hash": "0fa1e7575fe619e920ac6c124e0ebefca257d34577896f246fe541aa7a927dad",
             "extract_dir": "nats-server-v2.11.0-windows-arm64"
         }
@@ -25,20 +25,20 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/nats-io/nats-server/releases/download/v$version/nats-server-v$version-windows-amd64.zip",
+                "url": "https://gitproxy.click/https://github.com/nats-io/nats-server/releases/download/v$version/nats-server-v$version-windows-amd64.zip",
                 "extract_dir": "nats-server-v$version-windows-amd64"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/nats-io/nats-server/releases/download/v$version/nats-server-v$version-windows-386.zip",
+                "url": "https://gitproxy.click/https://github.com/nats-io/nats-server/releases/download/v$version/nats-server-v$version-windows-386.zip",
                 "extract_dir": "nats-server-v$version-windows-386"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/nats-io/nats-server/releases/download/v$version/nats-server-v$version-windows-arm64.zip",
+                "url": "https://gitproxy.click/https://github.com/nats-io/nats-server/releases/download/v$version/nats-server-v$version-windows-arm64.zip",
                 "extract_dir": "nats-server-v$version-windows-arm64"
             }
         },
         "hash": {
-            "url": "https://github.7boe.top/https://github.com/nats-io/nats-server/releases/download/v$version/SHA256SUMS"
+            "url": "https://gitproxy.click/https://github.com/nats-io/nats-server/releases/download/v$version/SHA256SUMS"
         }
     }
 }

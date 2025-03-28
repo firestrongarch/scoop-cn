@@ -5,11 +5,11 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/OpenRA/OpenRA/releases/download/release-20250303/OpenRA-release-20250303-x86.exe#/dl.7z",
+            "url": "https://gitproxy.click/https://github.com/OpenRA/OpenRA/releases/download/release-20250303/OpenRA-release-20250303-x86.exe#/dl.7z",
             "hash": "b05230edba4b79341c4f4f0169459f8951c6126345d4f41c1e0efb789c1ae8f9"
         },
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/OpenRA/OpenRA/releases/download/release-20250303/OpenRA-release-20250303-x64.exe#/dl.7z",
+            "url": "https://gitproxy.click/https://github.com/OpenRA/OpenRA/releases/download/release-20250303/OpenRA-release-20250303-x64.exe#/dl.7z",
             "hash": "79a7fce85235ddde65f39f979124cf82f1dcf6aff1d5c01f3a1b7f9f464a286e"
         }
     },
@@ -40,10 +40,10 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/OpenRA/OpenRA/releases/download/release-$version/OpenRA-release-$version-x86.exe#/dl.7z"
+                "url": "https://gitproxy.click/https://github.com/OpenRA/OpenRA/releases/download/release-$version/OpenRA-release-$version-x86.exe#/dl.7z"
             },
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/OpenRA/OpenRA/releases/download/release-$version/OpenRA-release-$version-x64.exe#/dl.7z"
+                "url": "https://gitproxy.click/https://github.com/OpenRA/OpenRA/releases/download/release-$version/OpenRA-release-$version-x64.exe#/dl.7z"
             }
         }
     }

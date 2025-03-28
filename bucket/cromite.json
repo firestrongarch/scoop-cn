@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/uazo/cromite/releases/download/v134.0.6998.108-ee9852e97e8e1d0ec5edf1c1b35fd1f8b57f2929/chrome-win.zip",
+            "url": "https://gitproxy.click/https://github.com/uazo/cromite/releases/download/v134.0.6998.108-ee9852e97e8e1d0ec5edf1c1b35fd1f8b57f2929/chrome-win.zip",
             "hash": "9e83ac11f7c71bfa57ea8cd477cf4d6050e12e0e1a148ba470a9194a45a6759b"
         }
     },
@@ -44,7 +44,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/uazo/cromite/releases/download/v$version-$matchSha/chrome-win.zip"
+                "url": "https://gitproxy.click/https://github.com/uazo/cromite/releases/download/v$version-$matchSha/chrome-win.zip"
             }
         }
     }

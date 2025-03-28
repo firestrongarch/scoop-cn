@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/VladimirMarkelov/ttdl/releases/download/v4.10.0/ttdl_4.10.0_win_x64.zip",
+            "url": "https://gitproxy.click/https://github.com/VladimirMarkelov/ttdl/releases/download/v4.10.0/ttdl_4.10.0_win_x64.zip",
             "hash": "21949acb5bb9c4a79749868b978127e9c7a6070f56b69944025d63d98c903262"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/VladimirMarkelov/ttdl/releases/download/v$version/ttdl_$version_win_x64.zip"
+                "url": "https://gitproxy.click/https://github.com/VladimirMarkelov/ttdl/releases/download/v$version/ttdl_$version_win_x64.zip"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/pixop/video-compare/releases/download/20250223/video-compare-20250223-win10-x86_64.zip",
+            "url": "https://gitproxy.click/https://github.com/pixop/video-compare/releases/download/20250223/video-compare-20250223-win10-x86_64.zip",
             "hash": "62c042a71fe0826792f049a5e696166189cb1e215d95e5e71e8477c659f74d78"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/pixop/video-compare/releases/download/$version/video-compare-$version-win10-x86_64.zip"
+                "url": "https://gitproxy.click/https://github.com/pixop/video-compare/releases/download/$version/video-compare-$version-win10-x86_64.zip"
             }
         }
     }

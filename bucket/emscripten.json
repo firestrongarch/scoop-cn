@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/emscripten-core/emsdk/archive/refs/tags/4.0.6.zip",
+            "url": "https://gitproxy.click/https://github.com/emscripten-core/emsdk/archive/refs/tags/4.0.6.zip",
             "hash": "d1cb4d36845b1e00dd9a397579538bed7ce85377ce4d5cfe0c4a529b6aad83c6"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/emscripten-core/emsdk/archive/refs/tags/$version.zip"
+                "url": "https://gitproxy.click/https://github.com/emscripten-core/emsdk/archive/refs/tags/$version.zip"
             }
         },
         "extract_dir": "emsdk-$version"

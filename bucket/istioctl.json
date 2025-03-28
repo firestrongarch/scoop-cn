@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/istio/istio/releases/download/1.25.1/istioctl-1.25.1-win.zip",
+            "url": "https://gitproxy.click/https://github.com/istio/istio/releases/download/1.25.1/istioctl-1.25.1-win.zip",
             "hash": "4ecb35d7365b137a21e0462d3b57ab0b56efe1f710a4c2ba9d71e85755c60762"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/istio/istio/releases/download/$version/istioctl-$version-win.zip"
+                "url": "https://gitproxy.click/https://github.com/istio/istio/releases/download/$version/istioctl-$version-win.zip"
             }
         },
         "hash": {

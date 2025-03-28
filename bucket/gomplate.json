@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/hairyhenderson/gomplate/releases/download/v4.3.1/gomplate_windows-amd64.exe#/gomplate.exe",
+            "url": "https://gitproxy.click/https://github.com/hairyhenderson/gomplate/releases/download/v4.3.1/gomplate_windows-amd64.exe#/gomplate.exe",
             "hash": "sha512:f6de105d06eb363d84ed090aa80be0905a3664b0f3b7411e6312ba6cb48efe551f947c0e8851e3215b4d40e055e00b08738462034cd6da366003d5158e7741f8"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/hairyhenderson/gomplate/releases/download/v4.3.1/gomplate_windows-386.exe#/gomplate.exe",
+            "url": "https://gitproxy.click/https://github.com/hairyhenderson/gomplate/releases/download/v4.3.1/gomplate_windows-386.exe#/gomplate.exe",
             "hash": "sha512:51c0d28daf73efcb54c7c3e11b4675658e118a4a5568ecd9de44e3e5d6b3ff76523bcd51fc7b4242c2f94e69ee3e280c9007082e001ef138e27644a7baf7c9a1"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/hairyhenderson/gomplate/releases/download/v$version/gomplate_windows-amd64.exe#/gomplate.exe"
+                "url": "https://gitproxy.click/https://github.com/hairyhenderson/gomplate/releases/download/v$version/gomplate_windows-amd64.exe#/gomplate.exe"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/hairyhenderson/gomplate/releases/download/v$version/gomplate_windows-386.exe#/gomplate.exe"
+                "url": "https://gitproxy.click/https://github.com/hairyhenderson/gomplate/releases/download/v$version/gomplate_windows-386.exe#/gomplate.exe"
             }
         },
         "hash": {

@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/huacnlee/autocorrect/releases/download/v2.13.3/autocorrect-windows-amd64.zip",
+            "url": "https://gitproxy.click/https://github.com/huacnlee/autocorrect/releases/download/v2.13.3/autocorrect-windows-amd64.zip",
             "hash": "c81e2a88af1c340def676c5b1e6a63ac321b5e8ac9e6935b16fa73c86441647d"
         }
     },
@@ -17,7 +17,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/huacnlee/autocorrect/releases/download/v$version/autocorrect-windows-amd64.zip",
+                "url": "https://gitproxy.click/https://github.com/huacnlee/autocorrect/releases/download/v$version/autocorrect-windows-amd64.zip",
                 "hash": {
                     "url": "$url.sha256",
                     "mode": "extract",

@@ -10,7 +10,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/fredolx/open-tv/releases/download/v1.5.2/Open.TV_1.5.2_x64_en-US.msi",
+            "url": "https://gitproxy.click/https://github.com/fredolx/open-tv/releases/download/v1.5.2/Open.TV_1.5.2_x64_en-US.msi",
             "hash": "33c26594d2b658cf9ca8270ee206ec86410c7f8604c94884aac052d8037bd1d6"
         }
     },
@@ -26,7 +26,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/fredolx/open-tv/releases/download/v$version/Open.TV_$version_x64_en-US.msi"
+                "url": "https://gitproxy.click/https://github.com/fredolx/open-tv/releases/download/v$version/Open.TV_$version_x64_en-US.msi"
             }
         }
     }

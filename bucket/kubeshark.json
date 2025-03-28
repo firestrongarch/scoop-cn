@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/kubeshark/kubeshark/releases/download/v52.6.0/kubeshark.exe",
+            "url": "https://gitproxy.click/https://github.com/kubeshark/kubeshark/releases/download/v52.6.0/kubeshark.exe",
             "hash": "37df871734cc9f73e358439bb873c4cfb5491e282dae1fcfbb9a569aba549b3a"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/kubeshark/kubeshark/releases/download/v$version/kubeshark.exe",
+                "url": "https://gitproxy.click/https://github.com/kubeshark/kubeshark/releases/download/v$version/kubeshark.exe",
                 "hash": {
                     "url": "$baseurl/kubeshark_windows_amd64.sha256",
                     "regex": "$sha256"

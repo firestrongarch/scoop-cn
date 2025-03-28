@@ -5,7 +5,7 @@
     "license": "GPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/processing/processing4/releases/download/processing-1297-4.3.4/processing-4.3.4-windows-x64.zip",
+            "url": "https://gitproxy.click/https://github.com/processing/processing4/releases/download/processing-1297-4.3.4/processing-4.3.4-windows-x64.zip",
             "hash": "fd7ccc686ffc2f3a9116c3eb45fd7a5fab510c7c9ff67af215dbbed30642a98f"
         }
     },
@@ -36,7 +36,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/processing/processing4/releases/download/processing-$version/processing-$preReleaseVersion-windows-x64.zip"
+                "url": "https://gitproxy.click/https://github.com/processing/processing4/releases/download/processing-$version/processing-$preReleaseVersion-windows-x64.zip"
             }
         },
         "extract_dir": "processing-$preReleaseVersion"

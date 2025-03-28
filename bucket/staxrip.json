@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/staxrip/staxrip/releases/download/v2.46.0/StaxRip-v2.46.0-x64.7z",
+            "url": "https://gitproxy.click/https://github.com/staxrip/staxrip/releases/download/v2.46.0/StaxRip-v2.46.0-x64.7z",
             "hash": "8e9413174d81caedac94163234ef7570948e1f9ab8ffda6cdbda961d08e9f01f",
             "extract_dir": "StaxRip-v2.46.0-x64"
         }
@@ -21,7 +21,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/staxrip/staxrip/releases/download/v$version/StaxRip-v$version-x64.7z",
+                "url": "https://gitproxy.click/https://github.com/staxrip/staxrip/releases/download/v$version/StaxRip-v$version-x64.7z",
                 "extract_dir": "StaxRip-v$version-x64"
             }
         }

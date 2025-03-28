@@ -5,7 +5,7 @@
     "description": "Open source IDE for exploring and testing APIs (lightweight alternative to Postman/Insomnia)",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/usebruno/bruno/releases/download/v1.40.1/bruno_1.40.1_x64_win.zip",
+            "url": "https://gitproxy.click/https://github.com/usebruno/bruno/releases/download/v1.40.1/bruno_1.40.1_x64_win.zip",
             "hash": "2e221d4d828958bc6c862f8cb39c3bce89c546ecbad2558c2a831885c3c556f9"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/usebruno/bruno/releases/download/v$version/bruno_$version_x64_win.zip"
+                "url": "https://gitproxy.click/https://github.com/usebruno/bruno/releases/download/v$version/bruno_$version_x64_win.zip"
             }
         }
     }

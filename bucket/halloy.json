@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/squidowl/halloy/releases/download/2025.3/halloy-installer.msi",
+            "url": "https://gitproxy.click/https://github.com/squidowl/halloy/releases/download/2025.3/halloy-installer.msi",
             "hash": "84217bcf1fab8615206728ae2d6793eaa24e8b83a7ce9ee2f0c2c0c46ede0400"
         }
     },
@@ -46,7 +46,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/squidowl/halloy/releases/download/$version/halloy-installer.msi"
+                "url": "https://gitproxy.click/https://github.com/squidowl/halloy/releases/download/$version/halloy-installer.msi"
             }
         },
         "hash": {

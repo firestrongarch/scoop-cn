@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/netbirdio/netbird/releases/download/v0.39.1/netbird_0.39.1_windows_amd64_signed.tar.gz",
+            "url": "https://gitproxy.click/https://github.com/netbirdio/netbird/releases/download/v0.39.1/netbird_0.39.1_windows_amd64_signed.tar.gz",
             "hash": "45dac4f83a4f03c1d739ad40c945ac580c5f50b84008e95ddcfaab9f1f8076cf"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/netbirdio/netbird/releases/download/v$version/netbird_$version_windows_amd64_signed.tar.gz"
+                "url": "https://gitproxy.click/https://github.com/netbirdio/netbird/releases/download/v$version/netbird_$version_windows_amd64_signed.tar.gz"
             }
         }
     }

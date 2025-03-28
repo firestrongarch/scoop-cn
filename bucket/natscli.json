@@ -5,17 +5,17 @@
     "license": "Apache-2.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/nats-io/natscli/releases/download/v0.2.0/nats-0.2.0-windows-386.zip",
+            "url": "https://gitproxy.click/https://github.com/nats-io/natscli/releases/download/v0.2.0/nats-0.2.0-windows-386.zip",
             "hash": "3e68c4653504828b9ae965e14ed9947619befc9081ecae830a1281dad6bc7f30",
             "extract_dir": "nats-0.2.0-windows-386"
         },
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/nats-io/natscli/releases/download/v0.2.0/nats-0.2.0-windows-amd64.zip",
+            "url": "https://gitproxy.click/https://github.com/nats-io/natscli/releases/download/v0.2.0/nats-0.2.0-windows-amd64.zip",
             "hash": "448c499855cbe84c0fae016f02d44eef85314a182f7ed0ed9c62c898dba1f95f",
             "extract_dir": "nats-0.2.0-windows-amd64"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/nats-io/natscli/releases/download/v0.2.0/nats-0.2.0-windows-arm64.zip",
+            "url": "https://gitproxy.click/https://github.com/nats-io/natscli/releases/download/v0.2.0/nats-0.2.0-windows-arm64.zip",
             "hash": "98ce6ece6100159d5e0d9e19720bdf2e08fb8adcc406dfb7388590853dee2540",
             "extract_dir": "nats-0.2.0-windows-arm64"
         }
@@ -25,15 +25,15 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/nats-io/natscli/releases/download/v$version/nats-$version-windows-386.zip",
+                "url": "https://gitproxy.click/https://github.com/nats-io/natscli/releases/download/v$version/nats-$version-windows-386.zip",
                 "extract_dir": "nats-$version-windows-386"
             },
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/nats-io/natscli/releases/download/v$version/nats-$version-windows-amd64.zip",
+                "url": "https://gitproxy.click/https://github.com/nats-io/natscli/releases/download/v$version/nats-$version-windows-amd64.zip",
                 "extract_dir": "nats-$version-windows-amd64"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/nats-io/natscli/releases/download/v$version/nats-$version-windows-arm64.zip",
+                "url": "https://gitproxy.click/https://github.com/nats-io/natscli/releases/download/v$version/nats-$version-windows-arm64.zip",
                 "extract_dir": "nats-$version-windows-arm64"
             }
         },

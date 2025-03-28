@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/akiyosi/goneovim/releases/download/nightly/goneovim-windows.zip",
+            "url": "https://gitproxy.click/https://github.com/akiyosi/goneovim/releases/download/nightly/goneovim-windows.zip",
             "hash": "9a9de7edf7aa2d7fc73df01500252ba99f7c655389f41ce98f8f0be53688db62"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/akiyosi/goneovim/releases/download/nightly/goneovim-windows.zip"
+                "url": "https://gitproxy.click/https://github.com/akiyosi/goneovim/releases/download/nightly/goneovim-windows.zip"
             }
         }
     }

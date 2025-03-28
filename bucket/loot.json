@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/loot/loot/releases/download/0.25.2/loot_0.25.2-win64.7z",
+            "url": "https://gitproxy.click/https://github.com/loot/loot/releases/download/0.25.2/loot_0.25.2-win64.7z",
             "hash": "4719b9217b674224e68351e02518e0b2494906a90692146dee96278a0a1c5d9e"
         }
     },
@@ -29,7 +29,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/loot/loot/releases/download/$version/loot_$version-win64.7z"
+                "url": "https://gitproxy.click/https://github.com/loot/loot/releases/download/$version/loot_$version-win64.7z"
             }
         }
     }

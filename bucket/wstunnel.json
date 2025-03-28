@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/erebe/wstunnel/releases/download/v10.1.10/wstunnel_10.1.10_windows_amd64.tar.gz",
+            "url": "https://gitproxy.click/https://github.com/erebe/wstunnel/releases/download/v10.1.10/wstunnel_10.1.10_windows_amd64.tar.gz",
             "hash": "816770536c3f6f51589fdfb362db07a4701e9a32e409f908148bdf6d76976fbb"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/erebe/wstunnel/releases/download/v$version/wstunnel_$version_windows_amd64.tar.gz"
+                "url": "https://gitproxy.click/https://github.com/erebe/wstunnel/releases/download/v$version/wstunnel_$version_windows_amd64.tar.gz"
             }
         },
         "hash": {

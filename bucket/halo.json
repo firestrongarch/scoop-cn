@@ -6,13 +6,13 @@
     "suggest": {
         "JDK": "scoop-cn/openjdk"
     },
-    "url": "https://github.7boe.top/https://github.com/halo-dev/halo/releases/download/v2.20.18/halo-2.20.18.jar#/halo.jar",
+    "url": "https://gitproxy.click/https://github.com/halo-dev/halo/releases/download/v2.20.18/halo-2.20.18.jar#/halo.jar",
     "hash": "37785b88afe9999df4c0903c54923d7edea8ed529010cdbe7af6a493410e6f1e",
     "bin": "halo.jar",
     "checkver": {
         "github": "https://github.com/halo-dev/halo"
     },
     "autoupdate": {
-        "url": "https://github.7boe.top/https://github.com/halo-dev/halo/releases/download/v$version/halo-$version.jar#/halo.jar"
+        "url": "https://gitproxy.click/https://github.com/halo-dev/halo/releases/download/v$version/halo-$version.jar#/halo.jar"
     }
 }

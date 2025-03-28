@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/tofuutils/tenv/releases/download/v4.4.0/tenv_v4.4.0_Windows_x86_64.zip",
+            "url": "https://gitproxy.click/https://github.com/tofuutils/tenv/releases/download/v4.4.0/tenv_v4.4.0_Windows_x86_64.zip",
             "hash": "97b2199bf73e91d1497d1e2e9e94a4afc46bbcf5d8fb05027ac5824a1ccaa662"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/tofuutils/tenv/releases/download/v4.4.0/tenv_v4.4.0_Windows_arm64.zip",
+            "url": "https://gitproxy.click/https://github.com/tofuutils/tenv/releases/download/v4.4.0/tenv_v4.4.0_Windows_arm64.zip",
             "hash": "adb9c0551522e1031c00904b1c621155c6dccede9f0dfd80b88bf2ca71f7a457"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/tofuutils/tenv/releases/download/v$version/tenv_v$version_Windows_x86_64.zip"
+                "url": "https://gitproxy.click/https://github.com/tofuutils/tenv/releases/download/v$version/tenv_v$version_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/tofuutils/tenv/releases/download/v$version/tenv_v$version_Windows_arm64.zip"
+                "url": "https://gitproxy.click/https://github.com/tofuutils/tenv/releases/download/v$version/tenv_v$version_Windows_arm64.zip"
             }
         },
         "hash": {

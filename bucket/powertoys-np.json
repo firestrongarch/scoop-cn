@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/microsoft/PowerToys/releases/download/v0.89.0/PowerToysSetup-0.89.0-x64.exe#/setup.exe",
+            "url": "https://gitproxy.click/https://github.com/microsoft/PowerToys/releases/download/v0.89.0/PowerToysSetup-0.89.0-x64.exe#/setup.exe",
             "hash": "e18ac8f9023e341cf7dad35367fb9dddb6565d83d8155dbcddb40ae8a24ae731"
         }
     },
@@ -34,7 +34,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/microsoft/PowerToys/releases/download/$matchTag/PowerToysSetup-$version-x64.exe#/setup.exe",
+                "url": "https://gitproxy.click/https://github.com/microsoft/PowerToys/releases/download/$matchTag/PowerToysSetup-$version-x64.exe#/setup.exe",
                 "hash": {
                     "url": "https://github.com/microsoft/PowerToys/releases/tag/$matchTag",
                     "regex": ">$sha256<"

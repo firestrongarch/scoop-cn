@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/LuaLS/lua-language-server/releases/download/3.13.9/lua-language-server-3.13.9-win32-x64.zip",
+            "url": "https://gitproxy.click/https://github.com/LuaLS/lua-language-server/releases/download/3.13.9/lua-language-server-3.13.9-win32-x64.zip",
             "hash": "27e1a8ee603f8ca0f7db2b585aee2a7720616b98a9107bd2631e9fc685ba3553"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/LuaLS/lua-language-server/releases/download/3.13.9/lua-language-server-3.13.9-win32-ia32.zip",
+            "url": "https://gitproxy.click/https://github.com/LuaLS/lua-language-server/releases/download/3.13.9/lua-language-server-3.13.9-win32-ia32.zip",
             "hash": "0c2015f267bff597e73a74383e0c10fa6fedacf9b69e252b782e258d27251cd6"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/LuaLS/lua-language-server/releases/download/$version/lua-language-server-$version-win32-x64.zip"
+                "url": "https://gitproxy.click/https://github.com/LuaLS/lua-language-server/releases/download/$version/lua-language-server-$version-win32-x64.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/LuaLS/lua-language-server/releases/download/$version/lua-language-server-$version-win32-ia32.zip"
+                "url": "https://gitproxy.click/https://github.com/LuaLS/lua-language-server/releases/download/$version/lua-language-server-$version-win32-ia32.zip"
             }
         }
     }

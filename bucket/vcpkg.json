@@ -6,7 +6,7 @@
     "suggest": {
         "Git": "git"
     },
-    "url": "https://github.7boe.top/https://github.com/microsoft/vcpkg/archive/refs/tags/2025.03.19.zip",
+    "url": "https://gitproxy.click/https://github.com/microsoft/vcpkg/archive/refs/tags/2025.03.19.zip",
     "hash": "c7ed2030f502ea7b8ebe9e89e02e395f3c1a9ffca034436087db61d7d63f19d4",
     "extract_dir": "vcpkg-2025.03.19",
     "pre_install": [
@@ -49,7 +49,7 @@
         "github": "https://github.com/microsoft/vcpkg/"
     },
     "autoupdate": {
-        "url": "https://github.7boe.top/https://github.com/microsoft/vcpkg/archive/refs/tags/$version.zip",
+        "url": "https://gitproxy.click/https://github.com/microsoft/vcpkg/archive/refs/tags/$version.zip",
         "extract_dir": "vcpkg-$version"
     }
 }

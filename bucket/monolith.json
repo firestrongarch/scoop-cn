@@ -5,7 +5,7 @@
     "license": "Unlicense",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/Y2Z/monolith/releases/download/v2.10.0/monolith.exe",
+            "url": "https://gitproxy.click/https://github.com/Y2Z/monolith/releases/download/v2.10.0/monolith.exe",
             "hash": "4533995fa3582a2c1b6e4090ccd2846e2ca03af83bb8a59c0fa31a84348dd045"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/Y2Z/monolith/releases/download/v$version/monolith.exe"
+                "url": "https://gitproxy.click/https://github.com/Y2Z/monolith/releases/download/v$version/monolith.exe"
             }
         }
     }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/open-policy-agent/opa/releases/download/v1.3.0/opa_windows_amd64.exe#/opa.exe",
+            "url": "https://gitproxy.click/https://github.com/open-policy-agent/opa/releases/download/v1.3.0/opa_windows_amd64.exe#/opa.exe",
             "hash": "fe400211ec06f7fa9769fc32a9f9687bb3973aa916466836e3a92fc6956e8c8b"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/open-policy-agent/opa/releases/download/v$version/opa_windows_amd64.exe#/opa.exe"
+                "url": "https://gitproxy.click/https://github.com/open-policy-agent/opa/releases/download/v$version/opa_windows_amd64.exe#/opa.exe"
             }
         }
     }

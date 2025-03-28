@@ -5,12 +5,12 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/upx/upx/releases/download/v5.0.0/upx-5.0.0-win64.zip",
+            "url": "https://gitproxy.click/https://github.com/upx/upx/releases/download/v5.0.0/upx-5.0.0-win64.zip",
             "hash": "1cc4ce7602f42350ea7a960718d4ca8b5c8949ab79b80e709286eff0107b04ea",
             "extract_dir": "upx-5.0.0-win64"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/upx/upx/releases/download/v5.0.0/upx-5.0.0-win32.zip",
+            "url": "https://gitproxy.click/https://github.com/upx/upx/releases/download/v5.0.0/upx-5.0.0-win32.zip",
             "hash": "8c34b9cec2c225bf71f43cf2b788043d0d203d23edb54f649fbec16f34938d80",
             "extract_dir": "upx-5.0.0-win32"
         }
@@ -22,11 +22,11 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/upx/upx/releases/download/v$version/upx-$version-win64.zip",
+                "url": "https://gitproxy.click/https://github.com/upx/upx/releases/download/v$version/upx-$version-win64.zip",
                 "extract_dir": "upx-$version-win64"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/upx/upx/releases/download/v$version/upx-$version-win32.zip",
+                "url": "https://gitproxy.click/https://github.com/upx/upx/releases/download/v$version/upx-$version-win32.zip",
                 "extract_dir": "upx-$version-win32"
             }
         }

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/bufbuild/buf/releases/download/v1.50.1/buf-Windows-x86_64.exe#/buf.exe",
+            "url": "https://gitproxy.click/https://github.com/bufbuild/buf/releases/download/v1.50.1/buf-Windows-x86_64.exe#/buf.exe",
             "hash": "540bb3edd8af89dfaa5c7e4bf8f2d823464947697270dbf342bf9724ebf31400"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/bufbuild/buf/releases/download/v$version/buf-Windows-x86_64.exe#/buf.exe"
+                "url": "https://gitproxy.click/https://github.com/bufbuild/buf/releases/download/v$version/buf-Windows-x86_64.exe#/buf.exe"
             }
         },
         "hash": {

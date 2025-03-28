@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/siyuan-note/siyuan/releases/download/v3.1.26/siyuan-3.1.26-win.exe#/dl.7z",
+            "url": "https://gitproxy.click/https://github.com/siyuan-note/siyuan/releases/download/v3.1.26/siyuan-3.1.26-win.exe#/dl.7z",
             "hash": "8d3e1f49369a732ff6769dbddd1bf113e0033e5ae600bf6ffb830ed6f831a3b4",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -13,7 +13,7 @@
             ]
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/siyuan-note/siyuan/releases/download/v3.1.26/siyuan-3.1.26-win-arm64.exe#/dl.7z",
+            "url": "https://gitproxy.click/https://github.com/siyuan-note/siyuan/releases/download/v3.1.26/siyuan-3.1.26-win-arm64.exe#/dl.7z",
             "hash": "200a913a25f217a8f5995ef879111738d57008b038cf8a68fe295e93bc36478e",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\"",
@@ -33,10 +33,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/siyuan-note/siyuan/releases/download/v$version/siyuan-$version-win.exe#/dl.7z"
+                "url": "https://gitproxy.click/https://github.com/siyuan-note/siyuan/releases/download/v$version/siyuan-$version-win.exe#/dl.7z"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/siyuan-note/siyuan/releases/download/v$version/siyuan-$version-win-arm64.exe#/dl.7z"
+                "url": "https://gitproxy.click/https://github.com/siyuan-note/siyuan/releases/download/v$version/siyuan-$version-win-arm64.exe#/dl.7z"
             }
         },
         "hash": {

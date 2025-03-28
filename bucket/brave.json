@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/brave/brave-browser/releases/download/v1.76.82/brave-v1.76.82-win32-x64.zip",
+            "url": "https://gitproxy.click/https://github.com/brave/brave-browser/releases/download/v1.76.82/brave-v1.76.82-win32-x64.zip",
             "hash": "2e47ad70bef0c2cd2456456d2c32cb951a0405698026b000179c8f277c1ec11a"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/brave/brave-browser/releases/download/v1.76.82/brave-v1.76.82-win32-ia32.zip",
+            "url": "https://gitproxy.click/https://github.com/brave/brave-browser/releases/download/v1.76.82/brave-v1.76.82-win32-ia32.zip",
             "hash": "a1f7cef0ca6f0ab816e21a184f50d75676068ea9fa289d5dfb64b82f68293600"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/brave/brave-browser/releases/download/v1.76.82/brave-v1.76.82-win32-arm64.zip",
+            "url": "https://gitproxy.click/https://github.com/brave/brave-browser/releases/download/v1.76.82/brave-v1.76.82-win32-arm64.zip",
             "hash": "3aacb02b8a5a68de760d282b0716adc1f0a18fe20fba336f9a27602fc3aba5f1"
         }
     },
@@ -52,13 +52,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
+                "url": "https://gitproxy.click/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-ia32.zip"
+                "url": "https://gitproxy.click/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-ia32.zip"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-arm64.zip"
+                "url": "https://gitproxy.click/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-arm64.zip"
             }
         },
         "hash": {

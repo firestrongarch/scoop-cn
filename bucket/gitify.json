@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/gitify-app/gitify/releases/download/v6.2.0/Gitify-Setup-6.2.0.exe#/dl.7z",
+            "url": "https://gitproxy.click/https://github.com/gitify-app/gitify/releases/download/v6.2.0/Gitify-Setup-6.2.0.exe#/dl.7z",
             "hash": "sha512:df5921e4c24452d47a6dc2d67f202d60640aa170044bccc190b6238859d341ddb05e786bc5912640a4dd7625542ac16ca8d2b645d061dc4dfd48ae85c0749b36",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\" -Removal",
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/gitify-app/gitify/releases/download/v$version/Gitify-Setup-$version.exe#/dl.7z"
+                "url": "https://gitproxy.click/https://github.com/gitify-app/gitify/releases/download/v$version/Gitify-Setup-$version.exe#/dl.7z"
             }
         },
         "hash": {

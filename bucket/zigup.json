@@ -5,7 +5,7 @@
   "license": "MIT-0",
   "architecture": {
     "64bit": {
-      "url": "https://github.7boe.top/https://github.com/marler8997/zigup/releases/download/v2025_01_02/zigup-x86_64-windows.zip",
+      "url": "https://gitproxy.click/https://github.com/marler8997/zigup/releases/download/v2025_01_02/zigup-x86_64-windows.zip",
       "hash": "f451cdf0f217baff5de66f18961bcff7f8224990192334df3b834aaad2e11c19"
     }
   },
@@ -21,7 +21,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.7boe.top/https://github.com/marler8997/zigup/releases/download/v$version/zigup-x86_64-windows.zip"
+        "url": "https://gitproxy.click/https://github.com/marler8997/zigup/releases/download/v$version/zigup-x86_64-windows.zip"
       }
     }
   }

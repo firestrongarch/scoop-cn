@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/Picocrypt/Picocrypt/releases/download/1.47/Picocrypt.exe",
+            "url": "https://gitproxy.click/https://github.com/Picocrypt/Picocrypt/releases/download/1.47/Picocrypt.exe",
             "hash": "e6dbe16cc17198836bfa0aa1b4edd26a12eaf60d0f3626de3f57f7a8745f6e62"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/Picocrypt/Picocrypt/releases/download/$version/Picocrypt.exe"
+                "url": "https://gitproxy.click/https://github.com/Picocrypt/Picocrypt/releases/download/$version/Picocrypt.exe"
             }
         }
     }

@@ -9,7 +9,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/slonopotamus/stevedore/releases/download/2.6.0/stevedore-2.6.0-x86_64.msi#/setup.msi_",
+            "url": "https://gitproxy.click/https://github.com/slonopotamus/stevedore/releases/download/2.6.0/stevedore-2.6.0-x86_64.msi#/setup.msi_",
             "hash": "02324bfbbf0bcf54e2b86825e87f5260701fb839a479eaea84f0e88051e17547"
         }
     },
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/slonopotamus/stevedore/releases/download/$version/stevedore-$version-x86_64.msi#/setup.msi_"
+                "url": "https://gitproxy.click/https://github.com/slonopotamus/stevedore/releases/download/$version/stevedore-$version-x86_64.msi#/setup.msi_"
             }
         }
     }

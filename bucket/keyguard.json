@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/AChep/keyguard-app/releases/download/r20250324/Keyguard-1.11.0.msi",
+            "url": "https://gitproxy.click/https://github.com/AChep/keyguard-app/releases/download/r20250324/Keyguard-1.11.0.msi",
             "hash": "a80183c3fa323bf0abf0ff022b5ab392349d501a3ad35839bcf2f6ad93409d63"
         }
     },
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/AChep/keyguard-app/releases/download/r$preReleaseVersion/Keyguard-$matchHead.msi"
+                "url": "https://gitproxy.click/https://github.com/AChep/keyguard-app/releases/download/r$preReleaseVersion/Keyguard-$matchHead.msi"
             }
         }
     }

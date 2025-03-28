@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/goreleaser/goreleaser/releases/download/v2.8.1/goreleaser_Windows_x86_64.zip",
+            "url": "https://gitproxy.click/https://github.com/goreleaser/goreleaser/releases/download/v2.8.1/goreleaser_Windows_x86_64.zip",
             "hash": "eaf4e90bd9a324f9d9245f492547d6ea4a80c4a0dce24969682032d9afc9a20d"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/goreleaser/goreleaser/releases/download/v2.8.1/goreleaser_Windows_i386.zip",
+            "url": "https://gitproxy.click/https://github.com/goreleaser/goreleaser/releases/download/v2.8.1/goreleaser_Windows_i386.zip",
             "hash": "d68ee15d6b20850f337eb60fed9c23d78113a5baa19e0b5c7ad6a9bdf47c37dd"
         },
         "arm64": {
-            "url": "https://github.7boe.top/https://github.com/goreleaser/goreleaser/releases/download/v2.8.1/goreleaser_Windows_arm64.zip",
+            "url": "https://gitproxy.click/https://github.com/goreleaser/goreleaser/releases/download/v2.8.1/goreleaser_Windows_arm64.zip",
             "hash": "c53c89d3aa73e996d803a8115c60c274666480343eef3f8e1cb448c95b77a0fc"
         }
     },
@@ -24,13 +24,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_x86_64.zip"
+                "url": "https://gitproxy.click/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_i386.zip"
+                "url": "https://gitproxy.click/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_i386.zip"
             },
             "arm64": {
-                "url": "https://github.7boe.top/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_arm64.zip"
+                "url": "https://gitproxy.click/https://github.com/goreleaser/goreleaser/releases/download/v$version/goreleaser_Windows_arm64.zip"
             }
         },
         "hash": {

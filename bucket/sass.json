@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/sass/dart-sass/releases/download/1.86.0/dart-sass-1.86.0-windows-x64.zip",
+            "url": "https://gitproxy.click/https://github.com/sass/dart-sass/releases/download/1.86.0/dart-sass-1.86.0-windows-x64.zip",
             "hash": "fc3104ebe484c2b442bd376328af8046fa04d22ca3e835f1472dc14a2e30c605"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/sass/dart-sass/releases/download/1.86.0/dart-sass-1.86.0-windows-ia32.zip",
+            "url": "https://gitproxy.click/https://github.com/sass/dart-sass/releases/download/1.86.0/dart-sass-1.86.0-windows-ia32.zip",
             "hash": "d2fede08b4f4ab7240b0b919fd8f0926febabb17da90ce71ee3e5c8a9fd5488d"
         }
     },
@@ -27,10 +27,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-x64.zip"
+                "url": "https://gitproxy.click/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-x64.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-ia32.zip"
+                "url": "https://gitproxy.click/https://github.com/sass/dart-sass/releases/download/$version/dart-sass-$version-windows-ia32.zip"
             }
         }
     }

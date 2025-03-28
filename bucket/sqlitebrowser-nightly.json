@@ -5,11 +5,11 @@
     "license": "MPL-2.0|GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/sqlitebrowser/sqlitebrowser/releases/download/nightly/DB.Browser.for.SQLite-20250308-x64.zip",
+            "url": "https://gitproxy.click/https://github.com/sqlitebrowser/sqlitebrowser/releases/download/nightly/DB.Browser.for.SQLite-20250308-x64.zip",
             "hash": "e9189c70796e468e9fb90299e6ad5b4fc4a413e55dc5f95f6c6c2de36257abf6"
         },
         "32bit": {
-            "url": "https://github.7boe.top/https://github.com/sqlitebrowser/sqlitebrowser/releases/download/nightly/DB.Browser.for.SQLite-20250308-x86.zip",
+            "url": "https://gitproxy.click/https://github.com/sqlitebrowser/sqlitebrowser/releases/download/nightly/DB.Browser.for.SQLite-20250308-x86.zip",
             "hash": "fa97589b7215f5ef81784e3479656ca11707eff08b348d121885e90d6e11914b"
         }
     },
@@ -37,10 +37,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/sqlitebrowser/sqlitebrowser/releases/download/nightly/DB.Browser.for.SQLite-$matchVersion-x64.zip"
+                "url": "https://gitproxy.click/https://github.com/sqlitebrowser/sqlitebrowser/releases/download/nightly/DB.Browser.for.SQLite-$matchVersion-x64.zip"
             },
             "32bit": {
-                "url": "https://github.7boe.top/https://github.com/sqlitebrowser/sqlitebrowser/releases/download/nightly/DB.Browser.for.SQLite-$matchVersion-x86.zip"
+                "url": "https://gitproxy.click/https://github.com/sqlitebrowser/sqlitebrowser/releases/download/nightly/DB.Browser.for.SQLite-$matchVersion-x86.zip"
             }
         }
     }

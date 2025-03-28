@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.7boe.top/https://github.com/ZGGSONG/STranslate/releases/download/1.4.5.321/STranslate_1.4.5.321_win-x64_7z.7z",
+            "url": "https://gitproxy.click/https://github.com/ZGGSONG/STranslate/releases/download/1.4.5.321/STranslate_1.4.5.321_win-x64_7z.7z",
             "hash": "06078b9f9be87c2dc0fc05c8bf314cac0294dd1cf7f3e588aa201d013a7f66b6"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.7boe.top/https://github.com/ZGGSONG/STranslate/releases/download/$version/STranslate_$version_win-x64_7z.7z"
+                "url": "https://gitproxy.click/https://github.com/ZGGSONG/STranslate/releases/download/$version/STranslate_$version_win-x64_7z.7z"
             }
         },
         "hash": {
