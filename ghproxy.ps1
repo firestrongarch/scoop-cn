@@ -1,1 +1,1 @@
-$githubProxy = "https://github.7boe.top"
+$githubProxy = "https://gitproxy.click"
