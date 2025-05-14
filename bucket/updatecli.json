@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/updatecli/updatecli/releases/download/v0.99.0/updatecli_Windows_x86_64.zip",
+            "url": "https://tvv.tw/https://github.com/updatecli/updatecli/releases/download/v0.99.0/updatecli_Windows_x86_64.zip",
             "hash": "cc348f7ab5f91ea8ba0d2b41433cf364a98e8575ae43ad511201c3adbca26d6f"
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/updatecli/updatecli/releases/download/v0.99.0/updatecli_Windows_arm64.zip",
+            "url": "https://tvv.tw/https://github.com/updatecli/updatecli/releases/download/v0.99.0/updatecli_Windows_arm64.zip",
             "hash": "c82d858627481cf78d8fc68615f93efcdaf5329390426158f8ec1f2d32e5ef1b"
         }
     },
@@ -20,10 +20,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_x86_64.zip"
+                "url": "https://tvv.tw/https://github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_arm64.zip"
+                "url": "https://tvv.tw/https://github.com/updatecli/updatecli/releases/download/v$version/updatecli_Windows_arm64.zip"
             }
         },
         "hash": {

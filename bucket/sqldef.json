@@ -6,9 +6,9 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gitproxy.click/https://github.com/k0kubun/sqldef/releases/download/v1.0.6/mssqldef_windows_amd64.zip",
-                "https://gitproxy.click/https://github.com/k0kubun/sqldef/releases/download/v1.0.6/mysqldef_windows_amd64.zip",
-                "https://gitproxy.click/https://github.com/k0kubun/sqldef/releases/download/v1.0.6/sqlite3def_windows_amd64.zip"
+                "https://tvv.tw/https://github.com/k0kubun/sqldef/releases/download/v1.0.6/mssqldef_windows_amd64.zip",
+                "https://tvv.tw/https://github.com/k0kubun/sqldef/releases/download/v1.0.6/mysqldef_windows_amd64.zip",
+                "https://tvv.tw/https://github.com/k0kubun/sqldef/releases/download/v1.0.6/sqlite3def_windows_amd64.zip"
             ],
             "hash": [
                 "39762728a138804141b7df2aa5bff99f819e9f1bacbb9bd3ab36fcaabe66ac63",
@@ -27,9 +27,9 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gitproxy.click/https://github.com/k0kubun/sqldef/releases/download/v$version/mssqldef_windows_amd64.zip",
-                    "https://gitproxy.click/https://github.com/k0kubun/sqldef/releases/download/v$version/mysqldef_windows_amd64.zip",
-                    "https://gitproxy.click/https://github.com/k0kubun/sqldef/releases/download/v$version/sqlite3def_windows_amd64.zip"
+                    "https://tvv.tw/https://github.com/k0kubun/sqldef/releases/download/v$version/mssqldef_windows_amd64.zip",
+                    "https://tvv.tw/https://github.com/k0kubun/sqldef/releases/download/v$version/mysqldef_windows_amd64.zip",
+                    "https://tvv.tw/https://github.com/k0kubun/sqldef/releases/download/v$version/sqlite3def_windows_amd64.zip"
                 ]
             }
         }

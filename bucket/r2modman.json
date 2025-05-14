@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/ebkr/r2modmanPlus/releases/download/v3.1.58/r2modman-3.1.58.exe#/dl.7z",
+            "url": "https://tvv.tw/https://github.com/ebkr/r2modmanPlus/releases/download/v3.1.58/r2modman-3.1.58.exe#/dl.7z",
             "hash": "f64191f67a3fe25a42829681ed4d9ff1301eb4ce1001901f9fbb80221bed4807",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -27,7 +27,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/ebkr/r2modmanPlus/releases/download/v$version/r2modman-$version.exe#/dl.7z"
+                "url": "https://tvv.tw/https://github.com/ebkr/r2modmanPlus/releases/download/v$version/r2modman-$version.exe#/dl.7z"
             }
         }
     }

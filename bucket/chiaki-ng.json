@@ -11,7 +11,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/streetpea/chiaki-ng/releases/download/v1.9.7/chiaki-ng-win_x64-VC-portable-1.9.7.zip",
+            "url": "https://tvv.tw/https://github.com/streetpea/chiaki-ng/releases/download/v1.9.7/chiaki-ng-win_x64-VC-portable-1.9.7.zip",
             "hash": "dc70ab2d7bf81014a07496936347b346cc7ce6798f69f42b3d50007c0b391590"
         }
     },
@@ -38,7 +38,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/streetpea/chiaki-ng/releases/download/v$version/chiaki-ng-win_x64-VC-portable-$version.zip"
+                "url": "https://tvv.tw/https://github.com/streetpea/chiaki-ng/releases/download/v$version/chiaki-ng-win_x64-VC-portable-$version.zip"
             }
         }
     }

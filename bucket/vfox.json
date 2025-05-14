@@ -9,17 +9,17 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/version-fox/vfox/releases/download/v0.6.6/vfox_0.6.6_windows_x86_64.zip",
+            "url": "https://tvv.tw/https://github.com/version-fox/vfox/releases/download/v0.6.6/vfox_0.6.6_windows_x86_64.zip",
             "hash": "d920cdef4b9bc6f39804a3f57604a29fb9baae3c64d26497ace34138c2deb63e",
             "extract_dir": "vfox_0.6.6_windows_x86_64"
         },
         "32bit": {
-            "url": "https://gitproxy.click/https://github.com/version-fox/vfox/releases/download/v0.6.6/vfox_0.6.6_windows_i386.zip",
+            "url": "https://tvv.tw/https://github.com/version-fox/vfox/releases/download/v0.6.6/vfox_0.6.6_windows_i386.zip",
             "hash": "a3675e29aa027f07ef360a97aecb41c6224487abb0439882897a6f6244c64764",
             "extract_dir": "vfox_0.6.6_windows_i386"
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/version-fox/vfox/releases/download/v0.6.6/vfox_0.6.6_windows_aarch64.zip",
+            "url": "https://tvv.tw/https://github.com/version-fox/vfox/releases/download/v0.6.6/vfox_0.6.6_windows_aarch64.zip",
             "hash": "ae4b1c245068e8d23670d3657db51524710ab719223a945be461ea6758218c09",
             "extract_dir": "vfox_0.6.6_windows_aarch64"
         }
@@ -31,15 +31,15 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/version-fox/vfox/releases/download/v$version/vfox_$version_windows_x86_64.zip",
+                "url": "https://tvv.tw/https://github.com/version-fox/vfox/releases/download/v$version/vfox_$version_windows_x86_64.zip",
                 "extract_dir": "vfox_$version_windows_x86_64"
             },
             "32bit": {
-                "url": "https://gitproxy.click/https://github.com/version-fox/vfox/releases/download/v$version/vfox_$version_windows_i386.zip",
+                "url": "https://tvv.tw/https://github.com/version-fox/vfox/releases/download/v$version/vfox_$version_windows_i386.zip",
                 "extract_dir": "vfox_$version_windows_i386"
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/version-fox/vfox/releases/download/v$version/vfox_$version_windows_aarch64.zip",
+                "url": "https://tvv.tw/https://github.com/version-fox/vfox/releases/download/v$version/vfox_$version_windows_aarch64.zip",
                 "extract_dir": "vfox_$version_windows_aarch64"
             }
         },

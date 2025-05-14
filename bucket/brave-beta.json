@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/brave/brave-browser/releases/download/v1.79.105/brave-v1.79.105-win32-x64.zip",
+            "url": "https://tvv.tw/https://github.com/brave/brave-browser/releases/download/v1.79.105/brave-v1.79.105-win32-x64.zip",
             "hash": "6c5af603aa91bb2978dfe39ae01cc1d270a86ec6c7f2a0d0f1d9783baa664347"
         }
     },
@@ -31,7 +31,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
+                "url": "https://tvv.tw/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
             }
         }
     }

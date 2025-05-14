@@ -5,11 +5,11 @@
     "license": "BSD-2-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/mfontanini/presenterm/releases/download/v0.13.0/presenterm-0.13.0-x86_64-pc-windows-msvc.zip",
+            "url": "https://tvv.tw/https://github.com/mfontanini/presenterm/releases/download/v0.13.0/presenterm-0.13.0-x86_64-pc-windows-msvc.zip",
             "hash": "sha512:61e707d51412a00049b43043cb108abc035c14930e6247c89f88b90e8f58b100e6678daf24f94ea8a13c294cdf96d8f6bfe9e611f45d8cc5cca47a10d72f5c51"
         },
         "32bit": {
-            "url": "https://gitproxy.click/https://github.com/mfontanini/presenterm/releases/download/v0.13.0/presenterm-0.13.0-i686-pc-windows-msvc.zip",
+            "url": "https://tvv.tw/https://github.com/mfontanini/presenterm/releases/download/v0.13.0/presenterm-0.13.0-i686-pc-windows-msvc.zip",
             "hash": "sha512:b920d7a73e2c67ad4f11ffe9de413935e9f47fc931306c3519b6b63d871d41763c2935b7b4ae61b9a3f93025d833dcff6cf812b157a9bbbde1aa17623706b9dd"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/mfontanini/presenterm/releases/download/v$version/presenterm-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://tvv.tw/https://github.com/mfontanini/presenterm/releases/download/v$version/presenterm-$version-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gitproxy.click/https://github.com/mfontanini/presenterm/releases/download/v$version/presenterm-$version-i686-pc-windows-msvc.zip"
+                "url": "https://tvv.tw/https://github.com/mfontanini/presenterm/releases/download/v$version/presenterm-$version-i686-pc-windows-msvc.zip"
             }
         },
         "extract_dir": "presenterm-$version",

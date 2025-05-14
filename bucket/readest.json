@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/readest/readest/releases/download/v0.9.41/Readest_0.9.41_x64-portable.exe#/Readest.exe",
+            "url": "https://tvv.tw/https://github.com/readest/readest/releases/download/v0.9.41/Readest_0.9.41_x64-portable.exe#/Readest.exe",
             "hash": "d844eee6a57809a54158760432cf33141b5c190a50f57d63c51bb241643bdfa6"
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/readest/readest/releases/download/v0.9.41/Readest_0.9.41_arm64-portable.exe#/Readest.exe",
+            "url": "https://tvv.tw/https://github.com/readest/readest/releases/download/v0.9.41/Readest_0.9.41_arm64-portable.exe#/Readest.exe",
             "hash": "a7c52095f4644a345d9b216616c90ab5d59d4dfd6ecb4e28479c931d2ca4ae52"
         }
     },
@@ -28,10 +28,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/readest/readest/releases/download/v$version/Readest_$version_x64-portable.exe#/Readest.exe"
+                "url": "https://tvv.tw/https://github.com/readest/readest/releases/download/v$version/Readest_$version_x64-portable.exe#/Readest.exe"
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/readest/readest/releases/download/v$version/Readest_$version_arm64-portable.exe#/Readest.exe"
+                "url": "https://tvv.tw/https://github.com/readest/readest/releases/download/v$version/Readest_$version_arm64-portable.exe#/Readest.exe"
             }
         }
     }

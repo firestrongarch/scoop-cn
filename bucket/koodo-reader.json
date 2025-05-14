@@ -5,15 +5,15 @@
     "license": "AGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/koodo-reader/koodo-reader/releases/download/v1.9.7/Koodo-Reader-1.9.7-x64-Win.zip",
+            "url": "https://tvv.tw/https://github.com/koodo-reader/koodo-reader/releases/download/v1.9.7/Koodo-Reader-1.9.7-x64-Win.zip",
             "hash": "2ab8768cc74bec5402305def9feaff85ff7877bc8e2246321f7ba88879c6d22f"
         },
         "32bit": {
-            "url": "https://gitproxy.click/https://github.com/koodo-reader/koodo-reader/releases/download/v1.9.7/Koodo-Reader-1.9.7-ia32-Win.zip",
+            "url": "https://tvv.tw/https://github.com/koodo-reader/koodo-reader/releases/download/v1.9.7/Koodo-Reader-1.9.7-ia32-Win.zip",
             "hash": "9de00fce395f74d434da14b7bf98bb29ee3e1c9ce5d2ef8b2e9421638746ca2c"
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/koodo-reader/koodo-reader/releases/download/v1.9.7/Koodo-Reader-1.9.7-arm64-Win.zip",
+            "url": "https://tvv.tw/https://github.com/koodo-reader/koodo-reader/releases/download/v1.9.7/Koodo-Reader-1.9.7-arm64-Win.zip",
             "hash": "bf8837061083e4fe73314edf7a787de045bdd2285bb68d2812f68844ebc4a291"
         }
     },
@@ -29,13 +29,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/koodo-reader/koodo-reader/releases/download/v$version/Koodo-Reader-$version-x64-Win.zip"
+                "url": "https://tvv.tw/https://github.com/koodo-reader/koodo-reader/releases/download/v$version/Koodo-Reader-$version-x64-Win.zip"
             },
             "32bit": {
-                "url": "https://gitproxy.click/https://github.com/koodo-reader/koodo-reader/releases/download/v$version/Koodo-Reader-$version-ia32-Win.zip"
+                "url": "https://tvv.tw/https://github.com/koodo-reader/koodo-reader/releases/download/v$version/Koodo-Reader-$version-ia32-Win.zip"
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/koodo-reader/koodo-reader/releases/download/v$version/Koodo-Reader-$version-arm64-Win.zip"
+                "url": "https://tvv.tw/https://github.com/koodo-reader/koodo-reader/releases/download/v$version/Koodo-Reader-$version-arm64-Win.zip"
             }
         }
     }

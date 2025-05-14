@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/rancher/cli/releases/download/v2.11.1/rancher-windows-amd64-v2.11.1.zip",
+            "url": "https://tvv.tw/https://github.com/rancher/cli/releases/download/v2.11.1/rancher-windows-amd64-v2.11.1.zip",
             "hash": "9c3bf5fa710213fd99c219cbb393a1c1828cea250b218a4ddad156c8ddf8ca1e"
         },
         "32bit": {
-            "url": "https://gitproxy.click/https://github.com/rancher/cli/releases/download/v2.11.1/rancher-windows-386-v2.11.1.zip",
+            "url": "https://tvv.tw/https://github.com/rancher/cli/releases/download/v2.11.1/rancher-windows-386-v2.11.1.zip",
             "hash": "f423c459c09047412f06ca6a612221cc57ec7dac30001403e7a2b0aec5d603b5"
         }
     },
@@ -19,10 +19,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/rancher/cli/releases/download/v$version/rancher-windows-amd64-v$version.zip"
+                "url": "https://tvv.tw/https://github.com/rancher/cli/releases/download/v$version/rancher-windows-amd64-v$version.zip"
             },
             "32bit": {
-                "url": "https://gitproxy.click/https://github.com/rancher/cli/releases/download/v$version/rancher-windows-386-v$version.zip"
+                "url": "https://tvv.tw/https://github.com/rancher/cli/releases/download/v$version/rancher-windows-386-v$version.zip"
             }
         },
         "hash": {

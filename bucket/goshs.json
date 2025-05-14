@@ -8,15 +8,15 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/patrickhener/goshs/releases/download/v1.0.6/goshs_windows_x86_64.tar.gz",
+            "url": "https://tvv.tw/https://github.com/patrickhener/goshs/releases/download/v1.0.6/goshs_windows_x86_64.tar.gz",
             "hash": "9ee92514c52d789000095aeea7fed489e7fd26f9345e4bf213225436c325d734"
         },
         "32bit": {
-            "url": "https://gitproxy.click/https://github.com/patrickhener/goshs/releases/download/v1.0.6/goshs_windows_386.tar.gz",
+            "url": "https://tvv.tw/https://github.com/patrickhener/goshs/releases/download/v1.0.6/goshs_windows_386.tar.gz",
             "hash": "5253183bef68f9cb43ffd3b7d87b4affae47081b9c0c8c02bc7a3d06d1692ded"
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/patrickhener/goshs/releases/download/v1.0.6/goshs_windows_arm64.tar.gz",
+            "url": "https://tvv.tw/https://github.com/patrickhener/goshs/releases/download/v1.0.6/goshs_windows_arm64.tar.gz",
             "hash": "176361e119b8e8da6b8749504a64d21bf603022576c5e080bc9280edfcea62a7"
         }
     },
@@ -32,17 +32,17 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/patrickhener/goshs/releases/download/v$version/goshs_windows_x86_64.tar.gz"
+                "url": "https://tvv.tw/https://github.com/patrickhener/goshs/releases/download/v$version/goshs_windows_x86_64.tar.gz"
             },
             "32bit": {
-                "url": "https://gitproxy.click/https://github.com/patrickhener/goshs/releases/download/v$version/goshs_windows_386.tar.gz"
+                "url": "https://tvv.tw/https://github.com/patrickhener/goshs/releases/download/v$version/goshs_windows_386.tar.gz"
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/patrickhener/goshs/releases/download/v$version/goshs_windows_arm64.tar.gz"
+                "url": "https://tvv.tw/https://github.com/patrickhener/goshs/releases/download/v$version/goshs_windows_arm64.tar.gz"
             }
         },
         "hash": {
-            "url": "https://gitproxy.click/https://github.com/patrickhener/goshs/releases/download/v$version/checksums.txt"
+            "url": "https://tvv.tw/https://github.com/patrickhener/goshs/releases/download/v$version/checksums.txt"
         }
     }
 }

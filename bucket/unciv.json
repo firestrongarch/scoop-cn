@@ -6,7 +6,7 @@
     "suggest": {
         "Java Runtime Environment": "scoop-cn/temurin-jre"
     },
-    "url": "https://gitproxy.click/https://github.com/yairm210/Unciv/releases/download/4.16.9/Unciv-Windows64.zip",
+    "url": "https://tvv.tw/https://github.com/yairm210/Unciv/releases/download/4.16.9/Unciv-Windows64.zip",
     "hash": "8316d65f4a4f8a2ba65dce86b872a622d044bec00b928c54458bd055f102dca8",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\\GameSettings.json\")) {",
@@ -28,6 +28,6 @@
         "github": "https://github.com/yairm210/UnCiv"
     },
     "autoupdate": {
-        "url": "https://gitproxy.click/https://github.com/yairm210/Unciv/releases/download/$version/Unciv-Windows64.zip"
+        "url": "https://tvv.tw/https://github.com/yairm210/Unciv/releases/download/$version/Unciv-Windows64.zip"
     }
 }

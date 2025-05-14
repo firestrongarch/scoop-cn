@@ -6,7 +6,7 @@
     "suggest": {
         "JDK": "openjdk"
     },
-    "url": "https://gitproxy.click/https://github.com/jbangdev/jbang/releases/download/v0.126.0/jbang-0.126.0.zip",
+    "url": "https://tvv.tw/https://github.com/jbangdev/jbang/releases/download/v0.126.0/jbang-0.126.0.zip",
     "hash": "0a9b63d37582e1826b5ed5f93f835cdc5e5b2701bf265149657d2ee3e195a8ff",
     "extract_dir": "jbang-0.126.0",
     "env_add_path": "bin",
@@ -14,7 +14,7 @@
         "github": "https://github.com/jbangdev/jbang"
     },
     "autoupdate": {
-        "url": "https://gitproxy.click/https://github.com/jbangdev/jbang/releases/download/v$version/jbang-$version.zip",
+        "url": "https://tvv.tw/https://github.com/jbangdev/jbang/releases/download/v$version/jbang-$version.zip",
         "hash": {
             "url": "$url.sha256"
         },

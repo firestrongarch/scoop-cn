@@ -12,11 +12,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/lin-ycv/EverythingPowerToys/releases/download/v0.89.0/EverythingPT-0.89.0-x64.zip",
+            "url": "https://tvv.tw/https://github.com/lin-ycv/EverythingPowerToys/releases/download/v0.89.0/EverythingPT-0.89.0-x64.zip",
             "hash": "4eb7e839e8ef4c3eb81dcc48d927cb1f9c761b2c25eb1b41a453c08879012353"
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/lin-ycv/EverythingPowerToys/releases/download/v0.89.0/EverythingPT-0.89.0-ARM64.zip",
+            "url": "https://tvv.tw/https://github.com/lin-ycv/EverythingPowerToys/releases/download/v0.89.0/EverythingPT-0.89.0-ARM64.zip",
             "hash": "8509c35ea0922684d79009c550be64863e90103fab418189935137a78ad2a4e2"
         }
     },
@@ -32,14 +32,14 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/lin-ycv/EverythingPowerToys/releases/download/v$version/EverythingPT-$version-x64.zip",
+                "url": "https://tvv.tw/https://github.com/lin-ycv/EverythingPowerToys/releases/download/v$version/EverythingPT-$version-x64.zip",
                 "hash": {
                     "url": "https://github.com/lin-ycv/EverythingPowerToys/releases/tag/v$version",
                     "regex": "(?s)x64-ZIP.*?$sha256"
                 }
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/lin-ycv/EverythingPowerToys/releases/download/v$version/EverythingPT-$version-ARM64.zip",
+                "url": "https://tvv.tw/https://github.com/lin-ycv/EverythingPowerToys/releases/download/v$version/EverythingPT-$version-ARM64.zip",
                 "hash": {
                     "url": "https://github.com/lin-ycv/EverythingPowerToys/releases/tag/v$version",
                     "regex": "(?s)ARM64-ZIP.*?$sha256"

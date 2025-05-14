@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/RimSort/RimSort/releases/download/v1.0.17/RimSort-v1.0.17-Windows_x86_64.zip",
+            "url": "https://tvv.tw/https://github.com/RimSort/RimSort/releases/download/v1.0.17/RimSort-v1.0.17-Windows_x86_64.zip",
             "hash": "41e1172e3911f60211ffc4abeb5de9d9cdc5792251508098b25f9e45acebcf81"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/RimSort/RimSort/releases/download/v$version/RimSort-v$version-Windows_x86_64.zip"
+                "url": "https://tvv.tw/https://github.com/RimSort/RimSort/releases/download/v$version/RimSort-v$version-Windows_x86_64.zip"
             }
         }
     }

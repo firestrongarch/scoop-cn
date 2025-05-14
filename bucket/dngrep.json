@@ -5,11 +5,11 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/dnGrep/dnGrep/releases/download/v4.5.8.0/dnGREP.4.5.8.x64.msi",
+            "url": "https://tvv.tw/https://github.com/dnGrep/dnGrep/releases/download/v4.5.8.0/dnGREP.4.5.8.x64.msi",
             "hash": "9276698a34394fd96655753e56a30d2cd0ae7109b1f3a80c1ff4e2aa9dc9960a"
         },
         "32bit": {
-            "url": "https://gitproxy.click/https://github.com/dnGrep/dnGrep/releases/download/v4.5.8.0/dnGREP.4.5.8.x86.msi",
+            "url": "https://tvv.tw/https://github.com/dnGrep/dnGrep/releases/download/v4.5.8.0/dnGREP.4.5.8.x86.msi",
             "hash": "7e614348f9a5dbc47e76d114fc315bcd93fbd5b64af6ae112194bab1625e5fc9"
         }
     },
@@ -34,10 +34,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x64.msi"
+                "url": "https://tvv.tw/https://github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x64.msi"
             },
             "32bit": {
-                "url": "https://gitproxy.click/https://github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x86.msi"
+                "url": "https://tvv.tw/https://github.com/dnGrep/dnGrep/releases/download/v$version/dnGREP.$matchHead.x86.msi"
             }
         },
         "hash": {

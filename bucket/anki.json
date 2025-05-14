@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/ankitects/anki/releases/download/25.02.4/anki-25.02.4-windows-qt6.exe#/dl.7z",
+            "url": "https://tvv.tw/https://github.com/ankitects/anki/releases/download/25.02.4/anki-25.02.4-windows-qt6.exe#/dl.7z",
             "hash": "5d1041ad76457c79a6915ac612b8a2fcd6b9216370d03d199d4b54e5bb3678ee"
         }
     },
@@ -37,7 +37,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/ankitects/anki/releases/download/$version/anki-$version-windows-qt6.exe#/dl.7z"
+                "url": "https://tvv.tw/https://github.com/ankitects/anki/releases/download/$version/anki-$version-windows-qt6.exe#/dl.7z"
             }
         },
         "hash": {

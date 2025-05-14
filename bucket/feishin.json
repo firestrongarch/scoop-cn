@@ -5,7 +5,7 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/jeffvli/feishin/releases/download/v0.12.7/Feishin-0.12.7-win-x64.zip",
+            "url": "https://tvv.tw/https://github.com/jeffvli/feishin/releases/download/v0.12.7/Feishin-0.12.7-win-x64.zip",
             "hash": "2d0e3bf24fd542d007fba2054da5945ce92daca78497b1e59b0915fdd566f2fd"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/jeffvli/feishin/releases/download/v$version/Feishin-$version-win-x64.zip"
+                "url": "https://tvv.tw/https://github.com/jeffvli/feishin/releases/download/v$version/Feishin-$version-win-x64.zip"
             }
         }
     }

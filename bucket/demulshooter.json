@@ -8,7 +8,7 @@
         "The usage instructions for the app can be found here: https://github.com/argonlefou/DemulShooter/wiki/Usage",
         ""
     ],
-    "url": "https://gitproxy.click/https://github.com/argonlefou/DemulShooter/releases/download/v15.3/DemulShooter_v15.3.zip",
+    "url": "https://tvv.tw/https://github.com/argonlefou/DemulShooter/releases/download/v15.3/DemulShooter_v15.3.zip",
     "hash": "d845c72a9a3388dd5ef9f376b41e9f475c8bb72080b32f0292d09447e98d82ed",
     "pre_install": "if (!(Test-Path \"$persist_dir\\config.ini\")) { New-Item -ItemType File \"$dir\\config.ini\" | Out-Null }",
     "shortcuts": [
@@ -20,6 +20,6 @@
     "persist": "config.ini",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://gitproxy.click/https://github.com/argonlefou/DemulShooter/releases/download/v$version/DemulShooter_v$version.zip"
+        "url": "https://tvv.tw/https://github.com/argonlefou/DemulShooter/releases/download/v$version/DemulShooter_v$version.zip"
     }
 }

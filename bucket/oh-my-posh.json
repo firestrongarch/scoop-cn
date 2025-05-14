@@ -7,8 +7,8 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/themes.zip",
-                "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/posh-windows-amd64.exe#/oh-my-posh.exe"
+                "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/themes.zip",
+                "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/posh-windows-amd64.exe#/oh-my-posh.exe"
             ],
             "hash": [
                 "d2c298506fd53e7891c4ab1a5df4d2c344c482bcefaa56c666f5bce77f813efd",
@@ -17,8 +17,8 @@
         },
         "32bit": {
             "url": [
-                "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/themes.zip",
-                "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/posh-windows-386.exe#/oh-my-posh.exe"
+                "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/themes.zip",
+                "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/posh-windows-386.exe#/oh-my-posh.exe"
             ],
             "hash": [
                 "d2c298506fd53e7891c4ab1a5df4d2c344c482bcefaa56c666f5bce77f813efd",
@@ -27,8 +27,8 @@
         },
         "arm64": {
             "url": [
-                "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/themes.zip",
-                "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/posh-windows-arm64.exe#/oh-my-posh.exe"
+                "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/themes.zip",
+                "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v25.23.0/posh-windows-arm64.exe#/oh-my-posh.exe"
             ],
             "hash": [
                 "d2c298506fd53e7891c4ab1a5df4d2c344c482bcefaa56c666f5bce77f813efd",
@@ -48,20 +48,20 @@
         "architecture": {
             "64bit": {
                 "url": [
-                    "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
-                    "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-amd64.exe#/oh-my-posh.exe"
+                    "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
+                    "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-amd64.exe#/oh-my-posh.exe"
                 ]
             },
             "32bit": {
                 "url": [
-                    "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
-                    "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-386.exe#/oh-my-posh.exe"
+                    "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
+                    "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-386.exe#/oh-my-posh.exe"
                 ]
             },
             "arm64": {
                 "url": [
-                    "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
-                    "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-arm64.exe#/oh-my-posh.exe"
+                    "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
+                    "https://tvv.tw/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-arm64.exe#/oh-my-posh.exe"
                 ]
             }
         },

@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/containerd/containerd/releases/download/v2.1.0/containerd-2.1.0-windows-amd64.tar.gz",
+            "url": "https://tvv.tw/https://github.com/containerd/containerd/releases/download/v2.1.0/containerd-2.1.0-windows-amd64.tar.gz",
             "hash": "8f77a6a3b090fe7f2b4debf9030cb5e0c5d9efaeaaf63ebd318368b7320d883d"
         }
     },
@@ -20,7 +20,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/containerd/containerd/releases/download/v$version/containerd-$version-windows-amd64.tar.gz"
+                "url": "https://tvv.tw/https://github.com/containerd/containerd/releases/download/v$version/containerd-$version-windows-amd64.tar.gz"
             }
         },
         "hash": {

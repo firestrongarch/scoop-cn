@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/questdb/questdb/releases/download/8.3.1/questdb-8.3.1-no-jre-bin.tar.gz",
+            "url": "https://tvv.tw/https://github.com/questdb/questdb/releases/download/8.3.1/questdb-8.3.1-no-jre-bin.tar.gz",
             "hash": "cba6ce74034444cfb6d64aafe6d9fa8915711179f7774295cf63fc6243b4ff43",
             "extract_dir": "questdb-8.3.1-no-jre-bin"
         }
@@ -25,7 +25,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/questdb/questdb/releases/download/$version/questdb-$version-no-jre-bin.tar.gz",
+                "url": "https://tvv.tw/https://github.com/questdb/questdb/releases/download/$version/questdb-$version-no-jre-bin.tar.gz",
                 "extract_dir": "questdb-$version-no-jre-bin"
             }
         }

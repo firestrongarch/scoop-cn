@@ -10,11 +10,11 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/jdx/mise/releases/download/v2025.5.3/mise-v2025.5.3-windows-x64.zip",
+            "url": "https://tvv.tw/https://github.com/jdx/mise/releases/download/v2025.5.3/mise-v2025.5.3-windows-x64.zip",
             "hash": "52540ca11f087f8a681318602a40a13123cd8a6954133737ab3f189cc6ce7e31"
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/jdx/mise/releases/download/v2025.5.3/mise-v2025.5.3-windows-arm64.zip",
+            "url": "https://tvv.tw/https://github.com/jdx/mise/releases/download/v2025.5.3/mise-v2025.5.3-windows-arm64.zip",
             "hash": "df7a29084e8d8dc09a7f3ddcce8ff3143e703f457e094747e281d2ef62a262be"
         }
     },
@@ -26,10 +26,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-x64.zip"
+                "url": "https://tvv.tw/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-x64.zip"
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-arm64.zip"
+                "url": "https://tvv.tw/https://github.com/jdx/mise/releases/download/v$version/mise-v$version-windows-arm64.zip"
             }
         },
         "hash": {

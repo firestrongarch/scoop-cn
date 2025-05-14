@@ -5,7 +5,7 @@
     "license": "NCSA",
     "architecture": {
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.4/LLVM-20.1.4-woa64.exe#/dl.7z",
+            "url": "https://tvv.tw/https://github.com/llvm/llvm-project/releases/download/llvmorg-20.1.4/LLVM-20.1.4-woa64.exe#/dl.7z",
             "hash": "05d7c08975ab30eb3cbbae081c33dd4a9e7d7e9bd58135f7bf6a34b8692b14a8"
         }
     },
@@ -22,7 +22,7 @@
     "autoupdate": {
         "architecture": {
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/LLVM-$version-woa64.exe#/dl.7z"
+                "url": "https://tvv.tw/https://github.com/llvm/llvm-project/releases/download/llvmorg-$version/LLVM-$version-woa64.exe#/dl.7z"
             }
         }
     }

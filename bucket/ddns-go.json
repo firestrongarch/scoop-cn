@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "32bit": {
-            "url": "https://gitproxy.click/https://github.com/jeessy2/ddns-go/releases/download/v6.9.2/ddns-go_6.9.2_windows_i386.zip",
+            "url": "https://tvv.tw/https://github.com/jeessy2/ddns-go/releases/download/v6.9.2/ddns-go_6.9.2_windows_i386.zip",
             "hash": "ceab17cfcf47c6aeed902b70ee8d70d2dd6e004dfa7e7d303c113134cf6142a9"
         },
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/jeessy2/ddns-go/releases/download/v6.9.2/ddns-go_6.9.2_windows_x86_64.zip",
+            "url": "https://tvv.tw/https://github.com/jeessy2/ddns-go/releases/download/v6.9.2/ddns-go_6.9.2_windows_x86_64.zip",
             "hash": "ac5e9c72785c38351ddd9874536de24203b13da5022cf36148b53f2f94ace239"
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/jeessy2/ddns-go/releases/download/v6.9.2/ddns-go_6.9.2_windows_arm64.zip",
+            "url": "https://tvv.tw/https://github.com/jeessy2/ddns-go/releases/download/v6.9.2/ddns-go_6.9.2_windows_arm64.zip",
             "hash": "93977c6de5a1926c331af9e4766b9e17c77f00c76c33ec7d8bf5682fcb20d9ea"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "32bit": {
-                "url": "https://gitproxy.click/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_i386.zip"
+                "url": "https://tvv.tw/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_i386.zip"
             },
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_x86_64.zip"
+                "url": "https://tvv.tw/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_x86_64.zip"
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_arm64.zip"
+                "url": "https://tvv.tw/https://github.com/jeessy2/ddns-go/releases/download/v$version/ddns-go_$version_windows_arm64.zip"
             }
         },
         "hash": {

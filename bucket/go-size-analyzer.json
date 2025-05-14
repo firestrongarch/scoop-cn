@@ -5,11 +5,11 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/Zxilly/go-size-analyzer/releases/download/v1.9.0/go-size-analyzer_windows_amd64.zip",
+            "url": "https://tvv.tw/https://github.com/Zxilly/go-size-analyzer/releases/download/v1.9.0/go-size-analyzer_windows_amd64.zip",
             "hash": "09dcc257162992f09eccd76a343d4c2c5d3f1281fbd9ed8f27de389fc2befb68"
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/Zxilly/go-size-analyzer/releases/download/v1.9.0/go-size-analyzer_windows_arm64.zip",
+            "url": "https://tvv.tw/https://github.com/Zxilly/go-size-analyzer/releases/download/v1.9.0/go-size-analyzer_windows_arm64.zip",
             "hash": "45c13fe0dc9b24d5284f4efbf395eb63df8999f78ef83b70bc5d79dac8f32031"
         }
     },
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/Zxilly/go-size-analyzer/releases/download/v$version/go-size-analyzer_windows_amd64.zip"
+                "url": "https://tvv.tw/https://github.com/Zxilly/go-size-analyzer/releases/download/v$version/go-size-analyzer_windows_amd64.zip"
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/Zxilly/go-size-analyzer/releases/download/v$version/go-size-analyzer_windows_arm64.zip"
+                "url": "https://tvv.tw/https://github.com/Zxilly/go-size-analyzer/releases/download/v$version/go-size-analyzer_windows_arm64.zip"
             }
         },
         "hash": {

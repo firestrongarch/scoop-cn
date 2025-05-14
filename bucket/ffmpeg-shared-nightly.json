@@ -5,7 +5,7 @@
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2025-05-13-13-56/ffmpeg-N-119465-g9980a0b9b1-win64-gpl-shared.zip",
+            "url": "https://tvv.tw/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2025-05-13-13-56/ffmpeg-N-119465-g9980a0b9b1-win64-gpl-shared.zip",
             "hash": "31d0eb1e8117e56a1b9123727344f09f54b006a98ded84c6f5490c4850b79f30",
             "extract_dir": "ffmpeg-N-119465-g9980a0b9b1-win64-gpl-shared"
         }
@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchTime/ffmpeg-N-$version-g$matchHash-win64-gpl-shared.zip",
+                "url": "https://tvv.tw/https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-$matchTime/ffmpeg-N-$version-g$matchHash-win64-gpl-shared.zip",
                 "extract_dir": "ffmpeg-N-$version-g$matchHash-win64-gpl-shared"
             }
         }

@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/helmfile/helmfile/releases/download/v1.0.0/helmfile_1.0.0_windows_amd64.tar.gz",
+            "url": "https://tvv.tw/https://github.com/helmfile/helmfile/releases/download/v1.0.0/helmfile_1.0.0_windows_amd64.tar.gz",
             "hash": "be949cd7c244172d7e5561ae56e9e4c39661aec299b0452c25c6dab90aaa03eb"
         },
         "32bit": {
-            "url": "https://gitproxy.click/https://github.com/helmfile/helmfile/releases/download/v1.0.0/helmfile_1.0.0_windows_386.tar.gz",
+            "url": "https://tvv.tw/https://github.com/helmfile/helmfile/releases/download/v1.0.0/helmfile_1.0.0_windows_386.tar.gz",
             "hash": "1ff1a3c5cac9e1a5e4ef6b717dce8c6520e29965435fd59ad567c35677109ff3"
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/helmfile/helmfile/releases/download/v1.0.0/helmfile_1.0.0_windows_arm64.tar.gz",
+            "url": "https://tvv.tw/https://github.com/helmfile/helmfile/releases/download/v1.0.0/helmfile_1.0.0_windows_arm64.tar.gz",
             "hash": "ed1356926a4fa765cc0e7ec12c97808a5b4523f2eea24125713f6df8f93d8dc9"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_amd64.tar.gz"
+                "url": "https://tvv.tw/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_amd64.tar.gz"
             },
             "32bit": {
-                "url": "https://gitproxy.click/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_386.tar.gz"
+                "url": "https://tvv.tw/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_386.tar.gz"
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_arm64.tar.gz"
+                "url": "https://tvv.tw/https://github.com/helmfile/helmfile/releases/download/v$version/helmfile_$version_windows_arm64.tar.gz"
             }
         },
         "hash": {

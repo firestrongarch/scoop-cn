@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/martinrotter/rssguard/releases/download/4.8.3/rssguard-4.8.3-4d74a6f4f-win10.7z",
+            "url": "https://tvv.tw/https://github.com/martinrotter/rssguard/releases/download/4.8.3/rssguard-4.8.3-4d74a6f4f-win10.7z",
             "hash": "24b7c26b53b9ac8d3c943296bb73a3a60de795cdb3d5c513bf326b63b32f465f"
         }
     },
@@ -28,7 +28,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/martinrotter/rssguard/releases/download/$version/rssguard-$version-$matchCommit-win10.7z"
+                "url": "https://tvv.tw/https://github.com/martinrotter/rssguard/releases/download/$version/rssguard-$version-$matchCommit-win10.7z"
             }
         }
     }

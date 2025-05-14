@@ -6,7 +6,7 @@
     "depends": "scoop-cn/pandoc",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.18.2/pandoc-crossref-Windows-X64.7z",
+            "url": "https://tvv.tw/https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.18.2/pandoc-crossref-Windows-X64.7z",
             "hash": "6cb50cbca9a9505fab689a1f8fc0b685dafcd25743a27764d40835256c3e72c8"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/lierdakil/pandoc-crossref/releases/download/v$version/pandoc-crossref-Windows-X64.7z"
+                "url": "https://tvv.tw/https://github.com/lierdakil/pandoc-crossref/releases/download/v$version/pandoc-crossref-Windows-X64.7z"
             }
         }
     }

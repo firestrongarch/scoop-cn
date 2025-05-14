@@ -5,7 +5,7 @@
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/simplex-chat/simplex-chat/releases/download/v6.3.3/simplex-chat-windows-x86-64#/simplex-chat.exe",
+            "url": "https://tvv.tw/https://github.com/simplex-chat/simplex-chat/releases/download/v6.3.3/simplex-chat-windows-x86-64#/simplex-chat.exe",
             "hash": "76f7b8f1724fbbf7130fb4c284fdde59c8891c231499f2e482e491b83501b829"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/simplex-chat/simplex-chat/releases/download/v$version/simplex-chat-windows-x86-64#/simplex-chat.exe"
+                "url": "https://tvv.tw/https://github.com/simplex-chat/simplex-chat/releases/download/v$version/simplex-chat-windows-x86-64#/simplex-chat.exe"
             }
         }
     }

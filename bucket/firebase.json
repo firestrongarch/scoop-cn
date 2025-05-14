@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/firebase/firebase-tools/releases/download/v14.3.1/firebase-tools-win.exe#/firebase.exe",
+            "url": "https://tvv.tw/https://github.com/firebase/firebase-tools/releases/download/v14.3.1/firebase-tools-win.exe#/firebase.exe",
             "hash": "d4f31061251bed666914d7c94f6e9bb0a8d30e6daa97bcbc3bd080b0a28611c8"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/firebase/firebase-tools/releases/download/v$version/firebase-tools-win.exe#/firebase.exe"
+                "url": "https://tvv.tw/https://github.com/firebase/firebase-tools/releases/download/v$version/firebase-tools-win.exe#/firebase.exe"
             }
         }
     }

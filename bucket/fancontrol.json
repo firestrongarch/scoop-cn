@@ -8,7 +8,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/Rem0o/FanControl.Releases/releases/download/V224/FanControl_224_net_8_0.zip",
+            "url": "https://tvv.tw/https://github.com/Rem0o/FanControl.Releases/releases/download/V224/FanControl_224_net_8_0.zip",
             "hash": "03fc980a3fb5c33214589c4ecd2eb573e8058c9d22ca96c1b3abfff86ad4e24c"
         }
     },
@@ -30,7 +30,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/Rem0o/FanControl.Releases/releases/download/V$version/FanControl_$version_net_$matchNetver.zip"
+                "url": "https://tvv.tw/https://github.com/Rem0o/FanControl.Releases/releases/download/V$version/FanControl_$version_net_$matchNetver.zip"
             }
         }
     }

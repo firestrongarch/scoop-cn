@@ -51,7 +51,7 @@
         }
     },
     "checkver": {
-        "url": "https://gitproxy.click/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/process-explorer.md",
+        "url": "https://tvv.tw/https://raw.githubusercontent.com/MicrosoftDocs/sysinternals/main/sysinternals/downloads/process-explorer.md",
         "regex": "#.*?v([\\d.]+)"
     },
     "autoupdate": {

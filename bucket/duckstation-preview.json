@@ -16,7 +16,7 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/stenzek/duckstation/releases/download/preview/duckstation-windows-x64-release.zip",
+            "url": "https://tvv.tw/https://github.com/stenzek/duckstation/releases/download/preview/duckstation-windows-x64-release.zip",
             "hash": "73f405c68e3ba0d555d9b66de807446ed467671fe27269cd6708643299c2d43e",
             "post_install": [
                 "New-item \"$dir\\portable.txt\" -ItemType File | Out-Null",
@@ -34,7 +34,7 @@
             ]
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/stenzek/duckstation/releases/download/preview/duckstation-windows-ARM64-release.zip",
+            "url": "https://tvv.tw/https://github.com/stenzek/duckstation/releases/download/preview/duckstation-windows-ARM64-release.zip",
             "hash": "b9e3ad58a7cdeb34f4af6ac85b42efab2a6bab2765d00dbfa20f4e1711bfe02d",
             "post_install": [
                 "New-item \"$dir\\portable.txt\" -ItemType File | Out-Null",
@@ -92,10 +92,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/stenzek/duckstation/releases/download/preview/duckstation-windows-x64-release.zip"
+                "url": "https://tvv.tw/https://github.com/stenzek/duckstation/releases/download/preview/duckstation-windows-x64-release.zip"
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/stenzek/duckstation/releases/download/preview/duckstation-windows-ARM64-release.zip"
+                "url": "https://tvv.tw/https://github.com/stenzek/duckstation/releases/download/preview/duckstation-windows-ARM64-release.zip"
             }
         }
     }

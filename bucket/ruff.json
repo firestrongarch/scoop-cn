@@ -5,15 +5,15 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/astral-sh/ruff/releases/download/0.11.9/ruff-x86_64-pc-windows-msvc.zip",
+            "url": "https://tvv.tw/https://github.com/astral-sh/ruff/releases/download/0.11.9/ruff-x86_64-pc-windows-msvc.zip",
             "hash": "b3c7144d40b3860b104cb88e5c8a95a326b81b3d305b9b6a2ce304761b8508c3"
         },
         "32bit": {
-            "url": "https://gitproxy.click/https://github.com/astral-sh/ruff/releases/download/0.11.9/ruff-i686-pc-windows-msvc.zip",
+            "url": "https://tvv.tw/https://github.com/astral-sh/ruff/releases/download/0.11.9/ruff-i686-pc-windows-msvc.zip",
             "hash": "17dd0dc46c38bf1fe4af50f1cc5b128054a43182cfb643d5ab2ac0382e94719b"
         },
         "arm64": {
-            "url": "https://gitproxy.click/https://github.com/astral-sh/ruff/releases/download/0.11.9/ruff-aarch64-pc-windows-msvc.zip",
+            "url": "https://tvv.tw/https://github.com/astral-sh/ruff/releases/download/0.11.9/ruff-aarch64-pc-windows-msvc.zip",
             "hash": "bebd2f05e37101023d32ca6b0a6ca1f619b0c5faccde7df0960d96bcc2bcf8bc"
         }
     },
@@ -22,13 +22,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/astral-sh/ruff/releases/download/$version/ruff-x86_64-pc-windows-msvc.zip"
+                "url": "https://tvv.tw/https://github.com/astral-sh/ruff/releases/download/$version/ruff-x86_64-pc-windows-msvc.zip"
             },
             "32bit": {
-                "url": "https://gitproxy.click/https://github.com/astral-sh/ruff/releases/download/$version/ruff-i686-pc-windows-msvc.zip"
+                "url": "https://tvv.tw/https://github.com/astral-sh/ruff/releases/download/$version/ruff-i686-pc-windows-msvc.zip"
             },
             "arm64": {
-                "url": "https://gitproxy.click/https://github.com/astral-sh/ruff/releases/download/$version/ruff-aarch64-pc-windows-msvc.zip"
+                "url": "https://tvv.tw/https://github.com/astral-sh/ruff/releases/download/$version/ruff-aarch64-pc-windows-msvc.zip"
             }
         },
         "hash": {

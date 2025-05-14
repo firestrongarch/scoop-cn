@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/mrjosh/helm-ls/releases/download/v0.2.1/helm_ls_windows_amd64.exe#/helm-ls.exe",
+            "url": "https://tvv.tw/https://github.com/mrjosh/helm-ls/releases/download/v0.2.1/helm_ls_windows_amd64.exe#/helm-ls.exe",
             "hash": "fdb1d471915be18070fc29f7e7ca37687edd9e5deff44ef9f642c3489655ec50"
         }
     },
@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/mrjosh/helm-ls/releases/download/v$version/helm_ls_windows_amd64.exe#/helm-ls.exe"
+                "url": "https://tvv.tw/https://github.com/mrjosh/helm-ls/releases/download/v$version/helm_ls_windows_amd64.exe#/helm-ls.exe"
             }
         },
         "hash": {

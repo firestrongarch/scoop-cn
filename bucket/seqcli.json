@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/datalust/seqcli/releases/download/v2025.1.962/seqcli-2025.1.962-win-x64.zip",
+            "url": "https://tvv.tw/https://github.com/datalust/seqcli/releases/download/v2025.1.962/seqcli-2025.1.962-win-x64.zip",
             "hash": "90becd5e0dc778ce06ca409ea8244622c541877a6f31753ed99aa827d4dd7a9d",
             "extract_dir": "seqcli-2025.1.962-win-x64"
         }
@@ -15,7 +15,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/datalust/seqcli/releases/download/v$version/seqcli-$version-win-x64.zip",
+                "url": "https://tvv.tw/https://github.com/datalust/seqcli/releases/download/v$version/seqcli-$version-win-x64.zip",
                 "extract_dir": "seqcli-$version-win-x64"
             }
         }

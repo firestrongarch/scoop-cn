@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/ekristen/aws-nuke/releases/download/v3.52.2/aws-nuke-v3.52.2-windows-amd64.zip",
+            "url": "https://tvv.tw/https://github.com/ekristen/aws-nuke/releases/download/v3.52.2/aws-nuke-v3.52.2-windows-amd64.zip",
             "hash": "6922f02c3453a35ed85cf59606872405daf6795927dfeb6262c8a50e5354aa6f"
         }
     },
@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/ekristen/aws-nuke/releases/download/v$version/aws-nuke-v$version-windows-amd64.zip"
+                "url": "https://tvv.tw/https://github.com/ekristen/aws-nuke/releases/download/v$version/aws-nuke-v$version-windows-amd64.zip"
             }
         },
         "hash": {

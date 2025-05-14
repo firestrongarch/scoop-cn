@@ -5,11 +5,11 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://gitproxy.click/https://github.com/XTLS/Xray-core/releases/download/v25.4.30/Xray-windows-64.zip",
+            "url": "https://tvv.tw/https://github.com/XTLS/Xray-core/releases/download/v25.4.30/Xray-windows-64.zip",
             "hash": "7ab4573e079825b8885f03504c3d77e9f6278a2c8ddc69a2802d50cefad42544"
         },
         "32bit": {
-            "url": "https://gitproxy.click/https://github.com/XTLS/Xray-core/releases/download/v25.4.30/Xray-windows-32.zip",
+            "url": "https://tvv.tw/https://github.com/XTLS/Xray-core/releases/download/v25.4.30/Xray-windows-32.zip",
             "hash": "75a09d7cfae439173eb22e55564c7772db977b43b60783fbaa2f704a71aa3be1"
         }
     },
@@ -24,10 +24,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitproxy.click/https://github.com/XTLS/Xray-core/releases/download/v$version/Xray-windows-64.zip"
+                "url": "https://tvv.tw/https://github.com/XTLS/Xray-core/releases/download/v$version/Xray-windows-64.zip"
             },
             "32bit": {
-                "url": "https://gitproxy.click/https://github.com/XTLS/Xray-core/releases/download/v$version/Xray-windows-32.zip"
+                "url": "https://tvv.tw/https://github.com/XTLS/Xray-core/releases/download/v$version/Xray-windows-32.zip"
             }
         }
     }
