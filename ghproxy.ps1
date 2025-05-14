@@ -1,1 +1,1 @@
-$githubProxy = "https://gitproxy.click"
+$githubProxy = "https://tvv.tw"
