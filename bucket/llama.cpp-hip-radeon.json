@@ -1,12 +1,12 @@
 {
     "version": "b7271",
-    "description": "Inference of LLaMA model in pure C/C++ (OpenCL for Adreno GPUs)",
+    "description": "Inference of LLaMA model in pure C/C++ (HIP version for AMD GPUs)",
     "homepage": "https://github.com/ggml-org/llama.cpp",
     "license": "MIT",
     "architecture": {
-        "arm64": {
-            "url": "https://tvv.tw/https://github.com/ggml-org/llama.cpp/releases/download/b7271/llama-b7271-bin-win-opencl-adreno-arm64.zip",
-            "hash": "c5a6dfa31139ad14379b044257c9bad351e41a42a473a89eee027b4cc82cd667"
+        "64bit": {
+            "url": "https://tvv.tw/https://github.com/ggml-org/llama.cpp/releases/download/b7271/llama-b7271-bin-win-hip-radeon-x64.zip",
+            "hash": "824f9cf86f490f066bc211e525e0eaf4f92555aeea55416ec3583ffac430bace"
         }
     },
     "bin": [
@@ -34,8 +34,8 @@
     },
     "autoupdate": {
         "architecture": {
-            "arm64": {
-                "url": "https://tvv.tw/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-opencl-adreno-arm64.zip"
+            "64bit": {
+                "url": "https://tvv.tw/https://github.com/ggml-org/llama.cpp/releases/download/$version/llama-$version-bin-win-hip-radeon-x64.zip"
             }
         }
     }
