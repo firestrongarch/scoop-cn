@@ -1,12 +1,15 @@
 {
     "version": "0.9.6",
-    "description": "Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.",
+    "description": "Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer (.NET 10 version).",
     "homepage": "https://github.com/LibreHardwareMonitor/LibreHardwareMonitor",
     "license": "MPL-2.0",
+    "suggest": {
+        ".NET Desktop Runtime 10.0": "scoop-cn/windowsdesktop-runtime-10.0"
+    },
     "architecture": {
         "64bit": {
-            "url": "https://tvv.tw/https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/download/v0.9.6/LibreHardwareMonitor.zip",
-            "hash": "086d9f1b5a99e643edc2cfaaac16051685b551e4c5ac0b32a57c58c0e529c001"
+            "url": "https://tvv.tw/https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/download/v0.9.6/LibreHardwareMonitor.NET.10.zip",
+            "hash": "29739c4959b01b348fddad87664066634bcfd4f46e9bf41e4e916c318bcfdb99"
         }
     },
     "pre_install": [
@@ -20,7 +23,7 @@
     "shortcuts": [
         [
             "LibreHardwareMonitor.exe",
-            "Libre Hardware Monitor"
+            "Libre Hardware Monitor (.NET 10)"
         ]
     ],
     "pre_uninstall": [
@@ -36,7 +39,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://tvv.tw/https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/download/v$version/LibreHardwareMonitor.zip"
+                "url": "https://tvv.tw/https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases/download/v$version/LibreHardwareMonitor.NET.10.zip"
             }
         }
     }
