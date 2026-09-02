@@ -1,12 +1,12 @@
 {
-    "version": "b10727",
+    "version": "b10751",
     "description": "Inference of LLaMA model in pure C/C++ (OpenVINO version)",
     "homepage": "https://github.com/ggml-org/llama.cpp",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://tvv.tw/https://github.com/ggml-org/llama.cpp/releases/download/b10727/llama-b10727-bin-win-openvino-2026.3.1-x64.zip",
-            "hash": "7cc7751fd714de920b65284c3bd4e43c16ab44f5c4f004128d7ee1ead20591a5"
+            "url": "https://tvv.tw/https://github.com/ggml-org/llama.cpp/releases/download/b10751/llama-b10751-bin-win-openvino-2026.3.1-x64.zip",
+            "hash": "fa7f7cb32ece41eec712fd243c7779d14ddff8e06c9f4d563478841f3b831d3d"
         }
     },
     "bin": [
@@ -29,7 +29,6 @@
         "llama-qwen2vl-cli.exe",
         "llama-results.exe",
         "llama-server.exe",
-        "llama-template-analysis.exe",
         "llama-tokenize.exe",
         "llama-tts.exe",
         "llama.exe"

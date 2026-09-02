@@ -1,16 +1,16 @@
 {
-    "version": "b10727",
+    "version": "b10751",
     "description": "Inference of LLaMA model in pure C/C++ (CUDA 13 version)",
     "homepage": "https://llama.app",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://tvv.tw/https://github.com/ggml-org/llama.cpp/releases/download/b10727/llama-b10727-bin-win-cuda-13.3-x64.zip",
-            "hash": "0ed2fab0cc3ec5f8d77a930a2e5c410f2e133bfd063f0afb520f56df86cd1a42"
+            "url": "https://tvv.tw/https://github.com/ggml-org/llama.cpp/releases/download/b10751/llama-b10751-bin-win-cuda-13.3-x64.zip",
+            "hash": "1e235c268d96a25c8d782d852d8bee2dc8879a8ad28d80fce7f091db45f820a6"
         },
         "arm64": {
-            "url": "https://tvv.tw/https://github.com/ggml-org/llama.cpp/releases/download/b10727/llama-b10727-bin-win-cuda-13.4-arm64.zip",
-            "hash": "6481e8ac2ecf96912c11d41f5e6e5dd47e829c75606b8773f5bb4ac3409c2a2a"
+            "url": "https://tvv.tw/https://github.com/ggml-org/llama.cpp/releases/download/b10751/llama-b10751-bin-win-cuda-13.4-arm64.zip",
+            "hash": "52c9a6c3bee1db440ce570d9cae708b0681b410e51a3c75c6bff1437ab27f200"
         }
     },
     "bin": [
@@ -30,7 +30,8 @@
         "llama-qwen2vl-cli.exe",
         "llama-server.exe",
         "llama-tokenize.exe",
-        "llama-tts.exe"
+        "llama-tts.exe",
+        "llama.exe"
     ],
     "persist": "models",
     "checkver": {
